@@ -1,0 +1,4406 @@
+{
+  "senren_mc.bgm01": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/bgm01",
+        "stream": true,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.bgm01i": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/bgm01i",
+        "stream": true,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.bgm05": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/bgm05",
+        "stream": true,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.bgm21": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/bgm21",
+        "stream": true,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.bgm22": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/bgm22",
+        "stream": true,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.bgm23": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/bgm23",
+        "stream": true,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.bgm24": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/bgm24",
+        "stream": true,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.bgm25": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/bgm25",
+        "stream": true,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.bgm26": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/bgm26",
+        "stream": true,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.bgm39": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/bgm39",
+        "stream": true,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.bgm43": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/bgm43",
+        "stream": true,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.car_door": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/car_door",
+        "stream": true,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.car_running": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/car_running",
+        "stream": true,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.car_stop": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/car_stop",
+        "stream": true,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.crowd": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/crowd",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.crowd2": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/crowd2",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gen001_001": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gen001_001",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gen001_002": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gen001_002",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gen001_003": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gen001_003",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gen001_004": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gen001_004",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gen001_005": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gen001_005",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gen001_006": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gen001_006",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gen001_007": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gen001_007",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gen001_008": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gen001_008",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gen001_009": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gen001_009",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gen001_010": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gen001_010",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gen001_011": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gen001_011",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gen001_012": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gen001_012",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gen001_013": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gen001_013",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gen001_014": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gen001_014",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gen001_015": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gen001_015",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gen001_016": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gen001_016",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gen001_017": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gen001_017",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gen001_018": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gen001_018",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gen001_019": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gen001_019",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gen001_020": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gen001_020",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gen001_021": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gen001_021",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gen001_022": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gen001_022",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gen001_023": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gen001_023",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gen001_024": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gen001_024",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gen001_025": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gen001_025",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gen001_026": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gen001_026",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gen001_027": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gen001_027",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gen001_028": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gen001_028",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gen001_029": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gen001_029",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gen001_030": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gen001_030",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gen001_031": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gen001_031",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gen001_032": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gen001_032",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gen001_033": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gen001_033",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gen001_034": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gen001_034",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gen001_035": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gen001_035",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gen001_036": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gen001_036",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gen001_037": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gen001_037",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gka001_001": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gka001_001",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gkb001_001": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gkb001_001",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.gkc001_001": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/gkc001_001",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.kfb001_001": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/kfb001_001",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.kfb001_002": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/kfb001_002",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.kfb001_003": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/kfb001_003",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.kfb001_004": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/kfb001_004",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.kfb001_005": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/kfb001_005",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.koh001_001": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/koh001_001",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.koh001_002": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/koh001_002",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.koh001_003": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/koh001_003",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.koh001_004": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/koh001_004",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.koh001_005": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/koh001_005",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.koh001_006": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/koh001_006",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.koh001_007": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/koh001_007",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.koh001_008": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/koh001_008",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.koh001_009": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/koh001_009",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.koh001_010": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/koh001_010",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.koh001_011": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/koh001_011",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.koh001_012": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/koh001_012",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.koh001_013": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/koh001_013",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.koh001_014": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/koh001_014",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.koh001_015": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/koh001_015",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.koh001_016": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/koh001_016",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.koh001_017": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/koh001_017",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.koh001_018": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/koh001_018",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.koh001_019": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/koh001_019",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.koh001_020": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/koh001_020",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.koh001_021": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/koh001_021",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.koh001_022": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/koh001_022",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.koh001_023": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/koh001_023",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.kra001_001": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/kra001_001",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.kra001_002": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/kra001_002",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.kra001_003": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/kra001_003",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.kra001_004": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/kra001_004",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.kra001_005": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/kra001_005",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.light_orb": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/light_orb",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mot001_001": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mot001_001",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mot001_002": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mot001_002",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mot001_003": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mot001_003",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mot001_004": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mot001_004",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mot001_005": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mot001_005",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mot001_006": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mot001_006",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mot001_007": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mot001_007",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mot001_008": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mot001_008",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mot001_009": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mot001_009",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_001": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_001",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_002": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_002",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_003": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_003",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_004": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_004",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_005": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_005",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_006": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_006",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_007": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_007",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_008": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_008",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_009": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_009",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_010": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_010",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_011": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_011",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_012": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_012",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_013": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_013",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_014": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_014",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_015": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_015",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_016": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_016",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_017": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_017",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_018": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_018",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_019": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_019",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_020": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_020",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_021": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_021",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_022": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_022",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_023": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_023",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_024": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_024",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_025": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_025",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_026": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_026",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_027": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_027",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_028": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_028",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_029": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_029",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_030": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_030",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_031": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_031",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_032": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_032",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_033": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_033",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_034": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_034",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_035": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_035",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_036": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_036",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_037": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_037",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_038": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_038",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_039": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_039",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_040": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_040",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_041": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_041",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_042": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_042",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_043": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_043",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_044": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_044",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_045": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_045",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_046": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_046",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_047": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_047",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_048": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_048",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_049": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_049",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_050": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_050",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_051": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_051",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_052": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_052",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_053": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_053",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_054": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_054",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_055": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_055",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_056": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_056",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_057": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_057",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_058": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_058",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_059": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_059",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_060": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_060",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_061": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_061",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_062": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_062",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_063": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_063",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_064": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_064",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_065": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_065",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_066": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_066",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_067": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_067",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_068": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_068",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.mur001_069": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/mur001_069",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.myk001_001": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/myk001_001",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.myk001_002": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/myk001_002",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.myk001_003": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/myk001_003",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.myk001_004": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/myk001_004",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.myk001_005": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/myk001_005",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.myk001_006": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/myk001_006",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.myk001_007": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/myk001_007",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.myk001_008": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/myk001_008",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.myk001_009": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/myk001_009",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.myk001_010": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/myk001_010",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.myk001_011": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/myk001_011",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.myk001_012": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/myk001_012",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.myk001_013": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/myk001_013",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.myk001_014": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/myk001_014",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.myk001_015": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/myk001_015",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.myk001_016": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/myk001_016",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.ren001_001": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/ren001_001",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.ren001_002": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/ren001_002",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.ren001_003": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/ren001_003",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.ren001_004": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/ren001_004",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.ren001_005": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/ren001_005",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.ren001_006": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/ren001_006",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.ren001_007": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/ren001_007",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.ren001_008": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/ren001_008",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.ren001_009": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/ren001_009",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.ren001_010": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/ren001_010",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.ren001_011": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/ren001_011",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.ren001_012": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/ren001_012",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.ren001_013": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/ren001_013",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.ren001_014": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/ren001_014",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.ren001_015": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/ren001_015",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.ren001_016": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/ren001_016",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.ren001_017": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/ren001_017",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.ren001_018": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/ren001_018",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.ren001_019": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/ren001_019",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.ren001_020": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/ren001_020",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.ren001_021": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/ren001_021",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.ren001_022": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/ren001_022",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.ren001_023": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/ren001_023",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.ren001_024": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/ren001_024",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.ren001_025": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/ren001_025",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.ren001_026": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/ren001_026",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.ren001_027": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/ren001_027",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.ren001_028": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/ren001_028",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.ren001_029": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/ren001_029",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.ren001_030": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/ren001_030",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.ren001_031": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/ren001_031",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.ren001_032": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/ren001_032",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.ren001_033": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/ren001_033",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.ren001_034": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/ren001_034",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_001": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_001",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_002": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_002",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_003": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_003",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_004": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_004",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_005": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_005",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_006": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_006",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_007": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_007",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_008": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_008",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_009": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_009",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_010": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_010",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_011": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_011",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_012": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_012",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_013": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_013",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_014": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_014",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_015": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_015",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_016": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_016",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_017": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_017",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_018": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_018",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_019": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_019",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_020": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_020",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_021": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_021",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_022": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_022",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_023": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_023",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_024": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_024",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_025": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_025",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_026": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_026",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_027": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_027",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_028": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_028",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_029": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_029",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_030": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_030",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_031": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_031",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_032": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_032",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_033": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_033",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_034": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_034",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_035": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_035",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_036": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_036",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_037": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_037",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_038": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_038",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_039": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_039",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_040": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_040",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_041": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_041",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_042": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_042",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_043": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_043",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_044": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_044",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_045": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_045",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_046": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_046",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_047": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_047",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_048": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_048",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_049": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_049",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_050": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_050",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_051": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_051",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_052": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_052",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_053": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_053",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_054": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_054",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_055": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_055",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_056": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_056",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_057": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_057",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_058": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_058",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_059": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_059",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_060": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_060",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_061": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_061",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_062": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_062",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_063": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_063",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_064": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_064",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_065": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_065",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_066": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_066",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_067": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_067",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_068": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_068",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_069": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_069",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_070": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_070",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_071": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_071",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_072": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_072",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_073": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_073",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_074": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_074",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_075": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_075",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_076": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_076",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_077": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_077",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_078": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_078",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_079": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_079",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_080": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_080",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_081": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_081",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_082": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_082",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_083": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_083",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_084": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_084",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_085": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_085",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_086": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_086",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_087": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_087",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_088": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_088",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_089": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_089",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_090": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_090",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_091": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_091",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_092": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_092",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_093": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_093",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_094": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_094",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_095": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_095",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_096": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_096",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_097": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_097",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_098": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_098",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.rok001_099": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/rok001_099",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.uts001_001": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/uts001_001",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.uts001_002": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/uts001_002",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.uts001_003": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/uts001_003",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.uts001_004": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/uts001_004",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.uts001_005": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/uts001_005",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.uts001_006": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/uts001_006",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.uts001_007": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/uts001_007",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.uts001_007_ref": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/uts001_007_ref",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yas001_001": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yas001_001",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yas001_002": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yas001_002",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yas001_003": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yas001_003",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yas001_004": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yas001_004",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yas001_005": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yas001_005",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yas001_006": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yas001_006",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yas001_007": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yas001_007",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yas001_008": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yas001_008",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yas001_009": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yas001_009",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yas001_010": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yas001_010",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yas001_011": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yas001_011",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yas001_012": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yas001_012",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yas001_013": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yas001_013",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yas001_014": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yas001_014",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yas001_015": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yas001_015",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yas001_016": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yas001_016",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yas001_017": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yas001_017",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yas001_018": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yas001_018",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yas001_019": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yas001_019",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yas001_020": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yas001_020",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yas001_021": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yas001_021",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yos001_001": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yos001_001",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yos001_002": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yos001_002",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yos001_003": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yos001_003",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yos001_004": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yos001_004",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yos001_005": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yos001_005",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yos001_006": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yos001_006",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yos001_007": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yos001_007",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yos001_008": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yos001_008",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yos001_009": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yos001_009",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yos001_010": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yos001_010",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yos001_011": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yos001_011",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yos001_012": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yos001_012",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yos001_013": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yos001_013",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yos001_014": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yos001_014",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yos001_015": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yos001_015",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yos001_016": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yos001_016",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yos001_017": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yos001_017",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yos001_018": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yos001_018",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yos001_019": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yos001_019",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yos001_020": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yos001_020",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "senren_mc.yos001_021": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/senren_mc/yos001_021",
+        "stream": false,
+        "load_on_low_memory": true,
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  }
+}

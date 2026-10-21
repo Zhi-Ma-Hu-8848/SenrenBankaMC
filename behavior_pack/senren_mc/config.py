@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+NAMESPACE = "senren_mc"
+CLIENT_SYSTEM = "story_client"
+SERVER_SYSTEM = "story_server"
+OPEN_COMMAND = "senren"
+OPEN_STORY_EVENT = "OpenStoryRequested"
+STORY_UI = "story"
+LAUNCHER_UI = "launcher"
+SAVE_KEY = "senren_mc_prologue_v1"
+SCREEN_NAME = "senren_screen"

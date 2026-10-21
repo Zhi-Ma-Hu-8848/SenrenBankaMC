@@ -1,0 +1,14 @@
+{
+  "format_version": 1,
+  "project": "SenrenBankaMC",
+  "behavior_pack": "behavior_pack",
+  "resource_pack": "resource_pack",
+  "entry": "senren_mc/modMain.py",
+  "platform": "NetEase ModSDK Python 2.7",
+  "story": "senren_chapter_1_1_v3",
+  "cue_count": 807,
+  "route_counts": [
+    798,
+    802
+  ]
+}

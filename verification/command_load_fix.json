@@ -1,0 +1,23 @@
+{
+  "issue": "Native test client selected only the resource pack; no behavior pack was enabled.",
+  "project": "D:\\Users\\CJK\\ChatGPT\\galgame\\SenrenBankaMC",
+  "component_id": "a50f9a72d93c416f9165124b4801c78d",
+  "behavior_packs_before": [],
+  "behavior_packs_after": [
+    "behavior_pack"
+  ],
+  "resource_packs_after": [
+    "resource_pack"
+  ],
+  "project_and_component_code_enabled": true,
+  "command_definition_sha256": "809d9e3bdb8e7c06a01e1cc45460e4628a17dc5703fb999423a1118ff7f9de5a",
+  "configuration_files_updated": 3,
+  "restart_required": true,
+  "native_command_execution_after_fix": "Not asserted; current running client still uses its startup configuration.",
+  "status": "reverted",
+  "diagnosis": "Startup-configuration hypothesis withdrawn after user clarified MCS testing.",
+  "reverted_fields": [
+    "CodeEnable",
+    "CodeEnable"
+  ]
+}

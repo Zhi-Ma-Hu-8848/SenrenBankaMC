@@ -1,0 +1,27 @@
+{
+  "authority": "MCDK native NetEase client; resized background textures and smooth sampling",
+  "background_sizes": [
+    [
+      1110,
+      640
+    ],
+    [
+      960,
+      540
+    ]
+  ],
+  "additional_blur": false,
+  "existing_scenario_effects_preserved": true,
+  "background_bytes_before": 74336923,
+  "background_bytes_after": 23592582,
+  "bilinear": true,
+  "audio_errors": [],
+  "background": "street",
+  "cue_id": "walk_014",
+  "capture": "SenrenBankaMC/verification/runtime/background_sampling.png",
+  "capture_sha256": "ce37ee508ece0074e4575456e19b813d52cda81bf1be292a6adc732d333e882d",
+  "restored_progress": {
+    "cue_id": "intro_106",
+    "mode": "world"
+  }
+}

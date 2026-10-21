@@ -1,0 +1,121 @@
+[
+  {
+    "name": "sd001aa",
+    "source": "sd001.mtn",
+    "sample_time": 37,
+    "last_time": 50,
+    "adaptation": "Static representative keyframe; particles and continuous animation omitted"
+  },
+  {
+    "name": "sd001ba",
+    "source": "sd001.mtn",
+    "sample_time": 45,
+    "last_time": 60,
+    "adaptation": "Static representative keyframe; particles and continuous animation omitted"
+  },
+  {
+    "name": "sd001bb",
+    "source": "sd001.mtn",
+    "sample_time": 0,
+    "last_time": 1,
+    "adaptation": "Static representative keyframe; particles and continuous animation omitted"
+  },
+  {
+    "name": "sd001cb",
+    "source": "sd001.mtn",
+    "sample_time": 97,
+    "last_time": 130,
+    "adaptation": "Static representative keyframe; particles and continuous animation omitted"
+  },
+  {
+    "name": "sd001dc",
+    "source": "sd001.mtn",
+    "sample_time": 38,
+    "last_time": 51,
+    "adaptation": "Static representative keyframe; particles and continuous animation omitted"
+  },
+  {
+    "name": "sd001ec",
+    "source": "sd001.mtn",
+    "sample_time": 23,
+    "last_time": 31,
+    "adaptation": "Static representative keyframe; particles and continuous animation omitted"
+  },
+  {
+    "name": "sd001ed",
+    "source": "sd001.mtn",
+    "sample_time": 23,
+    "last_time": 31,
+    "adaptation": "Static representative keyframe; particles and continuous animation omitted"
+  },
+  {
+    "name": "sd001fd",
+    "source": "sd001.mtn",
+    "sample_time": 67,
+    "last_time": 90,
+    "adaptation": "Static representative keyframe; particles and continuous animation omitted"
+  },
+  {
+    "name": "sd001gd",
+    "source": "sd001.mtn",
+    "sample_time": 67,
+    "last_time": 90,
+    "adaptation": "Static representative keyframe; particles and continuous animation omitted"
+  },
+  {
+    "name": "sd001hd",
+    "source": "sd001.mtn",
+    "sample_time": 67,
+    "last_time": 90,
+    "adaptation": "Static representative keyframe; particles and continuous animation omitted"
+  },
+  {
+    "name": "sd002aa",
+    "source": "sd002.mtn",
+    "sample_time": 0,
+    "last_time": 1,
+    "adaptation": "Static representative keyframe; particles and continuous animation omitted"
+  },
+  {
+    "name": "sd002ba",
+    "source": "sd002.mtn",
+    "sample_time": 67,
+    "last_time": 90,
+    "adaptation": "Static representative keyframe; particles and continuous animation omitted"
+  },
+  {
+    "name": "sd002bb",
+    "source": "sd002.mtn",
+    "sample_time": 67,
+    "last_time": 90,
+    "adaptation": "Static representative keyframe; particles and continuous animation omitted"
+  },
+  {
+    "name": "sd002bc",
+    "source": "sd002.mtn",
+    "sample_time": 45,
+    "last_time": 61,
+    "adaptation": "Static representative keyframe; particles and continuous animation omitted"
+  },
+  {
+    "name": "sd002cb",
+    "source": "sd002.mtn",
+    "sample_time": 45,
+    "last_time": 61,
+    "adaptation": "Static representative keyframe; particles and continuous animation omitted"
+  },
+  {
+    "name": "sd002dd",
+    "source": "sd002.mtn",
+    "sample_time": 0,
+    "last_time": 1,
+    "adaptation": "Static representative keyframe; particles and continuous animation omitted"
+  },
+  {
+    "name": "sd002de",
+    "source": "sd002.mtn",
+    "sample_time": 0,
+    "last_time": 1,
+    "adaptation": "Static representative keyframe; particles and continuous animation omitted"
+  }
+]

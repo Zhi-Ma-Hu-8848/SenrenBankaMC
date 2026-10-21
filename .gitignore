@@ -1,0 +1,19 @@
+# Local editor and test configuration
+/.mcdev.json
+/studio.json
+
+# Generated test environments and captures
+/verification/runtime/
+/verification/install_smoke/
+/verification/browser/
+/dist/
+
+# Caches and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.bak
+*.tmp
+.env
+.env.*

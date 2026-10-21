@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "chapter_cues": 807,
+  "sprites_cropped": 174,
+  "placements_checked": 585,
+  "width": 1000,
+  "height_range": [
+    657,
+    1056
+  ],
+  "pixels_before": 356352000,
+  "pixels_after": 150677000,
+  "pixel_reduction_percent": 57.7,
+  "bytes_before": 124298685,
+  "bytes_after": 49077961,
+  "file_reduction_percent": 60.5,
+  "visible_pixels_identical": true,
+  "position_and_pixel_scale_preserved": true,
+  "sampling_padding_pixels": 2,
+  "source_layers_preserved": true,
+  "dialogue_audio_cg_sd_unchanged": true
+}

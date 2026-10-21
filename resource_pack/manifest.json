@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "千恋＊万花 · 1-1 亚瑟王 资源包",
+    "description": "完整 1-1：归乡、拔刀、丛雨与求婚；任意进度选择",
+    "uuid": "42c5a696-c15f-5081-9d19-ee23437575a4",
+    "version": [
+      0,
+      1,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "5791c4ab-da87-5075-bf2a-b1c89a6beb30",
+      "version": [
+        0,
+        1,
+        0
+      ]
+    }
+  ]
+}

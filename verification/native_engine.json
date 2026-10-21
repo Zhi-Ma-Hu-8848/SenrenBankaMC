@@ -1,0 +1,608 @@
+{
+  "authority": "Actual NetEase editor engine Python/ModSDK log; not the fake adapter",
+  "log": "C:\\Users\\CJK\\AppData\\Roaming\\Sunshine\\Log\\SunshineGame.2026-10-19-13-56-38.log",
+  "log_sha256": "05544fb133f1e6582ab4638a73fe8821e804ba027a02c894be47f6960cc0e315",
+  "startup_seen": true,
+  "expected_stages": [
+    "create",
+    "title",
+    "started",
+    "voice",
+    "town",
+    "history",
+    "continued",
+    "ended",
+    "done",
+    "closing"
+  ],
+  "observed_stages": [
+    "create",
+    "title",
+    "started",
+    "voice",
+    "town",
+    "history",
+    "continued",
+    "ended",
+    "done",
+    "closing"
+  ],
+  "stage_flow_verified": true,
+  "addon_tracebacks": [],
+  "stages": [
+    {
+      "audio_errors": [],
+      "index": 0,
+      "dialogue": "",
+      "top_ui": "senren_screen",
+      "mode": "title",
+      "player": "-4294967295",
+      "active": true,
+      "controls": {
+        "/root/story/background": {
+          "visible": true,
+          "size": [
+            0.0,
+            0.0
+          ]
+        },
+        "/root/title/title": {
+          "visible": true,
+          "size": [
+            300.0,
+            40.0
+          ]
+        },
+        "/root/story/dialogue/text": {
+          "visible": true,
+          "size": [
+            0.0,
+            0.0
+          ]
+        },
+        "/root": {
+          "visible": true,
+          "size": [
+            432.0,
+            254.0
+          ]
+        },
+        "/root/title": {
+          "visible": true,
+          "size": [
+            432.0,
+            254.0
+          ]
+        },
+        "/root/story": {
+          "visible": false,
+          "size": [
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "title_text": "千恋＊万花",
+      "stage": "create"
+    },
+    {
+      "audio_errors": [],
+      "index": 0,
+      "dialogue": "",
+      "top_ui": "senren_screen",
+      "mode": "title",
+      "player": "-4294967295",
+      "active": true,
+      "controls": {
+        "/root/story/background": {
+          "visible": true,
+          "size": [
+            0.0,
+            0.0
+          ]
+        },
+        "/root/title/title": {
+          "visible": true,
+          "size": [
+            300.0,
+            40.0
+          ]
+        },
+        "/root/story/dialogue/text": {
+          "visible": true,
+          "size": [
+            0.0,
+            0.0
+          ]
+        },
+        "/root": {
+          "visible": true,
+          "size": [
+            467.0,
+            396.0
+          ]
+        },
+        "/root/title": {
+          "visible": true,
+          "size": [
+            467.0,
+            396.0
+          ]
+        },
+        "/root/story": {
+          "visible": false,
+          "size": [
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "title_text": "千恋＊万花",
+      "stage": "title"
+    },
+    {
+      "audio_errors": [],
+      "index": 0,
+      "dialogue": "",
+      "top_ui": "senren_screen",
+      "mode": "story",
+      "player": "-4294967295",
+      "active": true,
+      "controls": {
+        "/root/story/background": {
+          "visible": true,
+          "size": [
+            467.0,
+            396.0
+          ]
+        },
+        "/root/title/title": {
+          "visible": true,
+          "size": [
+            300.0,
+            40.0
+          ]
+        },
+        "/root/story/dialogue/text": {
+          "visible": true,
+          "size": [
+            403.0,
+            84.7199935913086
+          ]
+        },
+        "/root": {
+          "visible": true,
+          "size": [
+            467.0,
+            396.0
+          ]
+        },
+        "/root/title": {
+          "visible": false,
+          "size": [
+            0.0,
+            0.0
+          ]
+        },
+        "/root/story": {
+          "visible": true,
+          "size": [
+            467.0,
+            396.0
+          ]
+        }
+      },
+      "title_text": "千恋＊万花",
+      "stage": "started"
+    },
+    {
+      "audio_errors": [],
+      "index": 5,
+      "dialogue": "「先生您醒醒」",
+      "top_ui": "senren_screen",
+      "mode": "story",
+      "player": "-4294967295",
+      "active": true,
+      "controls": {
+        "/root/story/background": {
+          "visible": true,
+          "size": [
+            467.0,
+            396.0
+          ]
+        },
+        "/root/title/title": {
+          "visible": true,
+          "size": [
+            300.0,
+            40.0
+          ]
+        },
+        "/root/story/dialogue/text": {
+          "visible": true,
+          "size": [
+            403.0,
+            84.7199935913086
+          ]
+        },
+        "/root": {
+          "visible": true,
+          "size": [
+            467.0,
+            396.0
+          ]
+        },
+        "/root/title": {
+          "visible": false,
+          "size": [
+            0.0,
+            0.0
+          ]
+        },
+        "/root/story": {
+          "visible": true,
+          "size": [
+            467.0,
+            396.0
+          ]
+        }
+      },
+      "title_text": "千恋＊万花",
+      "stage": "voice"
+    },
+    {
+      "audio_errors": [],
+      "index": 25,
+      "dialogue": "「这还真有点远啊……也罢，反正好久没来了，边走边逛吧」",
+      "top_ui": "senren_screen",
+      "mode": "story",
+      "player": "-4294967295",
+      "active": true,
+      "controls": {
+        "/root/story/background": {
+          "visible": true,
+          "size": [
+            467.0,
+            396.0
+          ]
+        },
+        "/root/title/title": {
+          "visible": true,
+          "size": [
+            300.0,
+            40.0
+          ]
+        },
+        "/root/story/dialogue/text": {
+          "visible": true,
+          "size": [
+            403.0,
+            84.7199935913086
+          ]
+        },
+        "/root": {
+          "visible": true,
+          "size": [
+            467.0,
+            396.0
+          ]
+        },
+        "/root/title": {
+          "visible": false,
+          "size": [
+            0.0,
+            0.0
+          ]
+        },
+        "/root/story": {
+          "visible": true,
+          "size": [
+            467.0,
+            396.0
+          ]
+        }
+      },
+      "title_text": "千恋＊万花",
+      "stage": "town"
+    },
+    {
+      "audio_errors": [],
+      "index": 25,
+      "dialogue": "我长吁一口气，双手叉腰，使劲伸展了一下后背。",
+      "top_ui": "senren_screen",
+      "mode": "history",
+      "player": "-4294967295",
+      "active": true,
+      "controls": {
+        "/root/story/background": {
+          "visible": true,
+          "size": [
+            0.0,
+            0.0
+          ]
+        },
+        "/root/title/title": {
+          "visible": true,
+          "size": [
+            300.0,
+            40.0
+          ]
+        },
+        "/root/story/dialogue/text": {
+          "visible": true,
+          "size": [
+            -64.0,
+            -42.0
+          ]
+        },
+        "/root": {
+          "visible": true,
+          "size": [
+            467.0,
+            396.0
+          ]
+        },
+        "/root/title": {
+          "visible": false,
+          "size": [
+            0.0,
+            0.0
+          ]
+        },
+        "/root/story": {
+          "visible": false,
+          "size": [
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "title_text": "千恋＊万花",
+      "stage": "history"
+    },
+    {
+      "audio_errors": [],
+      "index": 25,
+      "dialogue": "我长吁一口气，双手叉腰，使劲伸展了一下后背。",
+      "top_ui": "senren_screen",
+      "mode": "story",
+      "player": "-4294967295",
+      "active": true,
+      "controls": {
+        "/root/story/background": {
+          "visible": true,
+          "size": [
+            467.0,
+            396.0
+          ]
+        },
+        "/root/title/title": {
+          "visible": true,
+          "size": [
+            300.0,
+            40.0
+          ]
+        },
+        "/root/story/dialogue/text": {
+          "visible": true,
+          "size": [
+            403.0,
+            84.7199935913086
+          ]
+        },
+        "/root": {
+          "visible": true,
+          "size": [
+            467.0,
+            396.0
+          ]
+        },
+        "/root/title": {
+          "visible": false,
+          "size": [
+            0.0,
+            0.0
+          ]
+        },
+        "/root/story": {
+          "visible": true,
+          "size": [
+            467.0,
+            396.0
+          ]
+        }
+      },
+      "title_text": "千恋＊万花",
+      "stage": "continued"
+    },
+    {
+      "audio_errors": [],
+      "index": 45,
+      "dialogue": "我长吁一口气，双手叉腰，使劲伸展了一下后背。",
+      "top_ui": "senren_screen",
+      "mode": "end",
+      "player": "-4294967295",
+      "active": true,
+      "controls": {
+        "/root/story/background": {
+          "visible": true,
+          "size": [
+            0.0,
+            0.0
+          ]
+        },
+        "/root/title/title": {
+          "visible": true,
+          "size": [
+            300.0,
+            40.0
+          ]
+        },
+        "/root/story/dialogue/text": {
+          "visible": true,
+          "size": [
+            -64.0,
+            -42.0
+          ]
+        },
+        "/root": {
+          "visible": true,
+          "size": [
+            467.0,
+            396.0
+          ]
+        },
+        "/root/title": {
+          "visible": false,
+          "size": [
+            0.0,
+            0.0
+          ]
+        },
+        "/root/story": {
+          "visible": false,
+          "size": [
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "title_text": "千恋＊万花",
+      "stage": "ended"
+    },
+    {
+      "audio_errors": [],
+      "index": 45,
+      "dialogue": "我可不是来旅游的，老在原地站着也不是个办法。",
+      "top_ui": "senren_screen",
+      "mode": "title",
+      "player": "-4294967295",
+      "active": true,
+      "controls": {
+        "/root/story/background": {
+          "visible": true,
+          "size": [
+            0.0,
+            0.0
+          ]
+        },
+        "/root/title/title": {
+          "visible": true,
+          "size": [
+            300.0,
+            40.0
+          ]
+        },
+        "/root/story/dialogue/text": {
+          "visible": true,
+          "size": [
+            -64.0,
+            -42.0
+          ]
+        },
+        "/root": {
+          "visible": true,
+          "size": [
+            467.0,
+            396.0
+          ]
+        },
+        "/root/title": {
+          "visible": true,
+          "size": [
+            467.0,
+            396.0
+          ]
+        },
+        "/root/story": {
+          "visible": false,
+          "size": [
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "title_text": "千恋＊万花",
+      "stage": "done"
+    },
+    {
+      "audio_errors": [],
+      "index": 45,
+      "dialogue": "我可不是来旅游的，老在原地站着也不是个办法。",
+      "top_ui": "senren_screen",
+      "mode": "title",
+      "player": "-4294967295",
+      "active": true,
+      "controls": {
+        "/root/story/background": {
+          "visible": true,
+          "size": [
+            0.0,
+            0.0
+          ]
+        },
+        "/root/title/title": {
+          "visible": true,
+          "size": [
+            300.0,
+            40.0
+          ]
+        },
+        "/root/story/dialogue/text": {
+          "visible": true,
+          "size": [
+            -64.0,
+            -42.0
+          ]
+        },
+        "/root": {
+          "visible": true,
+          "size": [
+            467.0,
+            396.0
+          ]
+        },
+        "/root/title": {
+          "visible": true,
+          "size": [
+            467.0,
+            396.0
+          ]
+        },
+        "/root/story": {
+          "visible": false,
+          "size": [
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "title_text": "千恋＊万花",
+      "stage": "closing"
+    }
+  ],
+  "probe_hud_creation": [
+    "[SENREN_PROBE] HUD created: (150.0, 80.0)"
+  ],
+  "production_source_sha256": {
+    "__init__.py": "8b084a9f378124b2b1a51563bf3c22444eb7ff33692017da28b2136ae56987ed",
+    "client/__init__.py": "8b084a9f378124b2b1a51563bf3c22444eb7ff33692017da28b2136ae56987ed",
+    "client/audio.py": "cebab8245cb2bbc095ea90054fc0b626cfdf35aaa6ab4af7dfd0a9569a1cf52a",
+    "client/launcher.py": "459b1012532873f69258d4a1c8273d07f118e818a8d13780dab93fe8af6c4b98",
+    "client/screen.py": "517927b33ea9cdf039a9725e05f3d68f694e126946329b0c7a88ff8cfb4f10e4",
+    "client/system.py": "a1e27c804938241eda7e75ba99550c86f614f8400a362ad8cf8030558b804060",
+    "config.py": "ade3c447b4b62e8d46682d9cf812a662897b51fb4f3b88bb39d4fb17c586a37c",
+    "core/__init__.py": "8b084a9f378124b2b1a51563bf3c22444eb7ff33692017da28b2136ae56987ed",
+    "core/story.py": "4f4cbc52c834bdae9792976885033057736850f7e42913da4cdb2be05164af8e",
+    "data/__init__.py": "9552f854fcf77389160a08cfb4be2eb902cd9a0c0af76ab57df02cbf9125d369",
+    "data/prologue.py": "65741e4234703913a40c8bda2127a089e9a7f2ceafd8114b6fee6394f98dda8e",
+    "modMain.py": "ddd79d36c552dd91a612b89acdb190873cd5f026277397cb853680a4f63d60ce"
+  },
+  "verification_limits": [
+    "The diagnostic subclass invokes the actual addon methods; it does not verify physical button input.",
+    "Audio calls had no reported errors in these stages; audible output has not been verified.",
+    "The editor viewport was white in both window and monitor graphics captures, including after closing the story menu.",
+    "Visual output and game-window input remain unverified. This report does not establish a finished playable port."
+  ],
+  "completion_verified": false
+}

@@ -1,0 +1,6053 @@
+[
+  {
+    "sprite": "genjuro_7b2ef8_1_01",
+    "original_base": "玄十郎a",
+    "options": {
+      "dress": "私服",
+      "face": "01",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "1083",
+      "1099",
+      "1113"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      745
+    ],
+    "sha256": "98f8534b65e5836308d5d1d7fd777b149cfad9a3577028730e75d66294d32ce0",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      745
+    ]
+  },
+  {
+    "sprite": "genjuro_7b2ef8_1_02",
+    "original_base": "玄十郎a",
+    "options": {
+      "dress": "私服",
+      "face": "02",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "1083",
+      "1100",
+      "1113"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      686
+    ],
+    "sha256": "45cec3544934aa61a290600e0c4f0e6e89e6d6d35be39d57da192d25c8f2604d",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      686
+    ]
+  },
+  {
+    "sprite": "genjuro_7b2ef8_1_04",
+    "original_base": "玄十郎a",
+    "options": {
+      "dress": "私服",
+      "face": "04",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "1083",
+      "1102",
+      "1113"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      779
+    ],
+    "sha256": "67285eb1cb7212c4ce481cc2788ad491a9cac1f82cb10a05efa996b41c5cea52",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      779
+    ]
+  },
+  {
+    "sprite": "genjuro_7b2ef8_1_05",
+    "original_base": "玄十郎a",
+    "options": {
+      "dress": "私服",
+      "face": "05",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "1083",
+      "1103",
+      "1113"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      779
+    ],
+    "sha256": "066c8462f6c133005e5e5ca5c047fea03d7f7a4fc666bfcda3cbe2b78dcfcad8",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      779
+    ]
+  },
+  {
+    "sprite": "genjuro_7b2ef8_1_06",
+    "original_base": "玄十郎a",
+    "options": {
+      "dress": "私服",
+      "face": "06",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "1083",
+      "1104",
+      "1113"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      779
+    ],
+    "sha256": "57281e45f2c1c41b3175324a7150823348250cd87e8955d04db751b75931296c",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      779
+    ]
+  },
+  {
+    "sprite": "genjuro_7b2ef8_1_07",
+    "original_base": "玄十郎a",
+    "options": {
+      "dress": "私服",
+      "face": "07",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "1083",
+      "1105",
+      "1113"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      779
+    ],
+    "sha256": "701bd1bea867f91149788d056964a8c8af10487f3bcfbcc4e21268e0303859bd",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      779
+    ]
+  },
+  {
+    "sprite": "genjuro_7b2ef8_1_08",
+    "original_base": "玄十郎a",
+    "options": {
+      "dress": "私服",
+      "face": "08",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "1083",
+      "1106",
+      "1113"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      686
+    ],
+    "sha256": "f185995a879484d60c08e5571ef33b77fcebe8f820bb65d4ee1b2ea2d9940726",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      686
+    ]
+  },
+  {
+    "sprite": "genjuro_7b2ef8_1_09",
+    "original_base": "玄十郎a",
+    "options": {
+      "dress": "私服",
+      "face": "09",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "1083",
+      "1107",
+      "1113"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      779
+    ],
+    "sha256": "8d6eb922188623221aa2fd7f7e36b401ce1aab81ef1476dde563fac8296d07c3",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      779
+    ]
+  },
+  {
+    "sprite": "genjuro_7b2ef8_1_11",
+    "original_base": "玄十郎a",
+    "options": {
+      "dress": "私服",
+      "face": "11",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "1083",
+      "1109",
+      "1113"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      779
+    ],
+    "sha256": "0f14870a8492eee0201ed033bcf77c19679409eef7a9fb570382012e185dc1e7",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      779
+    ]
+  },
+  {
+    "sprite": "genjuro_7b2ef8_1_17",
+    "original_base": "玄十郎a",
+    "options": {
+      "dress": "私服",
+      "face": "17",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "1083",
+      "1121",
+      "1113"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      779
+    ],
+    "sha256": "7ea41cc61c8ad282cc107b7a96f43129e99c27f76acdf3c8f76db5584cdeae93",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      779
+    ]
+  },
+  {
+    "sprite": "genjuro_7b2ef8_1_18",
+    "original_base": "玄十郎a",
+    "options": {
+      "dress": "私服",
+      "face": "18",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "1083",
+      "1122",
+      "1113"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      779
+    ],
+    "sha256": "912383f250812d312346da83f5e4b2b44e5246e8092639655c7b29b174b3429b",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      779
+    ]
+  },
+  {
+    "sprite": "koharu_7b2ef8_1_01",
+    "original_base": "小春a",
+    "options": {
+      "dress": "私服",
+      "face": "01",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "2024",
+      "2350"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      885
+    ],
+    "sha256": "d984c43322d60b6b041d988fb8645f09a2bb40f85aeaa5e41bbb5ef76e1d39cd",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      885
+    ]
+  },
+  {
+    "sprite": "koharu_7b2ef8_1_02",
+    "original_base": "小春a",
+    "options": {
+      "dress": "私服",
+      "face": "02",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "2024",
+      "2625"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      885
+    ],
+    "sha256": "9de5b24d69d3aff0a2da8d2d81c78f12a4f20599a2eaaeef6d122b3557c7c19a",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      885
+    ]
+  },
+  {
+    "sprite": "koharu_7b2ef8_1_04",
+    "original_base": "小春a",
+    "options": {
+      "dress": "私服",
+      "face": "04",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "2024",
+      "2367"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      799
+    ],
+    "sha256": "a28f2692553e5a37324ef67bac80479694c2338c39fd701bc732173801460618",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      799
+    ]
+  },
+  {
+    "sprite": "koharu_7b2ef8_1_15",
+    "original_base": "小春a",
+    "options": {
+      "dress": "私服",
+      "face": "15",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "2024",
+      "2638"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      885
+    ],
+    "sha256": "38c260d13c3977d35fbd419becf66487b853e92ecbe8ee19da4d35d4a8854312",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      885
+    ]
+  },
+  {
+    "sprite": "koharu_7b2ef8_1_18",
+    "original_base": "小春a",
+    "options": {
+      "dress": "私服",
+      "face": "18",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "2024",
+      "2603"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      885
+    ],
+    "sha256": "92f388639485051c2fe03134ad85227ac57933e78729e3e3e81003c871af9a81",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      885
+    ]
+  },
+  {
+    "sprite": "koharu_7b2ef8_1_21",
+    "original_base": "小春a",
+    "options": {
+      "dress": "私服",
+      "face": "21",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "2024",
+      "2649"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      799
+    ],
+    "sha256": "a82707302749030865ae005868d753fb0d876bd1cdbc0dd7ac314f2e798a673f",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      799
+    ]
+  },
+  {
+    "sprite": "koharu_7b2ef8_1_26",
+    "original_base": "小春a",
+    "options": {
+      "dress": "私服",
+      "face": "26",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "2024",
+      "2654"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      799
+    ],
+    "sha256": "81d9f5f01c191e9a0ec9c4ba23f3b5a1bdb84f778d7b046c2c449803fb9eb2d9",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      799
+    ]
+  },
+  {
+    "sprite": "koharu_7b2ef8_1_27",
+    "original_base": "小春a",
+    "options": {
+      "dress": "私服",
+      "face": "27",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "2024",
+      "2655"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      799
+    ],
+    "sha256": "03934b3e9004ba698c1b1b2b8e278653b42ec4fe4fa14d76d4d29929f451c361",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      799
+    ]
+  },
+  {
+    "sprite": "koharu_7b2ef8_2_15",
+    "original_base": "小春a",
+    "options": {
+      "dress": "私服",
+      "face": "15",
+      "pose": "2"
+    },
+    "layers_bottom_to_top": [
+      "2025",
+      "2638"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      885
+    ],
+    "sha256": "4420bc862d3844d6d437c81b5e56f60b69ffad497c6fb2919d5ef18be345a3f0",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      885
+    ]
+  },
+  {
+    "sprite": "koharu_7b2ef8_2_25",
+    "original_base": "小春a",
+    "options": {
+      "dress": "私服",
+      "face": "25",
+      "pose": "2"
+    },
+    "layers_bottom_to_top": [
+      "2025",
+      "2653"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      799
+    ],
+    "sha256": "e7a8f2dcf2e02ac48ba46fbef941567e644c2c65b6f181c6fb7bff4da3bedea2",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      799
+    ]
+  },
+  {
+    "sprite": "koharu_7b2ef8_2_27",
+    "original_base": "小春a",
+    "options": {
+      "dress": "私服",
+      "face": "27",
+      "pose": "2"
+    },
+    "layers_bottom_to_top": [
+      "2025",
+      "2655"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      799
+    ],
+    "sha256": "501102f9eeaa042992c72397bdd29780175410cbbdf43de466d0364c87324c2d",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      799
+    ]
+  },
+  {
+    "sprite": "koharu_7b2ef8_2_28",
+    "original_base": "小春a",
+    "options": {
+      "dress": "私服",
+      "face": "28",
+      "pose": "2"
+    },
+    "layers_bottom_to_top": [
+      "2025",
+      "2656"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      885
+    ],
+    "sha256": "d99b6a6463b67121dd41ae0868857ce7e10065a6651be7de3d49af6c27a7dabf",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      885
+    ]
+  },
+  {
+    "sprite": "koharu_7b2ef8_2_30",
+    "original_base": "小春a",
+    "options": {
+      "dress": "私服",
+      "face": "30",
+      "pose": "2"
+    },
+    "layers_bottom_to_top": [
+      "2025",
+      "2658"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      885
+    ],
+    "sha256": "fc46d309ab5785f3a89c1fa6988d14f58e0414de7767c25636cf4e191e6eff5f",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      885
+    ]
+  },
+  {
+    "sprite": "koharu_7b2ef8_2_32",
+    "original_base": "小春a",
+    "options": {
+      "dress": "私服",
+      "face": "32",
+      "pose": "2"
+    },
+    "layers_bottom_to_top": [
+      "2025",
+      "2660"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      885
+    ],
+    "sha256": "5479467d33be2a0e59fe146858b5816f6890e04d2b271b4cd5d083946ecb8d31",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      885
+    ]
+  },
+  {
+    "sprite": "koharu_7b2ef8_3_01",
+    "original_base": "小春b",
+    "options": {
+      "dress": "私服",
+      "face": "01",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "2120",
+      "2138"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      799
+    ],
+    "sha256": "f67b2fc0af363c8b1b7ade82a4441868997a49ff27b525160314e95a993a232d",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      799
+    ]
+  },
+  {
+    "sprite": "koharu_7b2ef8_3_02",
+    "original_base": "小春b",
+    "options": {
+      "dress": "私服",
+      "face": "02",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "2120",
+      "2299"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      885
+    ],
+    "sha256": "8cbdf054e8629282a683e5e64b00aec44b22afd37c4f71d8a697672988f1aaa0",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      885
+    ]
+  },
+  {
+    "sprite": "koharu_7b2ef8_3_05",
+    "original_base": "小春b",
+    "options": {
+      "dress": "私服",
+      "face": "05",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "2120",
+      "2172"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      885
+    ],
+    "sha256": "fcb27fbde2134bf36b79db801a46fff4bd7a7688f98f61a618f1fe45848a6c19",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      885
+    ]
+  },
+  {
+    "sprite": "koharu_7b2ef8_3_10",
+    "original_base": "小春b",
+    "options": {
+      "dress": "私服",
+      "face": "10",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "2120",
+      "2272"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      885
+    ],
+    "sha256": "783aed2d3bf8f205961fae54c7c6ff336809ba50020b252e4d884c9487c5545d",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      885
+    ]
+  },
+  {
+    "sprite": "koharu_7b2ef8_3_13",
+    "original_base": "小春b",
+    "options": {
+      "dress": "私服",
+      "face": "13",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "2120",
+      "2305"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      885
+    ],
+    "sha256": "63931dcec5efb1adde882f8e3e4e943adfa01fca40254bc693bb030800260d60",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      885
+    ]
+  },
+  {
+    "sprite": "koharu_7b2ef8_3_14",
+    "original_base": "小春b",
+    "options": {
+      "dress": "私服",
+      "face": "14",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "2120",
+      "2306"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      885
+    ],
+    "sha256": "d9e8bbbbc572f28751a1f8b5f50242b90b653cc3963e5c216e007ae5ac293d6c",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      885
+    ]
+  },
+  {
+    "sprite": "koharu_7b2ef8_3_15",
+    "original_base": "小春b",
+    "options": {
+      "dress": "私服",
+      "face": "15",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "2120",
+      "2307"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      885
+    ],
+    "sha256": "fa90ffb9b084ca944aef06c9fb6ec570e2766120171604e8d6d9f3e48cb58f10",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      885
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_1_01",
+    "original_base": "ムラサメa",
+    "options": {
+      "dress": "私服",
+      "face": "01",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "1950",
+      "1292",
+      "1273"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      965
+    ],
+    "sha256": "6d0db6480e58efd54ef2d15d306263979eed948ca23536cb1ae441cffdc33935",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      965
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_1_04",
+    "original_base": "ムラサメa",
+    "options": {
+      "dress": "私服",
+      "face": "04",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "1950",
+      "1368",
+      "1273"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      965
+    ],
+    "sha256": "df535d5eebf1af854f9b9aefff9663c6595f0906b193dc254488e90f5e14ceac",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      965
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_1_05",
+    "original_base": "ムラサメa",
+    "options": {
+      "dress": "私服",
+      "face": "05",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "1950",
+      "1399",
+      "1273"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      879
+    ],
+    "sha256": "50bd26eaf60cfd3a3fe0b7e05049e7e414509ccd51b9c01680ebc8d99f872a95",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      879
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_1_06",
+    "original_base": "ムラサメa",
+    "options": {
+      "dress": "私服",
+      "face": "06",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "1950",
+      "1430",
+      "1273"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      879
+    ],
+    "sha256": "1dfbf23022f97c1010cbc470ac396c0d1c3833dd1943f026691f6a66aa67d9ad",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      879
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_1_28",
+    "original_base": "ムラサメa",
+    "options": {
+      "dress": "私服",
+      "face": "28",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "1950",
+      "1964",
+      "1273"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      965
+    ],
+    "sha256": "6da7af501e687d7f5437c5d8d2b435425f477a1f34083c6bb5bc5710f9bcf67b",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      965
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_1_29",
+    "original_base": "ムラサメa",
+    "options": {
+      "dress": "私服",
+      "face": "29",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "1950",
+      "1965",
+      "1273"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      965
+    ],
+    "sha256": "85a71a1ed27d8240e7aa4fa3f9ddbe19737b8aafd25386f3e6e583b7e46bf19c",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      965
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_1_35",
+    "original_base": "ムラサメa",
+    "options": {
+      "dress": "私服",
+      "face": "35",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "1950",
+      "1971",
+      "1273"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      965
+    ],
+    "sha256": "02518a7fb8adc91d36aa8713c9d04b4abd3fdf8f81195eeaa69981baeb8c59d9",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      965
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_1_36",
+    "original_base": "ムラサメa",
+    "options": {
+      "dress": "私服",
+      "face": "36",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "1950",
+      "1972",
+      "1273"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      965
+    ],
+    "sha256": "66a41e903bbdcdf0ad7160bebccb5b32326d2591b904c0f9522e307f1c77125e",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      965
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_2_01",
+    "original_base": "ムラサメa",
+    "options": {
+      "dress": "私服",
+      "face": "01",
+      "pose": "2"
+    },
+    "layers_bottom_to_top": [
+      "1951",
+      "1292",
+      "1273"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      965
+    ],
+    "sha256": "12a66bfed04dd2c56eacac510edaa2b91f01d75ecd14e17d6422b6148bb7dd7d",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      965
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_2_03h",
+    "original_base": "ムラサメa",
+    "options": {
+      "dress": "私服",
+      "face": "03h",
+      "pose": "2"
+    },
+    "layers_bottom_to_top": [
+      "1951",
+      "1337",
+      "1273",
+      "1958"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      879
+    ],
+    "sha256": "53d0182e0ef077f60f68d4de53b7367663f9b99fc7faa5a3df49d2c5ca052667",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      879
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_2_04",
+    "original_base": "ムラサメa",
+    "options": {
+      "dress": "私服",
+      "face": "04",
+      "pose": "2"
+    },
+    "layers_bottom_to_top": [
+      "1951",
+      "1368",
+      "1273"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      965
+    ],
+    "sha256": "b4f4d61a643d41812be1ddb7b91e4f61d5ca74dcb83a395ae40fa145f2f37095",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      965
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_2_05",
+    "original_base": "ムラサメa",
+    "options": {
+      "dress": "私服",
+      "face": "05",
+      "pose": "2"
+    },
+    "layers_bottom_to_top": [
+      "1951",
+      "1399",
+      "1273"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      879
+    ],
+    "sha256": "6374a7c6181f47e5c2f8ee47f8470cb0d375da608fceea86d61a7db427d486ec",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      879
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_2_05h",
+    "original_base": "ムラサメa",
+    "options": {
+      "dress": "私服",
+      "face": "05h",
+      "pose": "2"
+    },
+    "layers_bottom_to_top": [
+      "1951",
+      "1399",
+      "1273",
+      "1958"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      879
+    ],
+    "sha256": "1e0316b47d56500a6eab1b2752dff64c21a9ab268c31064bdef668c1475c04c3",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      879
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_2_10",
+    "original_base": "ムラサメa",
+    "options": {
+      "dress": "私服",
+      "face": "10",
+      "pose": "2"
+    },
+    "layers_bottom_to_top": [
+      "1951",
+      "1528",
+      "1273"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      965
+    ],
+    "sha256": "a0db32de9e9975288b19e179f66d030869b84cd06d55b5b5bc7eb1a2bf8ab7b4",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      965
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_2_10h",
+    "original_base": "ムラサメa",
+    "options": {
+      "dress": "私服",
+      "face": "10h",
+      "pose": "2"
+    },
+    "layers_bottom_to_top": [
+      "1951",
+      "1528",
+      "1273",
+      "1958"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      965
+    ],
+    "sha256": "6cf0f7b8e369afb5b261ceb0b2fb03bbfc0d23487fafe4547fc34a8a4bd991a9",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      965
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_2_13h",
+    "original_base": "ムラサメa",
+    "options": {
+      "dress": "私服",
+      "face": "13h",
+      "pose": "2"
+    },
+    "layers_bottom_to_top": [
+      "1951",
+      "1596",
+      "1273",
+      "1958"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      879
+    ],
+    "sha256": "6931f8ab98cf5387321f8e679fe54176567ebd1f94c886c64047d8c1a4ebb6e1",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      879
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_2_14",
+    "original_base": "ムラサメa",
+    "options": {
+      "dress": "私服",
+      "face": "14",
+      "pose": "2"
+    },
+    "layers_bottom_to_top": [
+      "1951",
+      "1620",
+      "1273"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      965
+    ],
+    "sha256": "675f370dd1d4d0d0ae1de50bec6d26e15732aa85f727e718a7446ec849ac9674",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      965
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_2_16",
+    "original_base": "ムラサメa",
+    "options": {
+      "dress": "私服",
+      "face": "16",
+      "pose": "2"
+    },
+    "layers_bottom_to_top": [
+      "1951",
+      "1668",
+      "1273"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      965
+    ],
+    "sha256": "ccd9aa109deef995a424948387a1e47707302ae3b610f9a3dd1c85d4d0ecebdd",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      965
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_2_17",
+    "original_base": "ムラサメa",
+    "options": {
+      "dress": "私服",
+      "face": "17",
+      "pose": "2"
+    },
+    "layers_bottom_to_top": [
+      "1951",
+      "1690",
+      "1273"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      965
+    ],
+    "sha256": "0415d4d2a6cf064bba290469fa896916dd0d0291d47034c6002b376a3d86e793",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      965
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_2_20h",
+    "original_base": "ムラサメa",
+    "options": {
+      "dress": "私服",
+      "face": "20h",
+      "pose": "2"
+    },
+    "layers_bottom_to_top": [
+      "1951",
+      "1768",
+      "1273",
+      "1958"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      879
+    ],
+    "sha256": "8df1d90ae318ecdafffa072042a28e83d27fa4416cc78a9ecc28a38e15e0f802",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      879
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_2_21",
+    "original_base": "ムラサメa",
+    "options": {
+      "dress": "私服",
+      "face": "21",
+      "pose": "2"
+    },
+    "layers_bottom_to_top": [
+      "1951",
+      "1801",
+      "1273"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      879
+    ],
+    "sha256": "56ac6833c8a7c51506427af2e884680b311e5e1102a1a48028e356d1dd0eaa96",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      879
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_2_28",
+    "original_base": "ムラサメa",
+    "options": {
+      "dress": "私服",
+      "face": "28",
+      "pose": "2"
+    },
+    "layers_bottom_to_top": [
+      "1951",
+      "1964",
+      "1273"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      965
+    ],
+    "sha256": "b59a4e7cc8e379f319d3af1f0e0d53cc0d90cd15ba4476a4459ae6c517652c40",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      965
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_2_29",
+    "original_base": "ムラサメa",
+    "options": {
+      "dress": "私服",
+      "face": "29",
+      "pose": "2"
+    },
+    "layers_bottom_to_top": [
+      "1951",
+      "1965",
+      "1273"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      965
+    ],
+    "sha256": "58d771eca8bd03ee0ed817121a6cfae2f5467c3b0666771efe3bb81a2c9b7266",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      965
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_2_35",
+    "original_base": "ムラサメa",
+    "options": {
+      "dress": "私服",
+      "face": "35",
+      "pose": "2"
+    },
+    "layers_bottom_to_top": [
+      "1951",
+      "1971",
+      "1273"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      879
+    ],
+    "sha256": "547e74aca3a68dbc87208eb58d256b9d5c1fcef7ae918dcb509d9e60a73feebc",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      879
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_2_36",
+    "original_base": "ムラサメa",
+    "options": {
+      "dress": "私服",
+      "face": "36",
+      "pose": "2"
+    },
+    "layers_bottom_to_top": [
+      "1951",
+      "1972",
+      "1273"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      965
+    ],
+    "sha256": "9f403579fda93b91f3a02802f85ba343a95a0a361803a62f3da3f88e1fd8df77",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      965
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_2_37",
+    "original_base": "ムラサメa",
+    "options": {
+      "dress": "私服",
+      "face": "37",
+      "pose": "2"
+    },
+    "layers_bottom_to_top": [
+      "1951",
+      "1973",
+      "1273"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      965
+    ],
+    "sha256": "86cc2cbed42f379b8cb9a9e129991d53fd36bc65d7d3b6c3bea7f0ac5198aee1",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      965
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_2_38h",
+    "original_base": "ムラサメa",
+    "options": {
+      "dress": "私服",
+      "face": "38h",
+      "pose": "2"
+    },
+    "layers_bottom_to_top": [
+      "1951",
+      "1974",
+      "1273",
+      "1958"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      965
+    ],
+    "sha256": "9f1edef06ec4d7302168eefaaaf768369c4776c012f3a32fe6a75cf186783a98",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      965
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_3_01",
+    "original_base": "ムラサメb",
+    "options": {
+      "dress": "私服",
+      "face": "01",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "1715",
+      "1306",
+      "1261"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      965
+    ],
+    "sha256": "37893a2c083b5aec3c4e02c2486d861684710acd1ce9a7271fa25d779ac350b9",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      965
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_3_09h",
+    "original_base": "ムラサメb",
+    "options": {
+      "dress": "私服",
+      "face": "09h",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "1715",
+      "1505",
+      "1261",
+      "1719"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      965
+    ],
+    "sha256": "0012dc8b0535219cf3f7d65d19d126c7d99a6b8d14dcedf6477e6441e105b1dc",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      965
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_3_10",
+    "original_base": "ムラサメb",
+    "options": {
+      "dress": "私服",
+      "face": "10",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "1715",
+      "1524",
+      "1261"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      879
+    ],
+    "sha256": "e552c7f2d050dec628bd4968d6e1c534744a07f1edebb1eca15f3f6a8e99919d",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      879
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_3_12",
+    "original_base": "ムラサメb",
+    "options": {
+      "dress": "私服",
+      "face": "12",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "1715",
+      "1712",
+      "1708",
+      "1261"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      879
+    ],
+    "sha256": "a12a8500a22bfa3c4bfed5d8153f7817a0c09a5eae86c31c16784b648496086a",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      879
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_3_14h",
+    "original_base": "ムラサメb",
+    "options": {
+      "dress": "私服",
+      "face": "14h",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "1715",
+      "1641",
+      "1261",
+      "1719"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      879
+    ],
+    "sha256": "2829b62c0b37fb4b84f93aff3226f67f9f6e336fdca108d15c2b92eaf40b725c",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      879
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_3_15h",
+    "original_base": "ムラサメb",
+    "options": {
+      "dress": "私服",
+      "face": "15h",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "1715",
+      "1710",
+      "1708",
+      "1261",
+      "1719"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      879
+    ],
+    "sha256": "a755d61b9a728092b46d252b7ff221969ccd84a5678bd8af65b36bca2ebd7c69",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      879
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_3_18",
+    "original_base": "ムラサメb",
+    "options": {
+      "dress": "私服",
+      "face": "18",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "1715",
+      "1721",
+      "1261"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      965
+    ],
+    "sha256": "a106f9de275261b05cee484694f960332f76825b04da02c7a858c7af53171a4b",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      965
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_3_20",
+    "original_base": "ムラサメb",
+    "options": {
+      "dress": "私服",
+      "face": "20",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "1715",
+      "1723",
+      "1261"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      965
+    ],
+    "sha256": "bb8029cb089b4d9cc4d7e7ac7448bda6952ab8e989d83e7d5d3eb19a34a96e5a",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      965
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_3_24",
+    "original_base": "ムラサメb",
+    "options": {
+      "dress": "私服",
+      "face": "24",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "1715",
+      "1727",
+      "1261"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      965
+    ],
+    "sha256": "6ba16df85483448ec359a14438fd73c94c66b1a294482bc93bd733ae6648986f",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      965
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_3_26",
+    "original_base": "ムラサメb",
+    "options": {
+      "dress": "私服",
+      "face": "26",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "1715",
+      "1729",
+      "1261"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      965
+    ],
+    "sha256": "d4d6e9fda5bc9d5170c0f0c2edf430277810cc6f7557c42714520967b04fee49",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      965
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_3_26h",
+    "original_base": "ムラサメb",
+    "options": {
+      "dress": "私服",
+      "face": "26h",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "1715",
+      "1729",
+      "1261",
+      "1719"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      879
+    ],
+    "sha256": "6350b107f73411d1d0c1a07db923c3881c41092dc6760e8f0b826c30ceb8a371",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      879
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_3_27",
+    "original_base": "ムラサメb",
+    "options": {
+      "dress": "私服",
+      "face": "27",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "1715",
+      "1730",
+      "1261"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      965
+    ],
+    "sha256": "aecff9bd7c8a1ff70cde28265c052705773d1e0a9708b7dae0cdaa03097d8905",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      965
+    ]
+  },
+  {
+    "sprite": "murasame_7b2ef8_3_27h",
+    "original_base": "ムラサメb",
+    "options": {
+      "dress": "私服",
+      "face": "27h",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "1715",
+      "1730",
+      "1261",
+      "1719"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      965
+    ],
+    "sha256": "33f71254387a93b3d5c0e142d081d5ad5a44383e6afbdc1416679d6ce2345d8f",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      965
+    ]
+  },
+  {
+    "sprite": "rentaro_7b2ef8_1_01",
+    "original_base": "廉太郎a",
+    "options": {
+      "dress": "私服",
+      "face": "01",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "138",
+      "139"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      806
+    ],
+    "sha256": "9748ce719eb449a127e4917144f2387b04d741dee470bc5aa695bf1bff7efd2f",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      806
+    ]
+  },
+  {
+    "sprite": "rentaro_7b2ef8_1_03",
+    "original_base": "廉太郎a",
+    "options": {
+      "dress": "私服",
+      "face": "03",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "138",
+      "141"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      806
+    ],
+    "sha256": "d7a867e74de059364cf5f01fb9e8894e5d811d943084c19233cccefbeb6744c3",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      806
+    ]
+  },
+  {
+    "sprite": "rentaro_7b2ef8_1_04",
+    "original_base": "廉太郎a",
+    "options": {
+      "dress": "私服",
+      "face": "04",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "138",
+      "142"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      806
+    ],
+    "sha256": "a7eda9afc4e4cde3564562536bc99d9a55d071b4a5d4714def14cb1d242f1fe2",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      806
+    ]
+  },
+  {
+    "sprite": "rentaro_7b2ef8_1_05",
+    "original_base": "廉太郎a",
+    "options": {
+      "dress": "私服",
+      "face": "05",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "138",
+      "143"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      806
+    ],
+    "sha256": "be6da0305443f55a9c7132a05de8719d3ae7f21c33e70d408c89ba141d3481cf",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      806
+    ]
+  },
+  {
+    "sprite": "rentaro_7b2ef8_1_08",
+    "original_base": "廉太郎a",
+    "options": {
+      "dress": "私服",
+      "face": "08",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "138",
+      "146"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      806
+    ],
+    "sha256": "1194189efb62619c8c7f019d66ee26d958751d160131205c9c9c1b34265ff348",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      806
+    ]
+  },
+  {
+    "sprite": "rentaro_7b2ef8_1_10",
+    "original_base": "廉太郎a",
+    "options": {
+      "dress": "私服",
+      "face": "10",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "138",
+      "148"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      806
+    ],
+    "sha256": "45e5e4d44022a0b3136423f27eb67306796ef4d45d4657561d2f2f9da54d6fb9",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      806
+    ]
+  },
+  {
+    "sprite": "rentaro_7b2ef8_1_11",
+    "original_base": "廉太郎a",
+    "options": {
+      "dress": "私服",
+      "face": "11",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "138",
+      "149"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      806
+    ],
+    "sha256": "8d5f839f957d608f5ba4b6802d01e13fdf1688b50a77e831d00f957895243724",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      806
+    ]
+  },
+  {
+    "sprite": "rentaro_7b2ef8_1_12",
+    "original_base": "廉太郎a",
+    "options": {
+      "dress": "私服",
+      "face": "12",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "138",
+      "150"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      806
+    ],
+    "sha256": "907c2c8c7f9fa16fa659b4780f41c568799eeaa688d08c48e75752617ec482c4",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      806
+    ]
+  },
+  {
+    "sprite": "rentaro_7b2ef8_1_13",
+    "original_base": "廉太郎a",
+    "options": {
+      "dress": "私服",
+      "face": "13",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "138",
+      "151"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      806
+    ],
+    "sha256": "df7c1bf430e5470df1e5de1deada36597ca93d1f36bb8aaa61bb30bc59af7be6",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      806
+    ]
+  },
+  {
+    "sprite": "rentaro_7b2ef8_1_14",
+    "original_base": "廉太郎a",
+    "options": {
+      "dress": "私服",
+      "face": "14",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "138",
+      "152"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      806
+    ],
+    "sha256": "ef3324d59dfcaa6b5b5656985ab1cfbd5e42e27e8803bc2b71171bacdc5bcb58",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      806
+    ]
+  },
+  {
+    "sprite": "rentaro_7b2ef8_1_16",
+    "original_base": "廉太郎a",
+    "options": {
+      "dress": "私服",
+      "face": "16",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "138",
+      "154"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      806
+    ],
+    "sha256": "0fcba403b085533af4783390cb40e29b7c6e0dbba9c028559e57b6583ec5486f",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      806
+    ]
+  },
+  {
+    "sprite": "rentaro_7b2ef8_1_20",
+    "original_base": "廉太郎a",
+    "options": {
+      "dress": "私服",
+      "face": "20",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "138",
+      "158"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      806
+    ],
+    "sha256": "00e62f120fe78101eb749eb973dad61457044c9c1be820721548680a0bafa0ee",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      806
+    ]
+  },
+  {
+    "sprite": "rentaro_7b2ef8_1_22",
+    "original_base": "廉太郎a",
+    "options": {
+      "dress": "私服",
+      "face": "22",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "138",
+      "171"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      722
+    ],
+    "sha256": "a5a589219b310187992b4bbd62c35c9644bb3459c3cb162159f28cadba317821",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      722
+    ]
+  },
+  {
+    "sprite": "rentaro_7b2ef8_1_23",
+    "original_base": "廉太郎a",
+    "options": {
+      "dress": "私服",
+      "face": "23",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "138",
+      "161"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      722
+    ],
+    "sha256": "4b025a244be4b88e1bd87a599e09b538412ddc91401f50b3bb0f37be704bdecb",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      722
+    ]
+  },
+  {
+    "sprite": "rentaro_7b2ef8_1_24",
+    "original_base": "廉太郎a",
+    "options": {
+      "dress": "私服",
+      "face": "24",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "138",
+      "162"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      806
+    ],
+    "sha256": "6df1774376be26d52e9edd9f5b7847b2ecbdf3e03e4200bc7143cc452e767bb0",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      806
+    ]
+  },
+  {
+    "sprite": "rentaro_7b2ef8_1_25",
+    "original_base": "廉太郎a",
+    "options": {
+      "dress": "私服",
+      "face": "25",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "138",
+      "173"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      722
+    ],
+    "sha256": "cc2977c2902225f3859c14c195bea636e12c2e8e63a9157f526ddcdf65b9375a",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      722
+    ]
+  },
+  {
+    "sprite": "rentaro_7b2ef8_1_26",
+    "original_base": "廉太郎a",
+    "options": {
+      "dress": "私服",
+      "face": "26",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "138",
+      "174"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      806
+    ],
+    "sha256": "030b2528d427b5af0a058540e4e1584060c4f51110a098238ef7c35fe2df9c66",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      806
+    ]
+  },
+  {
+    "sprite": "rentaro_7b2ef8_1_27",
+    "original_base": "廉太郎a",
+    "options": {
+      "dress": "私服",
+      "face": "27",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "138",
+      "175"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      806
+    ],
+    "sha256": "be3434d150cd9c0fb91e5dc64c3c1b0cd7aaa97bba9743bb1b26cae3ddf09e0b",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      806
+    ]
+  },
+  {
+    "sprite": "rentaro_7b2ef8_1_28",
+    "original_base": "廉太郎a",
+    "options": {
+      "dress": "私服",
+      "face": "28",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "138",
+      "176"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      806
+    ],
+    "sha256": "4b258c9b92cc4bd55213afd33fae240b738449f5049b156bec0c0c1d8d47b758",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      806
+    ]
+  },
+  {
+    "sprite": "rentaro_7b2ef8_1_29",
+    "original_base": "廉太郎a",
+    "options": {
+      "dress": "私服",
+      "face": "29",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "138",
+      "177"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      722
+    ],
+    "sha256": "b8b15cfc33a17e6f7fcb020cf0ab0cd89fb8370da9fd456ce96da475338451e5",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      722
+    ]
+  },
+  {
+    "sprite": "rentaro_7b2ef8_1_32",
+    "original_base": "廉太郎a",
+    "options": {
+      "dress": "私服",
+      "face": "32",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "138",
+      "180"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      806
+    ],
+    "sha256": "c5bbd628f284dbc1cd494f15e2731f1f6a63f39aa8353f60476107ec715f09ac",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      806
+    ]
+  },
+  {
+    "sprite": "rentaro_7b2ef8_1_33",
+    "original_base": "廉太郎a",
+    "options": {
+      "dress": "私服",
+      "face": "33",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "138",
+      "181"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      806
+    ],
+    "sha256": "1112a64885d8630c004f46f45889b651dd712851beed9f40138dea0b4a8a3c9b",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      806
+    ]
+  },
+  {
+    "sprite": "rentaro_7b2ef8_1_35",
+    "original_base": "廉太郎a",
+    "options": {
+      "dress": "私服",
+      "face": "35",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "138",
+      "183"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      806
+    ],
+    "sha256": "c3df097715b2f398b053bdaee92925e235c3a56a098c005f4aa51af215d2e585",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      806
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_1_01",
+    "original_base": "芦花a",
+    "options": {
+      "dress": "私服",
+      "face": "01",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "683",
+      "275",
+      "678"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "d388797e20693f3aa16e82b364acee8bf080acc292b302897c56792d468819a0",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_1_02",
+    "original_base": "芦花a",
+    "options": {
+      "dress": "私服",
+      "face": "02",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "683",
+      "300",
+      "678"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "55b8e2af5f62640ed92ae59c0f97c290ab8a97dff34519db2b3c1a2a4da3881f",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_1_04",
+    "original_base": "芦花a",
+    "options": {
+      "dress": "私服",
+      "face": "04",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "683",
+      "347",
+      "678"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "be6798865344a9a45873db9a8953f4a943f51e28d0c1606b329ce1782ac97bb8",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_1_08",
+    "original_base": "芦花a",
+    "options": {
+      "dress": "私服",
+      "face": "08",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "683",
+      "463",
+      "678"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "fc8d9f2684dc4d7d905d21687616def5bbce553cd1fe90c56163cf7ffa459eb6",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_1_09",
+    "original_base": "芦花a",
+    "options": {
+      "dress": "私服",
+      "face": "09",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "683",
+      "489",
+      "678"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "e61502e96eaeb47468707f46da3f1296c5b723947d32c1cddd257ac6583ed94d",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_1_11",
+    "original_base": "芦花a",
+    "options": {
+      "dress": "私服",
+      "face": "11",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "683",
+      "547",
+      "678"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "191adba2cca4a390c88aa2ce05671d311b710d54ebe661982a873b887827d709",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_1_12",
+    "original_base": "芦花a",
+    "options": {
+      "dress": "私服",
+      "face": "12",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "683",
+      "573",
+      "678"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "2a3666452c9914733602c235f0a8183d5c26188e906f50d142ca42b8d4c708ea",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_1_13",
+    "original_base": "芦花a",
+    "options": {
+      "dress": "私服",
+      "face": "13",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "683",
+      "599",
+      "678"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "27b486dae980ad1a93bf673ef0f498504ff21a469a8a058ef94a7140c548b7da",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_1_17",
+    "original_base": "芦花a",
+    "options": {
+      "dress": "私服",
+      "face": "17",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "683",
+      "691",
+      "678"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "bc376974c5e203da593e680bbfe4c29defc725037015fb20b5234548c19b289f",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_1_18",
+    "original_base": "芦花a",
+    "options": {
+      "dress": "私服",
+      "face": "18",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "683",
+      "692",
+      "678"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "44a406860e3ca6e3201eaf3db8b7863b5f50b5dd2e5d359e943015401f679d65",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_1_19",
+    "original_base": "芦花a",
+    "options": {
+      "dress": "私服",
+      "face": "19",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "683",
+      "693",
+      "678"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "64c9b5fa3f83d12d824daaed0e6f3140ca738ed2fafd5d145ffcfba5e2e9d3d7",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_1_20",
+    "original_base": "芦花a",
+    "options": {
+      "dress": "私服",
+      "face": "20",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "683",
+      "694",
+      "678"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "ced32b361c8e325bb92bd14bf9fd7c88ba593bf20c9fd43d1d06548ffaff270a",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_1_21",
+    "original_base": "芦花a",
+    "options": {
+      "dress": "私服",
+      "face": "21",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "683",
+      "695",
+      "678"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "a57deb22ea7db94e1f7daa8792a32303a027a2cda483dcfd5908117549666e66",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_1_22",
+    "original_base": "芦花a",
+    "options": {
+      "dress": "私服",
+      "face": "22",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "683",
+      "696",
+      "678"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "dcd045adb4df4d5c422c695213e3048a7da4072ae2bf69e50fc81560be53a4ea",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_1_24",
+    "original_base": "芦花a",
+    "options": {
+      "dress": "私服",
+      "face": "24",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "683",
+      "698",
+      "678"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      820
+    ],
+    "sha256": "d2219b90ddfb6af7874c4f46e9d4d9b97c5f0a63aebff94a8e43b0c4bfa104e7",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      820
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_1_25",
+    "original_base": "芦花a",
+    "options": {
+      "dress": "私服",
+      "face": "25",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "683",
+      "699",
+      "678"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      820
+    ],
+    "sha256": "266d626c034f5f27535c9a8e0ed3a322f2b3ddf60ee193bbdceeb982f7d63839",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      820
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_1_25h",
+    "original_base": "芦花a",
+    "options": {
+      "dress": "私服",
+      "face": "25h",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "683",
+      "699",
+      "678",
+      "689"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      820
+    ],
+    "sha256": "de036e13d73d33397125aa3f5e0e8a1c9d0351242f28f47574117aaf4ee39a3a",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      820
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_1_26",
+    "original_base": "芦花a",
+    "options": {
+      "dress": "私服",
+      "face": "26",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "683",
+      "700",
+      "678"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "352ac936f7f7b9b494ef3e8d31a43f34b5cafc19c3650cd47b9123a54321088c",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_1_28",
+    "original_base": "芦花a",
+    "options": {
+      "dress": "私服",
+      "face": "28",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "683",
+      "702",
+      "678"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "391519c94ee042265ebcc61c6f8f495db2d9e4968b1ba989f7c0153f44055ecc",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_1_29",
+    "original_base": "芦花a",
+    "options": {
+      "dress": "私服",
+      "face": "29",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "683",
+      "703",
+      "678"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      820
+    ],
+    "sha256": "51519a84dfb15919efb12639243fb19231273fd79fc2ae59a85fc64b7a5fadd4",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      820
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_1_30",
+    "original_base": "芦花a",
+    "options": {
+      "dress": "私服",
+      "face": "30",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "683",
+      "704",
+      "678"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      820
+    ],
+    "sha256": "7772b8eb7936ee881cc7cdffeecbbb6b4961b6683ecc81c3554a11280f9e18cd",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      820
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_1_32",
+    "original_base": "芦花a",
+    "options": {
+      "dress": "私服",
+      "face": "32",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "683",
+      "706",
+      "678"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "b723748b239ed3483c11d5491ea012af0dedaead7cc48a9e5f1b7e51a9c6e472",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_1_34",
+    "original_base": "芦花a",
+    "options": {
+      "dress": "私服",
+      "face": "34",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "683",
+      "708",
+      "678"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "a200da4242222b160694a5fb9bda573e815cfca2ada6ca5fa2e4438c0063142c",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_2_04",
+    "original_base": "芦花a",
+    "options": {
+      "dress": "私服",
+      "face": "04",
+      "pose": "2"
+    },
+    "layers_bottom_to_top": [
+      "684",
+      "347",
+      "678"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      1056
+    ],
+    "sha256": "9cab999b8c6c4fa3601e3927ce2130f77a337b2810c0a5c76f624ada0283f6d2",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      1056
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_2_08",
+    "original_base": "芦花a",
+    "options": {
+      "dress": "私服",
+      "face": "08",
+      "pose": "2"
+    },
+    "layers_bottom_to_top": [
+      "684",
+      "463",
+      "678"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "4eb79dbacd6b14f1cb42f0f922d0f389fcbfcf7816fe1d708bb785d1a6c4d0da",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_2_13",
+    "original_base": "芦花a",
+    "options": {
+      "dress": "私服",
+      "face": "13",
+      "pose": "2"
+    },
+    "layers_bottom_to_top": [
+      "684",
+      "599",
+      "678"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "17f37d14568c770063af635611d174333f15dda06f596cf4fc69c4faffb3728a",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_2_17",
+    "original_base": "芦花a",
+    "options": {
+      "dress": "私服",
+      "face": "17",
+      "pose": "2"
+    },
+    "layers_bottom_to_top": [
+      "684",
+      "691",
+      "678"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      820
+    ],
+    "sha256": "f23290adc84cd2f493ed1c74b156924891aa9e099c8406187de7e3c3b8c4eb3d",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      820
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_2_22",
+    "original_base": "芦花a",
+    "options": {
+      "dress": "私服",
+      "face": "22",
+      "pose": "2"
+    },
+    "layers_bottom_to_top": [
+      "684",
+      "696",
+      "678"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      820
+    ],
+    "sha256": "d2ce42976808238f734428c7be5a243260ec1e7ceb6defd6cfeb36a5bea7f900",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      820
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_2_26",
+    "original_base": "芦花a",
+    "options": {
+      "dress": "私服",
+      "face": "26",
+      "pose": "2"
+    },
+    "layers_bottom_to_top": [
+      "684",
+      "700",
+      "678"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "f1b62485e24eaa011d2127e576ce4a352836fe802fdfeac1cea91bead2c1bcfd",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_2_28",
+    "original_base": "芦花a",
+    "options": {
+      "dress": "私服",
+      "face": "28",
+      "pose": "2"
+    },
+    "layers_bottom_to_top": [
+      "684",
+      "702",
+      "678"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "45a5a57108622c6bfc149ec88d77a67317a1f6167a6c62ef11b5d3f6985d9756",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_2_31",
+    "original_base": "芦花a",
+    "options": {
+      "dress": "私服",
+      "face": "31",
+      "pose": "2"
+    },
+    "layers_bottom_to_top": [
+      "684",
+      "705",
+      "678"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "c725d940de2bbaecc31768666521ddd481f77d9d174cc4da3464cec21712f4d4",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_2_32",
+    "original_base": "芦花a",
+    "options": {
+      "dress": "私服",
+      "face": "32",
+      "pose": "2"
+    },
+    "layers_bottom_to_top": [
+      "684",
+      "706",
+      "678"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "839fd86b91c85736d650d32ffe664495608ec6caaaec16d86ae59d77092fd6ad",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_2_34",
+    "original_base": "芦花a",
+    "options": {
+      "dress": "私服",
+      "face": "34",
+      "pose": "2"
+    },
+    "layers_bottom_to_top": [
+      "684",
+      "708",
+      "678"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "4622fb2632e32ff26740552067a8435f467bd95edaab780770ab9c69aaf528c1",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_3_01",
+    "original_base": "芦花b",
+    "options": {
+      "dress": "私服",
+      "face": "01",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "1388",
+      "1093",
+      "1380"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "37b3b0d7dea547dc6a2d6f72173ed3555694b2c22a557ef5324459154fc5c505",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_3_02",
+    "original_base": "芦花b",
+    "options": {
+      "dress": "私服",
+      "face": "02",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "1388",
+      "1119",
+      "1380"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "48e6801ae94065d96782fa20f68c9e8196caedadea556b3f85c4c3563f4c5516",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_3_03",
+    "original_base": "芦花b",
+    "options": {
+      "dress": "私服",
+      "face": "03",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "1388",
+      "1145",
+      "1380"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "8d5d0d370c575ef45c7ec1f9126cd3e0219d759a9dc82496ac4448dc6af54e19",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_3_06",
+    "original_base": "芦花b",
+    "options": {
+      "dress": "私服",
+      "face": "06",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "1388",
+      "1222",
+      "1380"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      820
+    ],
+    "sha256": "d92b96d33631ede7615c858b87b8683d5c6d77036b0837f6d05f97246e5e0699",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      820
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_3_07h",
+    "original_base": "芦花b",
+    "options": {
+      "dress": "私服",
+      "face": "07h",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "1388",
+      "1254",
+      "1380",
+      "1391"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      820
+    ],
+    "sha256": "ba0d969147cc6f167fc6824e2503451edf4d3b92f30bf949e3dade453704d9aa",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      820
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_3_09",
+    "original_base": "芦花b",
+    "options": {
+      "dress": "私服",
+      "face": "09",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "1388",
+      "1301",
+      "1380"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "9428da9e6972e5d212fb39890f6366c02b6fa09c183c86445fdbefe370cd5ed4",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_3_10",
+    "original_base": "芦花b",
+    "options": {
+      "dress": "私服",
+      "face": "10",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "1388",
+      "1327",
+      "1380"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "d30cf4dcb00c88df1c9df184f91d46a96bdff5b1959716d4e142748893f8c9fb",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_3_11",
+    "original_base": "芦花b",
+    "options": {
+      "dress": "私服",
+      "face": "11",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "1388",
+      "1353",
+      "1380"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "1c63b50802eac7926b0454ded62841b96f4e17e425d92b3846c12119a46570d8",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_3_13",
+    "original_base": "芦花b",
+    "options": {
+      "dress": "私服",
+      "face": "13",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "1388",
+      "1395",
+      "1380"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "f5ca166e89ee7863186990915270652ce04270a876aba09a00e05bf38c7161b4",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_3_14",
+    "original_base": "芦花b",
+    "options": {
+      "dress": "私服",
+      "face": "14",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "1388",
+      "1396",
+      "1380"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "401dc59a994fcec8a18117e9dc3b5f9d3c356954b9294fd30445a8dc50390aaf",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_3_15",
+    "original_base": "芦花b",
+    "options": {
+      "dress": "私服",
+      "face": "15",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "1388",
+      "1397",
+      "1380"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "014571d49b2e42324f6dfecb93bf3e18f278a03388cfcce21aa27ded259771be",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_3_18",
+    "original_base": "芦花b",
+    "options": {
+      "dress": "私服",
+      "face": "18",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "1388",
+      "1400",
+      "1380"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "f7ccf8aeb201a140bb12a41377d58f6255e4f9024d1445656c1fb26f6327d235",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_3_20",
+    "original_base": "芦花b",
+    "options": {
+      "dress": "私服",
+      "face": "20",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "1388",
+      "1402",
+      "1380"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "38d1fa01d5b8f75d967feb3664e9a3cc58422f870f00f3099a0bedde2bfc3584",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_3_21",
+    "original_base": "芦花b",
+    "options": {
+      "dress": "私服",
+      "face": "21",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "1388",
+      "1403",
+      "1380"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "f7ed46e97eec0aa2fb05a475307c751d230ebe66a46f66071780b453ed2eabe5",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_3_22",
+    "original_base": "芦花b",
+    "options": {
+      "dress": "私服",
+      "face": "22",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "1388",
+      "1404",
+      "1380"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      820
+    ],
+    "sha256": "9ff9975949f08662dafae8dafa628c25a0a7951ecfe04b58915d9bd20d309764",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      820
+    ]
+  },
+  {
+    "sprite": "roka_7b2ef8_3_23",
+    "original_base": "芦花b",
+    "options": {
+      "dress": "私服",
+      "face": "23",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "1388",
+      "1405",
+      "1380"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      900
+    ],
+    "sha256": "aec178ef5abc433f68eeaa801cf09ff7a639013ad2cc64ce222693c7785b0efb",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      900
+    ]
+  },
+  {
+    "sprite": "shinako_a46995_1_01",
+    "original_base": "心子a",
+    "options": {
+      "dress": "仕事着",
+      "face": "01",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "806",
+      "898",
+      "908"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      871
+    ],
+    "sha256": "daabb9a2a5c026486101291b9add84587bf9d2f97a63b31ee1bef4ff2c9fa3ab",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      871
+    ]
+  },
+  {
+    "sprite": "shinako_a46995_1_03",
+    "original_base": "心子a",
+    "options": {
+      "dress": "仕事着",
+      "face": "03",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "806",
+      "900",
+      "908"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      790
+    ],
+    "sha256": "304ed77e2b49fad0445190fe9b355f7e4544d794107cc17b4f7a5bd705f2b780",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      790
+    ]
+  },
+  {
+    "sprite": "shinako_a46995_1_07",
+    "original_base": "心子a",
+    "options": {
+      "dress": "仕事着",
+      "face": "07",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "806",
+      "904",
+      "908"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      790
+    ],
+    "sha256": "61a1dcf76943bb461b01a79ff34e0c481d0f1c643cd772556b1e8eff4ae9c3e9",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      790
+    ]
+  },
+  {
+    "sprite": "yasuharu_ee2e34_1_01",
+    "original_base": "安晴a",
+    "options": {
+      "dress": "神主",
+      "face": "01",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "896",
+      "1589"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      769
+    ],
+    "sha256": "831bb16888d798c97f33a8a258d624eb8f3f8ac16b2b394b376ac2bd80d2c95a",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      769
+    ]
+  },
+  {
+    "sprite": "yasuharu_ee2e34_1_03",
+    "original_base": "安晴a",
+    "options": {
+      "dress": "神主",
+      "face": "03",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "896",
+      "1611"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      769
+    ],
+    "sha256": "406d86be5187e6537d6849e11ebed5d1b0e9c3c55ff21ecce268882b7c1df764",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      769
+    ]
+  },
+  {
+    "sprite": "yasuharu_ee2e34_1_04",
+    "original_base": "安晴a",
+    "options": {
+      "dress": "神主",
+      "face": "04",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "896",
+      "1621"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      769
+    ],
+    "sha256": "64965c4546ac9cdc5cfaeebaf395c020dc67a23b351c8e3e47d9e8895893dc5d",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      769
+    ]
+  },
+  {
+    "sprite": "yasuharu_ee2e34_1_06",
+    "original_base": "安晴a",
+    "options": {
+      "dress": "神主",
+      "face": "06",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "896",
+      "1645"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      769
+    ],
+    "sha256": "d19accd228227a5e77f6976e75d9bfe2f118553d94188f6d3b52813cbb4db9a2",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      769
+    ]
+  },
+  {
+    "sprite": "yasuharu_ee2e34_1_09",
+    "original_base": "安晴a",
+    "options": {
+      "dress": "神主",
+      "face": "09",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "896",
+      "1682"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      769
+    ],
+    "sha256": "8a51dd95042e23fbf0712452cdddf1d5e43b88129f2199a39ae7b67e6ac46439",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      769
+    ]
+  },
+  {
+    "sprite": "yasuharu_ee2e34_1_11",
+    "original_base": "安晴a",
+    "options": {
+      "dress": "神主",
+      "face": "11",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "896",
+      "1706"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      657
+    ],
+    "sha256": "0c4f3a0e7809f06caf0a7b95c97ad9d8a697ddffd47594e85daec35a248e9dd1",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      657
+    ]
+  },
+  {
+    "sprite": "yasuharu_ee2e34_1_13",
+    "original_base": "安晴a",
+    "options": {
+      "dress": "神主",
+      "face": "13",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "896",
+      "1725"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      769
+    ],
+    "sha256": "3b2759973654ba5a6f9ec14a8380d626b49d9b241b8a8de931dc5eb1949e2802",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      769
+    ]
+  },
+  {
+    "sprite": "yasuharu_ee2e34_1_14",
+    "original_base": "安晴a",
+    "options": {
+      "dress": "神主",
+      "face": "14",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "896",
+      "1726"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      769
+    ],
+    "sha256": "be92007e1808893009342b5c3e6fd98bd47f9e10fee4b40c02e819bd22b8ccd5",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      769
+    ]
+  },
+  {
+    "sprite": "yasuharu_ee2e34_1_16",
+    "original_base": "安晴a",
+    "options": {
+      "dress": "神主",
+      "face": "16",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "896",
+      "1728"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      769
+    ],
+    "sha256": "2bfeec3a0af4a59c8bc18dd1fd5b8acc3ff4eadd839c60b708835515caa87ad6",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      769
+    ]
+  },
+  {
+    "sprite": "yasuharu_ee2e34_1_17",
+    "original_base": "安晴a",
+    "options": {
+      "dress": "神主",
+      "face": "17",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "896",
+      "1729"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      657
+    ],
+    "sha256": "a1b38e2060dbaf56fcc8a7687be2ba6851c94d2fa91617638c3af229a56d75b6",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      657
+    ]
+  },
+  {
+    "sprite": "yoshino_d7b4db_1_01",
+    "original_base": "芳乃a",
+    "options": {
+      "dress": "舞服",
+      "face": "01",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "1855",
+      "1867",
+      "1890"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      914
+    ],
+    "sha256": "0f25ef383c28311074bc05a1c95e073cbdca273764a1763398be634be6bff47a",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      914
+    ]
+  },
+  {
+    "sprite": "yoshino_d7b4db_1_04",
+    "original_base": "芳乃a",
+    "options": {
+      "dress": "舞服",
+      "face": "04",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "1855",
+      "1870",
+      "1890"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      914
+    ],
+    "sha256": "bec2dc5e51755ce10afd71c6ec39a335be00655cfa261a5977d9d05d522bf2d8",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      914
+    ]
+  },
+  {
+    "sprite": "yoshino_d7b4db_1_06",
+    "original_base": "芳乃a",
+    "options": {
+      "dress": "舞服",
+      "face": "06",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "1855",
+      "1872",
+      "1890"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      914
+    ],
+    "sha256": "3ba8f696503cfec810dce1e7cfeb360ccc1a891a688ba92c775fe683af198d9d",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      914
+    ]
+  },
+  {
+    "sprite": "yoshino_d7b4db_1_09",
+    "original_base": "芳乃a",
+    "options": {
+      "dress": "舞服",
+      "face": "09",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "1855",
+      "1875",
+      "1890"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      914
+    ],
+    "sha256": "05292e80888ffbdbd3e84df413ba7e0e7632e99470f2e9d8eb5b70cffec434db",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      914
+    ]
+  },
+  {
+    "sprite": "yoshino_d7b4db_1_10",
+    "original_base": "芳乃a",
+    "options": {
+      "dress": "舞服",
+      "face": "10",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "1855",
+      "1876",
+      "1890"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      914
+    ],
+    "sha256": "cffef34e1b5b8f44b65d49602ab1f88afa4468fbe2fa0b4d8399e06d2a5b56b6",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      914
+    ]
+  },
+  {
+    "sprite": "yoshino_d7b4db_1_11",
+    "original_base": "芳乃a",
+    "options": {
+      "dress": "舞服",
+      "face": "11",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "1855",
+      "1877",
+      "1890"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      914
+    ],
+    "sha256": "e0936452a7888b5e4f4cf5c81cbf164a1cb57c00bc7a52f0db6f7bdf97a91b82",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      914
+    ]
+  },
+  {
+    "sprite": "yoshino_d7b4db_1_17",
+    "original_base": "芳乃a",
+    "options": {
+      "dress": "舞服",
+      "face": "17",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "1855",
+      "1883",
+      "1890"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      914
+    ],
+    "sha256": "4ba6de543e89de65aaffa1956336d9ea123c4125101f560edbd35f369070d722",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      914
+    ]
+  },
+  {
+    "sprite": "yoshino_d7b4db_1_18",
+    "original_base": "芳乃a",
+    "options": {
+      "dress": "舞服",
+      "face": "18",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "1855",
+      "1884",
+      "1890"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      914
+    ],
+    "sha256": "355c933ca2866051868dba001645e7526511ed07a788271ffb94e9df87eaac43",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      914
+    ]
+  },
+  {
+    "sprite": "yoshino_d7b4db_1_20",
+    "original_base": "芳乃a",
+    "options": {
+      "dress": "舞服",
+      "face": "20",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "1855",
+      "1886",
+      "1890"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      914
+    ],
+    "sha256": "bdc3cd7d696dacbc4bf5abe2024fb45c15c337dc2f57bab582e5961378c38f68",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      914
+    ]
+  },
+  {
+    "sprite": "yoshino_d7b4db_1_22",
+    "original_base": "芳乃a",
+    "options": {
+      "dress": "舞服",
+      "face": "22",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "1855",
+      "1888",
+      "1890"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      914
+    ],
+    "sha256": "1776a1ae47751db6eca29ae1d6930131817e29a46c3fe72f96e463dfcf3a074d",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      914
+    ]
+  },
+  {
+    "sprite": "yoshino_d7b4db_1_30",
+    "original_base": "芳乃a",
+    "options": {
+      "dress": "舞服",
+      "face": "30",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "1855",
+      "1915",
+      "1890"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      914
+    ],
+    "sha256": "404929444fcbf8a256672bf5743f0b0af4625d24ee8dea72bed9df9738595baa",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      914
+    ]
+  },
+  {
+    "sprite": "yoshino_d7b4db_1_33",
+    "original_base": "芳乃a",
+    "options": {
+      "dress": "舞服",
+      "face": "33",
+      "pose": "1"
+    },
+    "layers_bottom_to_top": [
+      "1855",
+      "1918",
+      "1890"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      914
+    ],
+    "sha256": "e41bedd8c6d5e7881adf0b78462485d571d8463fd2b3a6aeca15ac9bc0646272",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      914
+    ]
+  },
+  {
+    "sprite": "yoshino_d7b4db_3_01",
+    "original_base": "芳乃b",
+    "options": {
+      "dress": "舞服",
+      "face": "01",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "1994",
+      "2050",
+      "2019"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      914
+    ],
+    "sha256": "110966802dfde40dd9da86bd8a0f8bdfe2e755eb95c66974fc2e18cb81e52f0c",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      914
+    ]
+  },
+  {
+    "sprite": "yoshino_d7b4db_3_05",
+    "original_base": "芳乃b",
+    "options": {
+      "dress": "舞服",
+      "face": "05",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "1994",
+      "2004",
+      "2019"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      914
+    ],
+    "sha256": "b26f424757884ed8bbf0cc75067e3932f9c6a2020b328cfc3be67013567be2bb",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      914
+    ]
+  },
+  {
+    "sprite": "yoshino_d7b4db_3_06",
+    "original_base": "芳乃b",
+    "options": {
+      "dress": "舞服",
+      "face": "06",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "1994",
+      "2005",
+      "2019"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      914
+    ],
+    "sha256": "56443bf3f63b9c1438d723bc9ab7aa4d737dc2f01260660fe4e076c02ea0b239",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      914
+    ]
+  },
+  {
+    "sprite": "yoshino_d7b4db_3_09",
+    "original_base": "芳乃b",
+    "options": {
+      "dress": "舞服",
+      "face": "09",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "1994",
+      "2008",
+      "2019"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      832
+    ],
+    "sha256": "309b7a53e0c6088c378cce6c356259d1bfcf1a510781a7077d8ca9a2a7151ceb",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      832
+    ]
+  },
+  {
+    "sprite": "yoshino_d7b4db_3_10",
+    "original_base": "芳乃b",
+    "options": {
+      "dress": "舞服",
+      "face": "10",
+      "pose": "3"
+    },
+    "layers_bottom_to_top": [
+      "1994",
+      "2009",
+      "2019"
+    ],
+    "crop": [
+      750,
+      800,
+      2850,
+      5100
+    ],
+    "size": [
+      1000,
+      832
+    ],
+    "sha256": "f2ece9f6b4a41bd9f0e3e5680454a996a136acdb87c6a737eb54ed3bbb018d9f",
+    "uncropped_size": [
+      1000,
+      2048
+    ],
+    "texture_crop": [
+      0,
+      0,
+      1000,
+      832
+    ]
+  }
+]

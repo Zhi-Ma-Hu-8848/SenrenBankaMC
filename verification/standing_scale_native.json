@@ -1,0 +1,172 @@
+{
+  "authority": "NetEase game launched directly through MCDK; native control measurements and window captures",
+  "cases": [
+    {
+      "audio_errors": [],
+      "controls": {
+        "/root/story/stage": {
+          "position": [
+            20.72222137451172,
+            0.0
+          ],
+          "size": [
+            451.5555419921875,
+            254.0
+          ]
+        },
+        "/root/story/stage/visual0": {
+          "position": [
+            33.195560455322266,
+            -78.31666564941406
+          ],
+          "size": [
+            370.3477783203125,
+            758.4722290039062
+          ]
+        }
+      },
+      "cue_id": "walk_014",
+      "ui_ready": true,
+      "visuals": [
+        {
+          "alpha": 1,
+          "aspect": 0.48828125,
+          "height": 2.986111111111111,
+          "texture": "characters/roka_7b2ef8_2_32",
+          "x": 0.48359375,
+          "y": -0.30833333333333335
+        }
+      ],
+      "capture": "SenrenBankaMC/verification/runtime/standing_scale/single_roka.png",
+      "sha256": "4445a12074559733757616509fd4c38f5f67fd929b7b6b4289826af3fac4e85b",
+      "window": {
+        "hwnd": 4917768,
+        "title": "(1479, 762) Minecraft",
+        "rect": [
+          999,
+          366,
+          2496,
+          1175
+        ]
+      }
+    },
+    {
+      "audio_errors": [],
+      "controls": {
+        "/root/story/stage": {
+          "position": [
+            20.72222137451172,
+            0.0
+          ],
+          "size": [
+            451.5555419921875,
+            254.0
+          ]
+        },
+        "/root/story/stage/visual0": {
+          "position": [
+            33.195560455322266,
+            -78.31666564941406
+          ],
+          "size": [
+            370.3477783203125,
+            758.4722290039062
+          ]
+        },
+        "/root/story/stage/visual1": {
+          "position": [
+            189.82888793945312,
+            -72.67222595214844
+          ],
+          "size": [
+            370.3477783203125,
+            758.4722290039062
+          ]
+        },
+        "/root/story/stage/visual2": {
+          "position": [
+            -86.39610290527344,
+            -43.74444580078125
+          ],
+          "size": [
+            370.3477783203125,
+            758.4722290039062
+          ]
+        }
+      },
+      "cue_id": "walk_214",
+      "ui_ready": true,
+      "visuals": [
+        {
+          "alpha": 1,
+          "aspect": 0.48828125,
+          "height": 2.986111111111111,
+          "texture": "characters/roka_7b2ef8_1_34",
+          "x": 0.48359375,
+          "y": -0.30833333333333335
+        },
+        {
+          "alpha": 1,
+          "aspect": 0.48828125,
+          "height": 2.986111111111111,
+          "texture": "characters/koharu_7b2ef8_3_14",
+          "x": 0.83046875,
+          "y": -0.2861111111111111
+        },
+        {
+          "alpha": 1,
+          "aspect": 0.48828125,
+          "height": 2.986111111111111,
+          "texture": "characters/rentaro_7b2ef8_1_01",
+          "x": 0.21875,
+          "y": -0.1722222222222223
+        }
+      ],
+      "capture": "SenrenBankaMC/verification/runtime/standing_scale/three_characters.png",
+      "sha256": "545b583b74dbd77eebd05cf2780e4177c4dc25f490935f4cf83dfc20cc3774a5",
+      "window": {
+        "hwnd": 4917768,
+        "title": "(1479, 762) Minecraft",
+        "rect": [
+          999,
+          366,
+          2496,
+          1175
+        ]
+      }
+    }
+  ],
+  "restored_progress": {
+    "checkpoint": {
+      "awaiting_choice": false,
+      "cue_id": "walk_077",
+      "finished": false,
+      "route": "*001_01A",
+      "schema": 2,
+      "story_id": "senren_chapter_1_1_v3"
+    },
+    "mode": "progress"
+  },
+  "restored_result": {
+    "cue_id": "walk_077",
+    "mode": "story"
+  },
+  "production_data_sha256": "edb2692f03dc4a3d0d8e5868e2f22c11d83713d84cfc7c308b22d52df5be83c8",
+  "visual_review": {
+    "single_roka": "Original-style upper-body framing; head height and visible character size compared with the supplied capture.",
+    "three_characters": "Rentaro left, Roka center and Koharu right; relative heights and spacing compared with the supplied capture.",
+    "native_visual_review_complete": true,
+    "automated_tests_passed": 23,
+    "chapter_text_and_resource_checks_passed": true
+  },
+  "reference_captures": [
+    {
+      "path": "C:\\Users\\CJK\\AppData\\Local\\Temp\\codex-clipboard-d9734cdd-e027-45f1-b95c-47bd323546cb.png",
+      "sha256": "4a2a91d25e2e24c9aa5995956106f69a8111340f7f19175d1da28f6605bcff04"
+    },
+    {
+      "path": "C:\\Users\\CJK\\AppData\\Local\\Temp\\codex-clipboard-b6491ca2-12fe-4a71-a396-900046385a98.png",
+      "sha256": "f6c237eaf4996bce46075b1b016b721d8a7772e8b0ad5c59cb9635c9d37607dc"
+    }
+  ]
+}

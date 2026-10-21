@@ -1,0 +1,59 @@
+{
+  "authority": "Actual NetEase 3.10 client launched directly through MCDK; native window captures",
+  "client_version": "3.10.0.420447",
+  "workbench_used_for_acceptance": false,
+  "story_id": "senren_chapter_1_1_v3",
+  "unique_cues": 807,
+  "route_counts": [
+    798,
+    802
+  ],
+  "voice_files": 350,
+  "standing_variants_shipped": 174,
+  "native_observations": [
+    "Complete 1-1 title displayed in the actual game client.",
+    "New chapter CG and Chinese dialogue rendered with 30% dialogue and toolbar backgrounds.",
+    "Final progress menu rendered with the native common.text_edit_box input control; custom numeric keypad removed."
+  ],
+  "dialogue_background_alpha": 0.3,
+  "toolbar_background_alpha": 0.3,
+  "text_alpha": 1,
+  "captures": {
+    "11-chapter11-title.png": "ecf88d3d2ac6fbb0b7d2ce1517ff53801df528f4c9d2c5fc0e739671c94a8f36",
+    "14-chapter11-roka.png": "9dd1b4ed9c905e05940c954d09a649c299f66c94d6ca3694fb8845745c6a4bbc",
+    "19-native-input-picker.png": "58c2c830d84e9dce55be81d270d73f84cbeec289f70a611c16b6b25e0c90534e"
+  },
+  "production_python_sha256": {
+    "config.py": "ade3c447b4b62e8d46682d9cf812a662897b51fb4f3b88bb39d4fb17c586a37c",
+    "modMain.py": "ddd79d36c552dd91a612b89acdb190873cd5f026277397cb853680a4f63d60ce",
+    "__init__.py": "8b084a9f378124b2b1a51563bf3c22444eb7ff33692017da28b2136ae56987ed",
+    "client/audio.py": "f220bcc1a65be8e09e1ad475d2eb2627879e0ff8ad84c69e9e52befc508e404d",
+    "client/launcher.py": "459b1012532873f69258d4a1c8273d07f118e818a8d13780dab93fe8af6c4b98",
+    "client/progress.py": "211beb4556a7a1b525baecf22b3bd9986b9760127d1e6a9cf9d2b74d62114be7",
+    "client/renderer.py": "c952402f24e87b277f41196afd3e4f3778ba85afd7e06d541aa507ccda5cd35e",
+    "client/screen.py": "1d836fa85042cd15bd35a7c7a6ae164e8fab830161215ac1eb1da533fea2a289",
+    "client/system.py": "a1e27c804938241eda7e75ba99550c86f614f8400a362ad8cf8030558b804060",
+    "client/__init__.py": "8b084a9f378124b2b1a51563bf3c22444eb7ff33692017da28b2136ae56987ed",
+    "core/catalogue.py": "96d47f9de456d0bd47e0cc93797e9a9026bcf5276223538cae7c24ffb55c3135",
+    "core/story.py": "6419915fc252ec4974446ea34cb84a994f71bae0830750719929edcce0d1cbec",
+    "core/__init__.py": "8b084a9f378124b2b1a51563bf3c22444eb7ff33692017da28b2136ae56987ed",
+    "data/prologue.py": "05db9ceb60c235253684bf7837a91c88a8393ff27d1ece360861ee2ca654a619",
+    "data/__init__.py": "9552f854fcf77389160a08cfb4be2eb902cd9a0c0af76ab57df02cbf9125d369"
+  },
+  "ui_sha256": "e489519076abf78ad0b2fbc6ec4d9845c5c8720c6ad96852e0b79c62472acd21",
+  "automated_logic_tests": {
+    "success": true,
+    "count": 16,
+    "harness": "Strict fake ModSDK, separate from native render observations"
+  },
+  "manual_acceptance": "User requested to test the final version themselves; native input-submit and full route acceptance are pending that test.",
+  "historical_manual_confirmation": {
+    "scope": "Previous 216-cue Roka prototype only",
+    "text": "我手动已经确认正常了"
+  },
+  "limits": [
+    "SD animation uses representative static keyframes; vertical CG uses a static viewport.",
+    "Complex original camera, transitions and particles are not fully recreated."
+  ],
+  "completion_verified": false
+}

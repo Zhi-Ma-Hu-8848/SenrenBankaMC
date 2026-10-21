@@ -1,0 +1,46 @@
+{
+  "authority": "Actual native editor baselines, independent of the Senren addon",
+  "baselines": [
+    {
+      "project": "vanilla_baseline",
+      "authority": "Fresh native editor project created using OnlyCreateFiles; no Senren content installed",
+      "configuration_file": "D:\\Users\\CJK\\ChatGPT\\旮旯game\\SenrenBankaMC\\verification\\runtime\\vanilla_baseline\\studio.json",
+      "editor_version": "3.9.0.400525",
+      "log": "C:\\Users\\CJK\\AppData\\Roaming\\Sunshine\\Log\\SunshineGame.2026-10-19-14-03-26.log",
+      "log_sha256": "dfd3060ffe7b345edd2b6d913a7c0e5a7f62408baeab35a7093498f1cee887e4",
+      "addon_lists": [
+        "[2026-10-19 14:03:35,707] [INFO] SERVER addon list: [{\"path\":\"C:/Users/CJK/AppData/Roaming/MinecraftPE_Netease_Editor/games/com.netease/behavior_packs/behavior_pack_fyxR0wEN\",\"uuid\":\"ad7ea39d-520a-472c-94c0-f3088a5efd2f\",\"version\":\"0.0.1\"}]",
+        "[2026-10-19 14:03:36,802] [INFO] CLIENT addon list: [{\"path\":\"C:/Users/CJK/AppData/Roaming/MinecraftPE_Netease_Editor/games/com.netease/behavior_packs/behavior_pack_fyxR0wEN\",\"uuid\":\"ad7ea39d-520a-472c-94c0-f3088a5efd2f\",\"version\":\"0.0.1\"},{\"path\":\"C:/Users/CJK/AppData/Roaming/MinecraftPE_Netease_Editor/games/com.netease/resource_packs/resource_pack_26bnMDvh\",\"uuid\":\"0f328e01-b4b6-4890-847b-7d0cb95cae8c\",\"version\":\"0.0.1\"}]"
+      ],
+      "senren_mounted": false,
+      "observation": "Viewport is white in both PrintWindow and Windows Graphics Capture",
+      "captures": {
+        "capture.png": "5f2992464faf69a239fd809b37031322566f2a31660545bd9ea258d81dfe0a1d",
+        "graphics_capture.png": "9e35197191dc18ea9f843b1a334496fb8d85b95b3f3b93464e384c03c603f8b3"
+      }
+    },
+    {
+      "project": "alternate_embed_baseline",
+      "authority": "Fresh no-Senren native project using supported alternate window embedding",
+      "configuration_file": "D:\\Users\\CJK\\ChatGPT\\旮旯game\\SenrenBankaMC\\verification\\runtime\\alternate_embed_baseline\\studio.json",
+      "editor_version": "3.9.0.400525",
+      "log": "C:\\Users\\CJK\\AppData\\Roaming\\Sunshine\\Log\\SunshineGame.2026-10-19-14-09-23.log",
+      "log_sha256": "94990f0ac12ab86137c9d81a519b0edb0689c6480e35d676a3e3503e30aa57e4",
+      "addon_lists": [
+        "[2026-10-19 14:09:32,414] [INFO] SERVER addon list: [{\"path\":\"C:/Users/CJK/AppData/Roaming/MinecraftPE_Netease_Editor/games/com.netease/behavior_packs/behavior_pack_fyxR0wEN\",\"uuid\":\"ad7ea39d-520a-472c-94c0-f3088a5efd2f\",\"version\":\"0.0.1\"}]",
+        "[2026-10-19 14:09:33,780] [INFO] CLIENT addon list: [{\"path\":\"C:/Users/CJK/AppData/Roaming/MinecraftPE_Netease_Editor/games/com.netease/behavior_packs/behavior_pack_fyxR0wEN\",\"uuid\":\"ad7ea39d-520a-472c-94c0-f3088a5efd2f\",\"version\":\"0.0.1\"},{\"path\":\"C:/Users/CJK/AppData/Roaming/MinecraftPE_Netease_Editor/games/com.netease/resource_packs/resource_pack_26bnMDvh\",\"uuid\":\"0f328e01-b4b6-4890-847b-7d0cb95cae8c\",\"version\":\"0.0.1\"}]"
+      ],
+      "senren_mounted": false,
+      "observation": "Viewport remains white using monitor Windows Graphics Capture, including in game mode",
+      "captures": {
+        "capture.png": "e2c6cd00954d0eda4b16b5945fe67b2717fe6815a9c09dc51b03aff5f86355b8",
+        "game_mode.png": "89616fcccf1f459d088ad28a3ba729da9ca3f4f5458629cf947092a1df8f9116",
+        "monitor_capture.png": "4b9e3f06643d2fc1242384411d73a9bc0311f1cfe59864b7e2e4f6a923746edc"
+      }
+    }
+  ],
+  "conclusion": "Both native no-Senren projects have a white viewport, including an alternate embedding method and game mode. The specific cause remains undetermined.",
+  "addon_visual_verified": false,
+  "physical_button_input_verified": false,
+  "audible_output_verified": false
+}

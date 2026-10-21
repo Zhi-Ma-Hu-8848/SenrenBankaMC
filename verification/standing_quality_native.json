@@ -1,0 +1,120 @@
+{
+  "authority": "Actual NetEase client through MCDK; original-layer recomposition and native window captures",
+  "texture_size": [
+    1000,
+    2048
+  ],
+  "smooth_sampling": true,
+  "cases": [
+    {
+      "audio_errors": [],
+      "controls": {
+        "/root/story/stage": {
+          "position": [
+            19.83333396911621,
+            0.0
+          ],
+          "size": [
+            453.3333435058594,
+            255.0
+          ]
+        },
+        "/root/story/stage/visual0": {
+          "position": [
+            33.32625198364258,
+            -78.625
+          ],
+          "size": [
+            371.8058166503906,
+            761.4583129882812
+          ]
+        }
+      },
+      "cue_id": "walk_014",
+      "capture": "SenrenBankaMC/verification/runtime/standing_quality/single_roka_1000x2048.png",
+      "sha256": "c1dbeb22e5d42e169ded5c00b93e1f6b8ab076437d39f38edaf203753f87ee4e",
+      "window": {
+        "hwnd": 4917768,
+        "title": "(1479, 762) Minecraft",
+        "rect": [
+          941,
+          349,
+          2438,
+          1158
+        ]
+      }
+    },
+    {
+      "audio_errors": [],
+      "controls": {
+        "/root/story/stage": {
+          "position": [
+            19.83333396911621,
+            0.0
+          ],
+          "size": [
+            453.3333435058594,
+            255.0
+          ]
+        },
+        "/root/story/stage/visual0": {
+          "position": [
+            33.32625198364258,
+            -78.625
+          ],
+          "size": [
+            371.8058166503906,
+            761.4583129882812
+          ]
+        },
+        "/root/story/stage/visual1": {
+          "position": [
+            190.5762481689453,
+            -72.95833587646484
+          ],
+          "size": [
+            371.8058166503906,
+            761.4583129882812
+          ]
+        },
+        "/root/story/stage/visual2": {
+          "position": [
+            -86.73624420166016,
+            -43.91666793823242
+          ],
+          "size": [
+            371.8058166503906,
+            761.4583129882812
+          ]
+        }
+      },
+      "cue_id": "walk_214",
+      "capture": "SenrenBankaMC/verification/runtime/standing_quality/three_characters_1000x2048.png",
+      "sha256": "592fc7f4000b7027687aaa7dbeb418f758b4b5937e3ff1beac5c3aae1205daf6",
+      "window": {
+        "hwnd": 4917768,
+        "title": "(1479, 762) Minecraft",
+        "rect": [
+          941,
+          349,
+          2438,
+          1158
+        ]
+      }
+    }
+  ],
+  "restored_progress": {
+    "cue_id": "walk_347",
+    "mode": "story"
+  },
+  "standing_manifest_sha256": "9523598ca4407f4aeed3165f82b61223aaae1a54b4d27e56f1b366872808e86f",
+  "ui_sha256": "56944838ab3e90eb6233ac0a5c1888cd522061b6f918f43b83cd831045ad7be8",
+  "visual_review_complete": true,
+  "observations": [
+    "Single-person and three-person scenes display smoother character outlines and facial detail.",
+    "Character composition and placement are unchanged.",
+    "All 174 current-chapter standing textures were recomposed from original layers at 1000x2048."
+  ],
+  "automated_tests_passed": 23,
+  "resource_checks_passed": true
+}

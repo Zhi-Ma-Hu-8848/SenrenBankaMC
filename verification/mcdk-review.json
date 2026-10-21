@@ -1,0 +1,33 @@
+{
+  "behavior_pack_root": "D:/Users/CJK/ChatGPT/旮旯game/SenrenBankaMC/behavior_pack",
+  "config_source": "内置默认值",
+  "config_warnings": [],
+  "files_scanned": 15,
+  "findings_total": 0,
+  "highest_severity": "none",
+  "ignored_third_party": [],
+  "max_findings_per_rule": 20,
+  "package_discovery": "modMain",
+  "packages": [
+    {
+      "entry_file": "D:/Users/CJK/ChatGPT/旮旯game/SenrenBankaMC/behavior_pack/senren_mc/modMain.py",
+      "files_scanned": 15,
+      "name": "senren_mc",
+      "parse_failed": 0,
+      "parse_ok": 15,
+      "parse_recovered": 0
+    }
+  ],
+  "parse_health": {
+    "failed": 0,
+    "ok": 15,
+    "recovered": 0
+  },
+  "rules": [],
+  "severity_counts": {
+    "error": 0,
+    "hint": 0,
+    "risk": 0,
+    "warning": 0
+  }
+}

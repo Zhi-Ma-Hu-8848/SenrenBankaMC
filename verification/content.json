@@ -1,0 +1,5745 @@
+{
+  "success": true,
+  "source_text_coverage": "807/807 exact text and order; only 001 scenario",
+  "cue_count": 807,
+  "route_counts": [
+    798,
+    802
+  ],
+  "voiced_cues": 349,
+  "standing_variants": 164,
+  "standing_uncropped_size": [
+    1000,
+    2048
+  ],
+  "standing_texture_width": 1000,
+  "standing_texture_height_range": [
+    657,
+    1056
+  ],
+  "standing_bilinear": true,
+  "images": 348,
+  "audio_files": 367,
+  "resources": [
+    {
+      "file": "pack_icon.png",
+      "type": "image",
+      "size": [
+        128,
+        128
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/backgrounds/black.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/backgrounds/inn.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/backgrounds/inn_blur.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/backgrounds/inn_gray.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/backgrounds/night.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/backgrounds/night_blur.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/backgrounds/night_gray.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/backgrounds/path.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/backgrounds/path_blur.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/backgrounds/path_gray.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/backgrounds/shrine.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/backgrounds/shrine_blur.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/backgrounds/shrine_evening.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/backgrounds/shrine_evening_blur.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/backgrounds/shrine_evening_gray.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/backgrounds/shrine_gray.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/backgrounds/shrine_inside.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/backgrounds/shrine_inside_blur.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/backgrounds/shrine_inside_gray.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/backgrounds/shrine_sword.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/backgrounds/shrine_sword_blur.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/backgrounds/shrine_sword_gray.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/backgrounds/sky.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/backgrounds/sky_blur.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/backgrounds/sky_gray.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/backgrounds/street.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/backgrounds/street_blur.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/backgrounds/street_gray.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/backgrounds/town.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/backgrounds/town_blur.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/backgrounds/town_empty.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/backgrounds/town_empty_blur.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/backgrounds/town_empty_gray.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/backgrounds/town_gray.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/visuals/cut_x_cen.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/visuals/cut_y_cen.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/visuals/ev301aa.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/visuals/ev301ac.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/visuals/ev301ad.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/visuals/ev301bb.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/visuals/ev301cb.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/visuals/ev301da.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/visuals/ev701aa.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/visuals/ev701ab.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/visuals/sd001aa.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/visuals/sd001ba.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/visuals/sd001bb.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/visuals/sd001cb.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/visuals/sd001dc.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/visuals/sd001ec.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/visuals/sd001ed.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/visuals/sd001fd.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/visuals/sd001gd.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/visuals/sd001hd.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/visuals/sd002aa.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/visuals/sd002ba.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/visuals/sd002bb.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/visuals/sd002bc.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/visuals/sd002cb.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/visuals/sd002dd.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/visuals/sd002de.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/visuals/speed_lines.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backdrops/visuals/white.png",
+      "type": "image",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backgrounds/black.png",
+      "type": "image",
+      "size": [
+        4,
+        4
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backgrounds/inn.png",
+      "type": "image",
+      "size": [
+        1110,
+        640
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backgrounds/inn_blur.png",
+      "type": "image",
+      "size": [
+        1110,
+        640
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backgrounds/inn_gray.png",
+      "type": "image",
+      "size": [
+        1110,
+        640
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backgrounds/night.png",
+      "type": "image",
+      "size": [
+        1110,
+        640
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backgrounds/night_blur.png",
+      "type": "image",
+      "size": [
+        1110,
+        640
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backgrounds/night_gray.png",
+      "type": "image",
+      "size": [
+        1110,
+        640
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backgrounds/path.png",
+      "type": "image",
+      "size": [
+        1110,
+        640
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backgrounds/path_blur.png",
+      "type": "image",
+      "size": [
+        1110,
+        640
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backgrounds/path_gray.png",
+      "type": "image",
+      "size": [
+        1110,
+        640
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backgrounds/shrine.png",
+      "type": "image",
+      "size": [
+        1110,
+        640
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backgrounds/shrine_blur.png",
+      "type": "image",
+      "size": [
+        1110,
+        640
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backgrounds/shrine_evening.png",
+      "type": "image",
+      "size": [
+        1110,
+        640
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backgrounds/shrine_evening_blur.png",
+      "type": "image",
+      "size": [
+        1110,
+        640
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backgrounds/shrine_evening_gray.png",
+      "type": "image",
+      "size": [
+        1110,
+        640
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backgrounds/shrine_gray.png",
+      "type": "image",
+      "size": [
+        1110,
+        640
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backgrounds/shrine_inside.png",
+      "type": "image",
+      "size": [
+        1110,
+        640
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backgrounds/shrine_inside_blur.png",
+      "type": "image",
+      "size": [
+        1110,
+        640
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backgrounds/shrine_inside_gray.png",
+      "type": "image",
+      "size": [
+        1110,
+        640
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backgrounds/shrine_sword.png",
+      "type": "image",
+      "size": [
+        1110,
+        640
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backgrounds/shrine_sword_blur.png",
+      "type": "image",
+      "size": [
+        1110,
+        640
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backgrounds/shrine_sword_gray.png",
+      "type": "image",
+      "size": [
+        1110,
+        640
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backgrounds/sky.png",
+      "type": "image",
+      "size": [
+        1110,
+        640
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backgrounds/sky_blur.png",
+      "type": "image",
+      "size": [
+        1110,
+        640
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backgrounds/sky_gray.png",
+      "type": "image",
+      "size": [
+        1110,
+        640
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backgrounds/street.png",
+      "type": "image",
+      "size": [
+        960,
+        540
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backgrounds/street_blur.png",
+      "type": "image",
+      "size": [
+        960,
+        540
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backgrounds/street_gray.png",
+      "type": "image",
+      "size": [
+        960,
+        540
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backgrounds/town.png",
+      "type": "image",
+      "size": [
+        960,
+        540
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backgrounds/town_blur.png",
+      "type": "image",
+      "size": [
+        960,
+        540
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backgrounds/town_empty.png",
+      "type": "image",
+      "size": [
+        960,
+        540
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backgrounds/town_empty_blur.png",
+      "type": "image",
+      "size": [
+        960,
+        540
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backgrounds/town_empty_gray.png",
+      "type": "image",
+      "size": [
+        960,
+        540
+      ]
+    },
+    {
+      "file": "textures/senren_mc/backgrounds/town_gray.png",
+      "type": "image",
+      "size": [
+        960,
+        540
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/genjuro_7b2ef8_1_01.png",
+      "type": "image",
+      "size": [
+        1000,
+        745
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/genjuro_7b2ef8_1_02.png",
+      "type": "image",
+      "size": [
+        1000,
+        686
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/genjuro_7b2ef8_1_04.png",
+      "type": "image",
+      "size": [
+        1000,
+        779
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/genjuro_7b2ef8_1_05.png",
+      "type": "image",
+      "size": [
+        1000,
+        779
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/genjuro_7b2ef8_1_06.png",
+      "type": "image",
+      "size": [
+        1000,
+        779
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/genjuro_7b2ef8_1_07.png",
+      "type": "image",
+      "size": [
+        1000,
+        779
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/genjuro_7b2ef8_1_08.png",
+      "type": "image",
+      "size": [
+        1000,
+        686
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/genjuro_7b2ef8_1_09.png",
+      "type": "image",
+      "size": [
+        1000,
+        779
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/genjuro_7b2ef8_1_11.png",
+      "type": "image",
+      "size": [
+        1000,
+        779
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/genjuro_7b2ef8_1_17.png",
+      "type": "image",
+      "size": [
+        1000,
+        779
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/genjuro_7b2ef8_1_18.png",
+      "type": "image",
+      "size": [
+        1000,
+        779
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/koharu_7b2ef8_1_01.png",
+      "type": "image",
+      "size": [
+        1000,
+        885
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/koharu_7b2ef8_1_02.png",
+      "type": "image",
+      "size": [
+        1000,
+        885
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/koharu_7b2ef8_1_04.png",
+      "type": "image",
+      "size": [
+        1000,
+        799
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/koharu_7b2ef8_1_15.png",
+      "type": "image",
+      "size": [
+        1000,
+        885
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/koharu_7b2ef8_1_18.png",
+      "type": "image",
+      "size": [
+        1000,
+        885
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/koharu_7b2ef8_1_21.png",
+      "type": "image",
+      "size": [
+        1000,
+        799
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/koharu_7b2ef8_1_26.png",
+      "type": "image",
+      "size": [
+        1000,
+        799
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/koharu_7b2ef8_1_27.png",
+      "type": "image",
+      "size": [
+        1000,
+        799
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/koharu_7b2ef8_2_15.png",
+      "type": "image",
+      "size": [
+        1000,
+        885
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/koharu_7b2ef8_2_25.png",
+      "type": "image",
+      "size": [
+        1000,
+        799
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/koharu_7b2ef8_2_27.png",
+      "type": "image",
+      "size": [
+        1000,
+        799
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/koharu_7b2ef8_2_28.png",
+      "type": "image",
+      "size": [
+        1000,
+        885
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/koharu_7b2ef8_2_30.png",
+      "type": "image",
+      "size": [
+        1000,
+        885
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/koharu_7b2ef8_2_32.png",
+      "type": "image",
+      "size": [
+        1000,
+        885
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/koharu_7b2ef8_3_01.png",
+      "type": "image",
+      "size": [
+        1000,
+        799
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/koharu_7b2ef8_3_02.png",
+      "type": "image",
+      "size": [
+        1000,
+        885
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/koharu_7b2ef8_3_05.png",
+      "type": "image",
+      "size": [
+        1000,
+        885
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/koharu_7b2ef8_3_10.png",
+      "type": "image",
+      "size": [
+        1000,
+        885
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/koharu_7b2ef8_3_13.png",
+      "type": "image",
+      "size": [
+        1000,
+        885
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/koharu_7b2ef8_3_14.png",
+      "type": "image",
+      "size": [
+        1000,
+        885
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/koharu_7b2ef8_3_15.png",
+      "type": "image",
+      "size": [
+        1000,
+        885
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_1_01.png",
+      "type": "image",
+      "size": [
+        1000,
+        965
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_1_04.png",
+      "type": "image",
+      "size": [
+        1000,
+        965
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_1_05.png",
+      "type": "image",
+      "size": [
+        1000,
+        879
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_1_06.png",
+      "type": "image",
+      "size": [
+        1000,
+        879
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_1_28.png",
+      "type": "image",
+      "size": [
+        1000,
+        965
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_1_29.png",
+      "type": "image",
+      "size": [
+        1000,
+        965
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_1_35.png",
+      "type": "image",
+      "size": [
+        1000,
+        965
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_1_36.png",
+      "type": "image",
+      "size": [
+        1000,
+        965
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_2_01.png",
+      "type": "image",
+      "size": [
+        1000,
+        965
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_2_03h.png",
+      "type": "image",
+      "size": [
+        1000,
+        879
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_2_04.png",
+      "type": "image",
+      "size": [
+        1000,
+        965
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_2_05.png",
+      "type": "image",
+      "size": [
+        1000,
+        879
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_2_05h.png",
+      "type": "image",
+      "size": [
+        1000,
+        879
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_2_10.png",
+      "type": "image",
+      "size": [
+        1000,
+        965
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_2_10h.png",
+      "type": "image",
+      "size": [
+        1000,
+        965
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_2_13h.png",
+      "type": "image",
+      "size": [
+        1000,
+        879
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_2_14.png",
+      "type": "image",
+      "size": [
+        1000,
+        965
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_2_16.png",
+      "type": "image",
+      "size": [
+        1000,
+        965
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_2_17.png",
+      "type": "image",
+      "size": [
+        1000,
+        965
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_2_20h.png",
+      "type": "image",
+      "size": [
+        1000,
+        879
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_2_21.png",
+      "type": "image",
+      "size": [
+        1000,
+        879
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_2_28.png",
+      "type": "image",
+      "size": [
+        1000,
+        965
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_2_29.png",
+      "type": "image",
+      "size": [
+        1000,
+        965
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_2_35.png",
+      "type": "image",
+      "size": [
+        1000,
+        879
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_2_36.png",
+      "type": "image",
+      "size": [
+        1000,
+        965
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_2_37.png",
+      "type": "image",
+      "size": [
+        1000,
+        965
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_2_38h.png",
+      "type": "image",
+      "size": [
+        1000,
+        965
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_3_01.png",
+      "type": "image",
+      "size": [
+        1000,
+        965
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_3_09h.png",
+      "type": "image",
+      "size": [
+        1000,
+        965
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_3_10.png",
+      "type": "image",
+      "size": [
+        1000,
+        879
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_3_12.png",
+      "type": "image",
+      "size": [
+        1000,
+        879
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_3_14h.png",
+      "type": "image",
+      "size": [
+        1000,
+        879
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_3_15h.png",
+      "type": "image",
+      "size": [
+        1000,
+        879
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_3_18.png",
+      "type": "image",
+      "size": [
+        1000,
+        965
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_3_20.png",
+      "type": "image",
+      "size": [
+        1000,
+        965
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_3_24.png",
+      "type": "image",
+      "size": [
+        1000,
+        965
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_3_26.png",
+      "type": "image",
+      "size": [
+        1000,
+        965
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_3_26h.png",
+      "type": "image",
+      "size": [
+        1000,
+        879
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_3_27.png",
+      "type": "image",
+      "size": [
+        1000,
+        965
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/murasame_7b2ef8_3_27h.png",
+      "type": "image",
+      "size": [
+        1000,
+        965
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/rentaro_7b2ef8_1_01.png",
+      "type": "image",
+      "size": [
+        1000,
+        806
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/rentaro_7b2ef8_1_03.png",
+      "type": "image",
+      "size": [
+        1000,
+        806
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/rentaro_7b2ef8_1_04.png",
+      "type": "image",
+      "size": [
+        1000,
+        806
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/rentaro_7b2ef8_1_05.png",
+      "type": "image",
+      "size": [
+        1000,
+        806
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/rentaro_7b2ef8_1_08.png",
+      "type": "image",
+      "size": [
+        1000,
+        806
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/rentaro_7b2ef8_1_10.png",
+      "type": "image",
+      "size": [
+        1000,
+        806
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/rentaro_7b2ef8_1_11.png",
+      "type": "image",
+      "size": [
+        1000,
+        806
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/rentaro_7b2ef8_1_12.png",
+      "type": "image",
+      "size": [
+        1000,
+        806
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/rentaro_7b2ef8_1_13.png",
+      "type": "image",
+      "size": [
+        1000,
+        806
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/rentaro_7b2ef8_1_14.png",
+      "type": "image",
+      "size": [
+        1000,
+        806
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/rentaro_7b2ef8_1_16.png",
+      "type": "image",
+      "size": [
+        1000,
+        806
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/rentaro_7b2ef8_1_20.png",
+      "type": "image",
+      "size": [
+        1000,
+        806
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/rentaro_7b2ef8_1_22.png",
+      "type": "image",
+      "size": [
+        1000,
+        722
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/rentaro_7b2ef8_1_23.png",
+      "type": "image",
+      "size": [
+        1000,
+        722
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/rentaro_7b2ef8_1_24.png",
+      "type": "image",
+      "size": [
+        1000,
+        806
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/rentaro_7b2ef8_1_25.png",
+      "type": "image",
+      "size": [
+        1000,
+        722
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/rentaro_7b2ef8_1_26.png",
+      "type": "image",
+      "size": [
+        1000,
+        806
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/rentaro_7b2ef8_1_27.png",
+      "type": "image",
+      "size": [
+        1000,
+        806
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/rentaro_7b2ef8_1_28.png",
+      "type": "image",
+      "size": [
+        1000,
+        806
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/rentaro_7b2ef8_1_29.png",
+      "type": "image",
+      "size": [
+        1000,
+        722
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/rentaro_7b2ef8_1_32.png",
+      "type": "image",
+      "size": [
+        1000,
+        806
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/rentaro_7b2ef8_1_33.png",
+      "type": "image",
+      "size": [
+        1000,
+        806
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/rentaro_7b2ef8_1_35.png",
+      "type": "image",
+      "size": [
+        1000,
+        806
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_1_01.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_1_02.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_1_04.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_1_08.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_1_11.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_1_12.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_1_13.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_1_17.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_1_18.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_1_19.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_1_21.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_1_22.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_1_24.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_1_25.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_1_25h.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_1_26.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_1_28.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_1_29.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_1_30.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_1_32.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_1_34.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_2_04.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_2_08.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_2_13.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_2_26.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_2_28.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_2_31.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_2_32.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_2_34.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_3_01.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_3_02.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_3_03.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_3_06.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_3_07h.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_3_09.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_3_11.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_3_13.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_3_14.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_3_15.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_3_18.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_3_20.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_3_21.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_3_22.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_3_23.png",
+      "type": "image",
+      "size": [
+        796,
+        2048
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_1_01.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_1_02.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_1_04.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_1_08.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_1_09.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_1_11.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_1_12.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_1_13.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_1_17.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_1_18.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_1_19.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_1_20.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_1_21.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_1_22.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_1_24.png",
+      "type": "image",
+      "size": [
+        1000,
+        820
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_1_25.png",
+      "type": "image",
+      "size": [
+        1000,
+        820
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_1_25h.png",
+      "type": "image",
+      "size": [
+        1000,
+        820
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_1_26.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_1_28.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_1_29.png",
+      "type": "image",
+      "size": [
+        1000,
+        820
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_1_30.png",
+      "type": "image",
+      "size": [
+        1000,
+        820
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_1_32.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_1_34.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_2_04.png",
+      "type": "image",
+      "size": [
+        1000,
+        1056
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_2_08.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_2_13.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_2_17.png",
+      "type": "image",
+      "size": [
+        1000,
+        820
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_2_22.png",
+      "type": "image",
+      "size": [
+        1000,
+        820
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_2_26.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_2_28.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_2_31.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_2_32.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_2_34.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_3_01.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_3_02.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_3_03.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_3_06.png",
+      "type": "image",
+      "size": [
+        1000,
+        820
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_3_07h.png",
+      "type": "image",
+      "size": [
+        1000,
+        820
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_3_09.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_3_10.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_3_11.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_3_13.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_3_14.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_3_15.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_3_18.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_3_20.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_3_21.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_3_22.png",
+      "type": "image",
+      "size": [
+        1000,
+        820
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/roka_7b2ef8_3_23.png",
+      "type": "image",
+      "size": [
+        1000,
+        900
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/shinako_a46995_1_01.png",
+      "type": "image",
+      "size": [
+        1000,
+        871
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/shinako_a46995_1_03.png",
+      "type": "image",
+      "size": [
+        1000,
+        790
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/shinako_a46995_1_07.png",
+      "type": "image",
+      "size": [
+        1000,
+        790
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/yasuharu_ee2e34_1_01.png",
+      "type": "image",
+      "size": [
+        1000,
+        769
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/yasuharu_ee2e34_1_03.png",
+      "type": "image",
+      "size": [
+        1000,
+        769
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/yasuharu_ee2e34_1_04.png",
+      "type": "image",
+      "size": [
+        1000,
+        769
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/yasuharu_ee2e34_1_06.png",
+      "type": "image",
+      "size": [
+        1000,
+        769
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/yasuharu_ee2e34_1_09.png",
+      "type": "image",
+      "size": [
+        1000,
+        769
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/yasuharu_ee2e34_1_11.png",
+      "type": "image",
+      "size": [
+        1000,
+        657
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/yasuharu_ee2e34_1_13.png",
+      "type": "image",
+      "size": [
+        1000,
+        769
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/yasuharu_ee2e34_1_14.png",
+      "type": "image",
+      "size": [
+        1000,
+        769
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/yasuharu_ee2e34_1_16.png",
+      "type": "image",
+      "size": [
+        1000,
+        769
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/yasuharu_ee2e34_1_17.png",
+      "type": "image",
+      "size": [
+        1000,
+        657
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/yoshino_d7b4db_1_01.png",
+      "type": "image",
+      "size": [
+        1000,
+        914
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/yoshino_d7b4db_1_04.png",
+      "type": "image",
+      "size": [
+        1000,
+        914
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/yoshino_d7b4db_1_06.png",
+      "type": "image",
+      "size": [
+        1000,
+        914
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/yoshino_d7b4db_1_09.png",
+      "type": "image",
+      "size": [
+        1000,
+        914
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/yoshino_d7b4db_1_10.png",
+      "type": "image",
+      "size": [
+        1000,
+        914
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/yoshino_d7b4db_1_11.png",
+      "type": "image",
+      "size": [
+        1000,
+        914
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/yoshino_d7b4db_1_17.png",
+      "type": "image",
+      "size": [
+        1000,
+        914
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/yoshino_d7b4db_1_18.png",
+      "type": "image",
+      "size": [
+        1000,
+        914
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/yoshino_d7b4db_1_20.png",
+      "type": "image",
+      "size": [
+        1000,
+        914
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/yoshino_d7b4db_1_22.png",
+      "type": "image",
+      "size": [
+        1000,
+        914
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/yoshino_d7b4db_1_30.png",
+      "type": "image",
+      "size": [
+        1000,
+        914
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/yoshino_d7b4db_1_33.png",
+      "type": "image",
+      "size": [
+        1000,
+        914
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/yoshino_d7b4db_3_01.png",
+      "type": "image",
+      "size": [
+        1000,
+        914
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/yoshino_d7b4db_3_05.png",
+      "type": "image",
+      "size": [
+        1000,
+        914
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/yoshino_d7b4db_3_06.png",
+      "type": "image",
+      "size": [
+        1000,
+        914
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/yoshino_d7b4db_3_09.png",
+      "type": "image",
+      "size": [
+        1000,
+        832
+      ]
+    },
+    {
+      "file": "textures/senren_mc/characters/yoshino_d7b4db_3_10.png",
+      "type": "image",
+      "size": [
+        1000,
+        832
+      ]
+    },
+    {
+      "file": "textures/senren_mc/ui/dialogue.png",
+      "type": "image",
+      "size": [
+        16,
+        256
+      ]
+    },
+    {
+      "file": "textures/senren_mc/ui/title_shade.png",
+      "type": "image",
+      "size": [
+        512,
+        16
+      ]
+    },
+    {
+      "file": "textures/senren_mc/ui/white.png",
+      "type": "image",
+      "size": [
+        4,
+        4
+      ]
+    },
+    {
+      "file": "textures/senren_mc/visuals/cut_x_cen.png",
+      "type": "image",
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "file": "textures/senren_mc/visuals/cut_y_cen.png",
+      "type": "image",
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "file": "textures/senren_mc/visuals/ev301aa.png",
+      "type": "image",
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "file": "textures/senren_mc/visuals/ev301ac.png",
+      "type": "image",
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "file": "textures/senren_mc/visuals/ev301ad.png",
+      "type": "image",
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "file": "textures/senren_mc/visuals/ev301bb.png",
+      "type": "image",
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "file": "textures/senren_mc/visuals/ev301cb.png",
+      "type": "image",
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "file": "textures/senren_mc/visuals/ev301da.png",
+      "type": "image",
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "file": "textures/senren_mc/visuals/ev701aa.png",
+      "type": "image",
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "file": "textures/senren_mc/visuals/ev701ab.png",
+      "type": "image",
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "file": "textures/senren_mc/visuals/sd001aa.png",
+      "type": "image",
+      "size": [
+        1125,
+        675
+      ]
+    },
+    {
+      "file": "textures/senren_mc/visuals/sd001ba.png",
+      "type": "image",
+      "size": [
+        1125,
+        675
+      ]
+    },
+    {
+      "file": "textures/senren_mc/visuals/sd001bb.png",
+      "type": "image",
+      "size": [
+        1125,
+        675
+      ]
+    },
+    {
+      "file": "textures/senren_mc/visuals/sd001cb.png",
+      "type": "image",
+      "size": [
+        1125,
+        675
+      ]
+    },
+    {
+      "file": "textures/senren_mc/visuals/sd001dc.png",
+      "type": "image",
+      "size": [
+        1125,
+        675
+      ]
+    },
+    {
+      "file": "textures/senren_mc/visuals/sd001ec.png",
+      "type": "image",
+      "size": [
+        1125,
+        675
+      ]
+    },
+    {
+      "file": "textures/senren_mc/visuals/sd001ed.png",
+      "type": "image",
+      "size": [
+        1125,
+        675
+      ]
+    },
+    {
+      "file": "textures/senren_mc/visuals/sd001fd.png",
+      "type": "image",
+      "size": [
+        1125,
+        675
+      ]
+    },
+    {
+      "file": "textures/senren_mc/visuals/sd001gd.png",
+      "type": "image",
+      "size": [
+        1125,
+        675
+      ]
+    },
+    {
+      "file": "textures/senren_mc/visuals/sd001hd.png",
+      "type": "image",
+      "size": [
+        1125,
+        675
+      ]
+    },
+    {
+      "file": "textures/senren_mc/visuals/sd002aa.png",
+      "type": "image",
+      "size": [
+        1125,
+        675
+      ]
+    },
+    {
+      "file": "textures/senren_mc/visuals/sd002ba.png",
+      "type": "image",
+      "size": [
+        1125,
+        675
+      ]
+    },
+    {
+      "file": "textures/senren_mc/visuals/sd002bb.png",
+      "type": "image",
+      "size": [
+        1125,
+        675
+      ]
+    },
+    {
+      "file": "textures/senren_mc/visuals/sd002bc.png",
+      "type": "image",
+      "size": [
+        1125,
+        675
+      ]
+    },
+    {
+      "file": "textures/senren_mc/visuals/sd002cb.png",
+      "type": "image",
+      "size": [
+        1125,
+        675
+      ]
+    },
+    {
+      "file": "textures/senren_mc/visuals/sd002dd.png",
+      "type": "image",
+      "size": [
+        1125,
+        675
+      ]
+    },
+    {
+      "file": "textures/senren_mc/visuals/sd002de.png",
+      "type": "image",
+      "size": [
+        1125,
+        675
+      ]
+    },
+    {
+      "file": "textures/senren_mc/visuals/speed_lines.png",
+      "type": "image",
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "file": "textures/senren_mc/visuals/white.png",
+      "type": "image",
+      "size": [
+        4,
+        4
+      ]
+    },
+    {
+      "file": "sounds/senren_mc/bgm01.ogg",
+      "type": "audio",
+      "seconds": 213.33335416666668,
+      "channels": 2,
+      "subtype": "VORBIS",
+      "sha256": "cbff971b1a9dfafd1a8f3f90de8df3583c2bd512f8e9bb906a0fd2a37655b3e0"
+    },
+    {
+      "file": "sounds/senren_mc/bgm01i.ogg",
+      "type": "audio",
+      "seconds": 205.05491666666666,
+      "channels": 2,
+      "subtype": "VORBIS",
+      "sha256": "2c004a67a03043bc9142940e202b588e7bb1caa3bb415eebbf051f04d932f3bb"
+    },
+    {
+      "file": "sounds/senren_mc/bgm05.ogg",
+      "type": "audio",
+      "seconds": 160.90910416666668,
+      "channels": 2,
+      "subtype": "VORBIS",
+      "sha256": "81c7d65b9cd21fcd0b48ef7607673b3d5537a74f2cdc036988fe158b83b50f11"
+    },
+    {
+      "file": "sounds/senren_mc/bgm21.ogg",
+      "type": "audio",
+      "seconds": 186.0,
+      "channels": 2,
+      "subtype": "VORBIS",
+      "sha256": "7038f14ffcfe77a9f517913e086c76e6864f4405c898c9077f411f24eaea50fa"
+    },
+    {
+      "file": "sounds/senren_mc/bgm22.ogg",
+      "type": "audio",
+      "seconds": 187.318625,
+      "channels": 2,
+      "subtype": "VORBIS",
+      "sha256": "12c2cf69c71e3d6c3e42f1642b3623babbce1e877fc434717793fc4864972649"
+    },
+    {
+      "file": "sounds/senren_mc/bgm23.ogg",
+      "type": "audio",
+      "seconds": 178.7759375,
+      "channels": 2,
+      "subtype": "VORBIS",
+      "sha256": "9b198b8c2e7c231accd555e57f0b48a6f77de5f6fabce32bfe8e21403d72a546"
+    },
+    {
+      "file": "sounds/senren_mc/bgm24.ogg",
+      "type": "audio",
+      "seconds": 174.12172916666665,
+      "channels": 2,
+      "subtype": "VORBIS",
+      "sha256": "03e1a2656054268a098bcb325c19369e9eb841d618b353dfcdca23b6ed0ffd59"
+    },
+    {
+      "file": "sounds/senren_mc/bgm25.ogg",
+      "type": "audio",
+      "seconds": 188.53985416666666,
+      "channels": 2,
+      "subtype": "VORBIS",
+      "sha256": "3317b432505eb3644a8405e8d38193498ee8c39e054b8b0ac4c461b9792855d3"
+    },
+    {
+      "file": "sounds/senren_mc/bgm26.ogg",
+      "type": "audio",
+      "seconds": 192.00197916666667,
+      "channels": 2,
+      "subtype": "VORBIS",
+      "sha256": "c60c3b56a3a099d4f620000d3d84238ca403060888f323c9344887400e37cc83"
+    },
+    {
+      "file": "sounds/senren_mc/bgm39.ogg",
+      "type": "audio",
+      "seconds": 180.015,
+      "channels": 2,
+      "subtype": "VORBIS",
+      "sha256": "0e700fc360e510648d1bf68c8d4f05cc13f282afd8a9715267a15e799ce79f03"
+    },
+    {
+      "file": "sounds/senren_mc/bgm43.ogg",
+      "type": "audio",
+      "seconds": 184.28572916666667,
+      "channels": 2,
+      "subtype": "VORBIS",
+      "sha256": "a57924804f7d37cfa5178156208b923015a86fe561997db049430e738c8965e5"
+    },
+    {
+      "file": "sounds/senren_mc/car_door.ogg",
+      "type": "audio",
+      "seconds": 1.0013605442176872,
+      "channels": 2,
+      "subtype": "VORBIS",
+      "sha256": "790b6d87cfba91019c25f642c186a19f8e4038dfd307438206791c0f5d879813"
+    },
+    {
+      "file": "sounds/senren_mc/car_running.ogg",
+      "type": "audio",
+      "seconds": 43.02439909297052,
+      "channels": 2,
+      "subtype": "VORBIS",
+      "sha256": "a0a570390c20b1918d4c910bf787bf15d459ce34f9f5e673e7e39799b8496b51"
+    },
+    {
+      "file": "sounds/senren_mc/car_stop.ogg",
+      "type": "audio",
+      "seconds": 21.73387755102041,
+      "channels": 2,
+      "subtype": "VORBIS",
+      "sha256": "465537948badbf442a981cf69ce2e20769ef2323b8b5fdef8c0a46848b20962a"
+    },
+    {
+      "file": "sounds/senren_mc/crowd.ogg",
+      "type": "audio",
+      "seconds": 27.39954648526077,
+      "channels": 2,
+      "subtype": "VORBIS",
+      "sha256": "92051718645befb3ec053a24101090d8d56bfafd4e04bb2b3f4ae67c90d3bd59"
+    },
+    {
+      "file": "sounds/senren_mc/crowd2.ogg",
+      "type": "audio",
+      "seconds": 16.880907029478458,
+      "channels": 2,
+      "subtype": "VORBIS",
+      "sha256": "2901676e69026a08c09938606f13e759c375983593811e4b2b6a211d6add424d"
+    },
+    {
+      "file": "sounds/senren_mc/gen001_001.ogg",
+      "type": "audio",
+      "seconds": 1.0534375,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "4c6ef4cce692d701dc90a5d55ffa566130bef433bf4025a357786507e0b9a4b4"
+    },
+    {
+      "file": "sounds/senren_mc/gen001_002.ogg",
+      "type": "audio",
+      "seconds": 0.6392291666666666,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "6990b22ebdf1babafc61942b84836300ac77d244eaee31f24f33a678e15dbd00"
+    },
+    {
+      "file": "sounds/senren_mc/gen001_003.ogg",
+      "type": "audio",
+      "seconds": 8.864125,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "202da0a91939789ec8c1fc35c0f2e476ba4f13600b7d645cecbb5e559c013351"
+    },
+    {
+      "file": "sounds/senren_mc/gen001_004.ogg",
+      "type": "audio",
+      "seconds": 2.3325833333333335,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "0a280ad96bb5cb346bb1bd95c64aca951e38f1d4ff7c7a5088337d622463dcc0"
+    },
+    {
+      "file": "sounds/senren_mc/gen001_005.ogg",
+      "type": "audio",
+      "seconds": 3.2560208333333334,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "091ec872e19695e1271cc106077d134bb55b414f3ff25e30ee7fd221fe4b2649"
+    },
+    {
+      "file": "sounds/senren_mc/gen001_006.ogg",
+      "type": "audio",
+      "seconds": 1.9902708333333334,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "41fabc5fe08d1283dabb289f9178ee9fc978434f45f041d46665b14999cbca19"
+    },
+    {
+      "file": "sounds/senren_mc/gen001_007.ogg",
+      "type": "audio",
+      "seconds": 6.6645625,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "541c85ac74b2973a01404a67d064b1222fcae3a708551113429e267bc23bdc7b"
+    },
+    {
+      "file": "sounds/senren_mc/gen001_008.ogg",
+      "type": "audio",
+      "seconds": 6.873354166666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "07091dccd32e54265808b54bbda9d07f6959f88677fc5204e64235bb7b63132b"
+    },
+    {
+      "file": "sounds/senren_mc/gen001_009.ogg",
+      "type": "audio",
+      "seconds": 0.6849375,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "518d838fa20f4d0538a25c65a07246248d3f8b0bdfe01380acddd0317c4d5a36"
+    },
+    {
+      "file": "sounds/senren_mc/gen001_010.ogg",
+      "type": "audio",
+      "seconds": 2.3436458333333334,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "65aeaa96553a18d8578a47d3a33df09fe7de1b3a9e319068105a00581901f3c8"
+    },
+    {
+      "file": "sounds/senren_mc/gen001_011.ogg",
+      "type": "audio",
+      "seconds": 3.290125,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "70c00c1ac0d16ffa307ec1b0b817059d115840dc16ddacf0e8e35159ef38cb4c"
+    },
+    {
+      "file": "sounds/senren_mc/gen001_012.ogg",
+      "type": "audio",
+      "seconds": 4.2990625,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "485c6623c8863739d62639fb1b18b247cbd10b8cee2451ef55cd39166dabdcc0"
+    },
+    {
+      "file": "sounds/senren_mc/gen001_013.ogg",
+      "type": "audio",
+      "seconds": 2.6162708333333335,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "2f666390ecc66bd7a821acd9da27ec38f5231c58a2195d1a1551cb932264e436"
+    },
+    {
+      "file": "sounds/senren_mc/gen001_014.ogg",
+      "type": "audio",
+      "seconds": 3.502,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "9dcc2ec676f2ff3144105755f8b170456bb77b8f651edc4c2ab049b3aa981a89"
+    },
+    {
+      "file": "sounds/senren_mc/gen001_015.ogg",
+      "type": "audio",
+      "seconds": 3.918458333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "16b7b20d1a1eb26e1d8d5291183de457ab37147046a47136f17ba7229adc7a5b"
+    },
+    {
+      "file": "sounds/senren_mc/gen001_016.ogg",
+      "type": "audio",
+      "seconds": 3.7571458333333334,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "f5bcc35ea9833eaf850a92f319228c7fbdd372c0048c554fa44d14309b360916"
+    },
+    {
+      "file": "sounds/senren_mc/gen001_017.ogg",
+      "type": "audio",
+      "seconds": 4.463958333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "4747108dbe16909d75149ba97b133a7e486e4ad0221e0b623c161657890db1ef"
+    },
+    {
+      "file": "sounds/senren_mc/gen001_018.ogg",
+      "type": "audio",
+      "seconds": 4.782791666666666,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "a88aa617a55aac17c4e4d2e9f276a281643be5d31eeff03cdafa8c31ddca038d"
+    },
+    {
+      "file": "sounds/senren_mc/gen001_019.ogg",
+      "type": "audio",
+      "seconds": 0.792625,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "bcfe6ab23d0c1e698f2e07eb01df1c846e71576c7427061d7a83c3f493b6e214"
+    },
+    {
+      "file": "sounds/senren_mc/gen001_020.ogg",
+      "type": "audio",
+      "seconds": 1.3445416666666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "618ec13e32eadf4cbec51faa138fb2b4724941d23583ef48ffaaf8a4a2f88e3b"
+    },
+    {
+      "file": "sounds/senren_mc/gen001_021.ogg",
+      "type": "audio",
+      "seconds": 5.9837291666666665,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "9e28aea34517c689a7c5e750944f5e1211813e126e4fdfb1733947518cec2d78"
+    },
+    {
+      "file": "sounds/senren_mc/gen001_022.ogg",
+      "type": "audio",
+      "seconds": 0.9974166666666666,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "41fed49a82a48f973513eb2e6bb4686c1915f0b44f3863781d6a5717d5480047"
+    },
+    {
+      "file": "sounds/senren_mc/gen001_023.ogg",
+      "type": "audio",
+      "seconds": 0.6973958333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "c854126c3e25cd85a1791cf9d288c77d8e7694d2f8844cf3bc73de380b372574"
+    },
+    {
+      "file": "sounds/senren_mc/gen001_024.ogg",
+      "type": "audio",
+      "seconds": 0.8836875,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "f76c778d40535e559ab572737d18216abfe353b062054012a16027499c4e5c78"
+    },
+    {
+      "file": "sounds/senren_mc/gen001_025.ogg",
+      "type": "audio",
+      "seconds": 1.4888333333333332,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "3d6716d777761e8c47da4bc5c23c25f7fd57e20624869174de0d0d088b686983"
+    },
+    {
+      "file": "sounds/senren_mc/gen001_026.ogg",
+      "type": "audio",
+      "seconds": 6.553083333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "31d55023e3aa8f5c0c434fe60793163faf0170f909a8d511d7b31aeb438da66a"
+    },
+    {
+      "file": "sounds/senren_mc/gen001_027.ogg",
+      "type": "audio",
+      "seconds": 0.713375,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "696351295e346cd9179150c5bd9fa27cf2c128a5b32b071ad70b8ac13261043a"
+    },
+    {
+      "file": "sounds/senren_mc/gen001_028.ogg",
+      "type": "audio",
+      "seconds": 5.082416666666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "b031da4723c22b458a3b7f0423ff73f60c1c684ef71f74a39c77ef530fe8c66e"
+    },
+    {
+      "file": "sounds/senren_mc/gen001_029.ogg",
+      "type": "audio",
+      "seconds": 1.503875,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "102218189e96f02de131437d3ed5bedc621d35feebe096a9b22264afd757d686"
+    },
+    {
+      "file": "sounds/senren_mc/gen001_030.ogg",
+      "type": "audio",
+      "seconds": 2.0579375,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "5d25572761ea631e4a235a3a8b5803ae31f25d5a6a220abd92a7772c0e8e5cf3"
+    },
+    {
+      "file": "sounds/senren_mc/gen001_031.ogg",
+      "type": "audio",
+      "seconds": 5.1741875,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "1e75d218b515a80db079a87987e18ee87a9c6ac0d449c6481f65240d348c8c03"
+    },
+    {
+      "file": "sounds/senren_mc/gen001_032.ogg",
+      "type": "audio",
+      "seconds": 9.970354166666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "701bf53d277de61a8231a0eaf94e8dc2854c0e9d848a942036f91314ceb58054"
+    },
+    {
+      "file": "sounds/senren_mc/gen001_033.ogg",
+      "type": "audio",
+      "seconds": 2.805229166666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "40714f3d38b40fc741977aca87abc27ca19177b792c6bfb2eed5a925942ab38e"
+    },
+    {
+      "file": "sounds/senren_mc/gen001_034.ogg",
+      "type": "audio",
+      "seconds": 1.8997708333333334,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "92dcae60bcd7a92a370d422168ae05db2eaac3e2f9cbfa7a1caeecdf5eaf27b2"
+    },
+    {
+      "file": "sounds/senren_mc/gen001_035.ogg",
+      "type": "audio",
+      "seconds": 3.1646875,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "9d19889400f7e5923e6c802d7c75f17ab660350fbf4817c51052626cc72f7300"
+    },
+    {
+      "file": "sounds/senren_mc/gen001_036.ogg",
+      "type": "audio",
+      "seconds": 2.3430625,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "7a11b89c89436b950720abfc45cf641d4a4d96a00e65d9d19273930ec6f0c20a"
+    },
+    {
+      "file": "sounds/senren_mc/gen001_037.ogg",
+      "type": "audio",
+      "seconds": 3.3031041666666665,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "dcc7e5ca7660f3fe73c472b41f275d0341d1f2a4dbafce21a6b015af309b5548"
+    },
+    {
+      "file": "sounds/senren_mc/gka001_001.ogg",
+      "type": "audio",
+      "seconds": 5.709020833333334,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "5426e0b7e736db9dc9c81a4a3b25b82e8b5dc2bbadc9f84cd915625876e7aa3c"
+    },
+    {
+      "file": "sounds/senren_mc/gkb001_001.ogg",
+      "type": "audio",
+      "seconds": 6.417729166666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "6c8db92ee2b90b0916188a4797507608ed7504a89a7a6d2a6052e77420d24773"
+    },
+    {
+      "file": "sounds/senren_mc/gkc001_001.ogg",
+      "type": "audio",
+      "seconds": 7.100520833333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "5d41204f8207130c5f8b9d2f8552dc7004cc1e60382b0195d4f00e203b4a2ce5"
+    },
+    {
+      "file": "sounds/senren_mc/kfb001_001.ogg",
+      "type": "audio",
+      "seconds": 7.483791666666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "463ec408c99a86202c7b85b7e11385daed535914978d20a320d2d5326b778fac"
+    },
+    {
+      "file": "sounds/senren_mc/kfb001_002.ogg",
+      "type": "audio",
+      "seconds": 5.823083333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "74db438003dfb3068be05a4949009dd48eb7c10d6d34f32647ba54672e264822"
+    },
+    {
+      "file": "sounds/senren_mc/kfb001_003.ogg",
+      "type": "audio",
+      "seconds": 7.266416666666666,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "722c57c0922b743796d85e8db266d523999531c8fcaeb89ec480bd460282a804"
+    },
+    {
+      "file": "sounds/senren_mc/kfb001_004.ogg",
+      "type": "audio",
+      "seconds": 9.500041666666666,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "663e8795f847c3e8cf45ad8fd513b60cc6eac3d4be20da9075d3e31d3aed2cf5"
+    },
+    {
+      "file": "sounds/senren_mc/kfb001_005.ogg",
+      "type": "audio",
+      "seconds": 1.8516458333333334,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "19c0b517bbc109f3522b9951049079ac8a3cbde9697aea0fab6d19ca24b40f80"
+    },
+    {
+      "file": "sounds/senren_mc/koh001_001.ogg",
+      "type": "audio",
+      "seconds": 1.5141458333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "9457b2de4df1e0a827bc28ff7edbc5fb0c99bf75822c9ae3b973e5cce2bc5115"
+    },
+    {
+      "file": "sounds/senren_mc/koh001_002.ogg",
+      "type": "audio",
+      "seconds": 2.8447916666666666,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "86797d2d9d5e76f7b44b2cd4ab438062846a35c904dcf8343d58e352c5f56031"
+    },
+    {
+      "file": "sounds/senren_mc/koh001_003.ogg",
+      "type": "audio",
+      "seconds": 5.312541666666666,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "105b022770ae5f91777f0fef4f7ee3ff7f81bca254a1a8a49045fe4c3eab6c09"
+    },
+    {
+      "file": "sounds/senren_mc/koh001_004.ogg",
+      "type": "audio",
+      "seconds": 4.440354166666666,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "422314c5a816b633b9752e8fc8343b9e17031e5791d2367aaac72d9ea3d3140f"
+    },
+    {
+      "file": "sounds/senren_mc/koh001_005.ogg",
+      "type": "audio",
+      "seconds": 4.194208333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "ef30e1da7249773879cb31e084549152315f6cf9d8a04bd6e78f8e8dd7d17b4e"
+    },
+    {
+      "file": "sounds/senren_mc/koh001_006.ogg",
+      "type": "audio",
+      "seconds": 7.319166666666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "ece225330e4d5f09dba61c91dc20fd63fed78af8b5705d996a706235c0f8263f"
+    },
+    {
+      "file": "sounds/senren_mc/koh001_007.ogg",
+      "type": "audio",
+      "seconds": 5.838875,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "34950648456b07a4dc5a53d9dc2b723c540f1f4c2e8f645ca81257d81b57757b"
+    },
+    {
+      "file": "sounds/senren_mc/koh001_008.ogg",
+      "type": "audio",
+      "seconds": 2.978125,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "ec39594a1af4de91ffddef0afa78fd871cd3b654c6d036a3317f69507ff583db"
+    },
+    {
+      "file": "sounds/senren_mc/koh001_009.ogg",
+      "type": "audio",
+      "seconds": 4.128041666666666,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "15f4dd7a336f77ecc4db2be26faca86f85e3d29c9548d097d913ce5dd00896de"
+    },
+    {
+      "file": "sounds/senren_mc/koh001_010.ogg",
+      "type": "audio",
+      "seconds": 6.54525,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "8d2b59ee9ea898ef414769e38ff4689f107825bdd6da1130b3434d6f53e36218"
+    },
+    {
+      "file": "sounds/senren_mc/koh001_011.ogg",
+      "type": "audio",
+      "seconds": 0.9044375,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "fe9d5ec3c0c09173c45a9f4e50931eeca7428481eafead6a45d4ac91f061bc48"
+    },
+    {
+      "file": "sounds/senren_mc/koh001_012.ogg",
+      "type": "audio",
+      "seconds": 1.428,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "f3e680e2ccdd7f5dc1d44986bc1506a3173c45c847d14f2772b6bab1c1d14886"
+    },
+    {
+      "file": "sounds/senren_mc/koh001_013.ogg",
+      "type": "audio",
+      "seconds": 2.7392916666666665,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "a1a67a4db8df188b7c3bd2f1741d3d511896bed6c17241b9c3b07f537b7588a6"
+    },
+    {
+      "file": "sounds/senren_mc/koh001_014.ogg",
+      "type": "audio",
+      "seconds": 1.7554375,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "bbeb94b0311dbcb97b53806a7148fccd95b2ecb97aa925709d9e96a92035f0a0"
+    },
+    {
+      "file": "sounds/senren_mc/koh001_015.ogg",
+      "type": "audio",
+      "seconds": 6.412583333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "acb64afccec14ef17e79fcccd1babde15383dd03f01380274359f8592fa67052"
+    },
+    {
+      "file": "sounds/senren_mc/koh001_016.ogg",
+      "type": "audio",
+      "seconds": 4.7935625,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "83aca2e1003496d5365afdaf2407cc0a5bda80babb381719edbff7c614f4cdb7"
+    },
+    {
+      "file": "sounds/senren_mc/koh001_017.ogg",
+      "type": "audio",
+      "seconds": 4.891395833333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "0510446b26a1b644ac770369aa0d82051fea3ac185ff15d03a5b1c887dacd38a"
+    },
+    {
+      "file": "sounds/senren_mc/koh001_018.ogg",
+      "type": "audio",
+      "seconds": 3.6757291666666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "e90fd9bd7d8f35542d1cf1741dd46385d14d971395b785526411354b38bdf7ce"
+    },
+    {
+      "file": "sounds/senren_mc/koh001_019.ogg",
+      "type": "audio",
+      "seconds": 5.3960625,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "9f98d3c731a0a881cdb48a5c3cf2d364f573e9bd47d8900b335910003a025343"
+    },
+    {
+      "file": "sounds/senren_mc/koh001_020.ogg",
+      "type": "audio",
+      "seconds": 5.052125,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "d70adf4d244231d6c4c1b2a00ee59d8014ff7fc97c619648b2393ee0392f888a"
+    },
+    {
+      "file": "sounds/senren_mc/koh001_021.ogg",
+      "type": "audio",
+      "seconds": 2.6070208333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "db91ddab12fe8d2c8f30814afb56aff67802414d0c6acf285b85641c9324b862"
+    },
+    {
+      "file": "sounds/senren_mc/koh001_022.ogg",
+      "type": "audio",
+      "seconds": 0.48122916666666665,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "1c2de752090fdcefe097b99335702d366dcf7c4845a5a6e55c6259e7ce302e48"
+    },
+    {
+      "file": "sounds/senren_mc/koh001_023.ogg",
+      "type": "audio",
+      "seconds": 4.749875,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "9ab4289b2e3f873cab1b4fa2cbdd5ad6d271b097dbe937312b579c334035142e"
+    },
+    {
+      "file": "sounds/senren_mc/kra001_001.ogg",
+      "type": "audio",
+      "seconds": 4.572916666666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "dac52b876ab219db54011ac35acf346e660505f0b3eeca39c65e451ed0b199b8"
+    },
+    {
+      "file": "sounds/senren_mc/kra001_002.ogg",
+      "type": "audio",
+      "seconds": 3.9970416666666666,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "05f82a7db6ad28f9dc60440959c4e8e3cb9eb79edad05f574ee18e13d4d8e7a4"
+    },
+    {
+      "file": "sounds/senren_mc/kra001_003.ogg",
+      "type": "audio",
+      "seconds": 3.8465416666666665,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "6b2eff45c80829f35f348abbe985ec2ba5a3ace4ef4cbae3703fac32d672ec5c"
+    },
+    {
+      "file": "sounds/senren_mc/kra001_004.ogg",
+      "type": "audio",
+      "seconds": 6.566229166666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "ee7c13145ab767aac9fbf053b7af1f640a09de7e4d700ceac9362cff097c5658"
+    },
+    {
+      "file": "sounds/senren_mc/kra001_005.ogg",
+      "type": "audio",
+      "seconds": 4.5224375,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "bc0bf8aecb92e753064075c9e7dc5701d52760ffb6aa77de9048a0e9bb483408"
+    },
+    {
+      "file": "sounds/senren_mc/light_orb.ogg",
+      "type": "audio",
+      "seconds": 8.0,
+      "channels": 2,
+      "subtype": "VORBIS",
+      "sha256": "0037879bb713d1052d094303bd077725d509f16a8ef3708a01cd699adf70fb0a"
+    },
+    {
+      "file": "sounds/senren_mc/mot001_001.ogg",
+      "type": "audio",
+      "seconds": 2.35075,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "c974e37d777b48ebeb24893c5da03fe09e25f0322d431920ca7873d17d7f9e2a"
+    },
+    {
+      "file": "sounds/senren_mc/mot001_002.ogg",
+      "type": "audio",
+      "seconds": 3.8994375,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "4b8e00786dd7a5ae6f769199adf2c053ade9f0a8d8759167c20aacd10ea04c21"
+    },
+    {
+      "file": "sounds/senren_mc/mot001_003.ogg",
+      "type": "audio",
+      "seconds": 1.7923333333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "c55957559bf6afc3def1741e1d67a37ba379f30cefab3c4046ff536844ff77d3"
+    },
+    {
+      "file": "sounds/senren_mc/mot001_004.ogg",
+      "type": "audio",
+      "seconds": 8.694,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "06e08a18722edac23d2dd68f9539cb27216d8306ec13c1eb5e77058a8d13d4e6"
+    },
+    {
+      "file": "sounds/senren_mc/mot001_005.ogg",
+      "type": "audio",
+      "seconds": 5.355604166666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "1dcbdb88670aff088cae7e82b3a42ac69a3cefe3b9e234c8ecc69d5a36537f7d"
+    },
+    {
+      "file": "sounds/senren_mc/mot001_006.ogg",
+      "type": "audio",
+      "seconds": 6.492125,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "5604a531c78512b19e57f8173847cce6ad50c192caca3a0fe20e04a011b2e7af"
+    },
+    {
+      "file": "sounds/senren_mc/mot001_007.ogg",
+      "type": "audio",
+      "seconds": 2.015041666666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "9a7959d3b638208e904b046e127024cceffe16331c88a4bda0caff52dd9dd4b9"
+    },
+    {
+      "file": "sounds/senren_mc/mot001_008.ogg",
+      "type": "audio",
+      "seconds": 5.447604166666666,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "3fadd890110dd260d674655b0e097502a52d1dacb89d8de52ec4253401984b96"
+    },
+    {
+      "file": "sounds/senren_mc/mot001_009.ogg",
+      "type": "audio",
+      "seconds": 2.03375,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "560f25dcd6cd387072c66f82fb70edaccf3559170c1807d7733803916ad69122"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_001.ogg",
+      "type": "audio",
+      "seconds": 3.8721041666666665,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "65731b73d74266721dbc5dc375058747cfde396ee9ef22e494040d7df11fcd62"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_002.ogg",
+      "type": "audio",
+      "seconds": 2.032,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "e6391bbd64d1bd8bf272269f6f0eb67915aa625389e23edd36111c7885849a31"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_003.ogg",
+      "type": "audio",
+      "seconds": 5.569,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "02b6b381bd0d8f6ac9408a3021eb23be7ad3c69180faf7d1f5b01ae60f15e1d0"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_004.ogg",
+      "type": "audio",
+      "seconds": 3.4787708333333334,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "b3edc61073839f345674f4338299198dd58bd6bf9bf4546b91a4334b16a0b00c"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_005.ogg",
+      "type": "audio",
+      "seconds": 8.613354166666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "43632a1227c49af9ffb9593a623d58f205852b1799a96ca729fbb81ac38326da"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_006.ogg",
+      "type": "audio",
+      "seconds": 3.7611875,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "7e09d8d34d9b648b970f1bb59cca5babc160caee59fd5bffed1e5a0bdbb47e84"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_007.ogg",
+      "type": "audio",
+      "seconds": 7.32975,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "2bde7d5713d7f105d296e1e044ef201e2797c7d85d0dea42de0100f452fb3298"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_008.ogg",
+      "type": "audio",
+      "seconds": 4.6868541666666665,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "97f8801290c0cad5884fdc2dd5e71bfadda03042dfe28af3138fefeb68162e5f"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_009.ogg",
+      "type": "audio",
+      "seconds": 1.668375,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "96c48af9ac1317b462fcbeee9a5b3bbede3d88099fda053cf6da092bfe7a8717"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_010.ogg",
+      "type": "audio",
+      "seconds": 3.1575416666666665,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "a92c1907b979974a37b915d8c36bc993163415eb81b8bd851c46396b459a4d34"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_011.ogg",
+      "type": "audio",
+      "seconds": 0.9371041666666666,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "488a7a06e68e0862b6516859f2fe33af680b3b617dde218e13ef8bb80f06039f"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_012.ogg",
+      "type": "audio",
+      "seconds": 6.906229166666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "ef302c0ba497161d72d0d67d9dd0939a34345722233894a53b5eb24add2f2b73"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_013.ogg",
+      "type": "audio",
+      "seconds": 2.1693125,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "c898bb81cdcf562c414c4dfe25fa0f9185dc3d5fc5ee5f031b426e38e9f5177b"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_014.ogg",
+      "type": "audio",
+      "seconds": 4.1976875,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "7b414f7ea45f1009cde9e1d4985804eafda8824e9c959f68bbf59748135ed1e8"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_015.ogg",
+      "type": "audio",
+      "seconds": 4.094541666666666,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "f84172141fbca70df63db18df2703c94560cd93b86215dfd822f2738f8f3486e"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_016.ogg",
+      "type": "audio",
+      "seconds": 5.545520833333334,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "b81d05e22bed2d25cb77c7d249f9aa8ebce79092816205fb18f9cf1ce94fc3e2"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_017.ogg",
+      "type": "audio",
+      "seconds": 3.3900208333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "1ac5a273cec3782c1131343f0484fac7096d3246ca7c66ae158e766145b63bc9"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_018.ogg",
+      "type": "audio",
+      "seconds": 5.636229166666666,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "7d1f9ccb98f0874350c7ea8acc2a36cfd104a9a25e43be1432a032dbd4f9c121"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_019.ogg",
+      "type": "audio",
+      "seconds": 4.3388333333333335,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "05f303126ba23b134e47518737f2d0b67f2a725dc6fd302a6db52f8572b757fd"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_020.ogg",
+      "type": "audio",
+      "seconds": 3.990458333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "d377faeec6a4ebbaa18ab432871a574800fb9f51ebed265f47815749e06faee4"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_021.ogg",
+      "type": "audio",
+      "seconds": 2.2592916666666665,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "9d9320eb49b415bf2a291a64762f18e220e2e3830bf243be80b37ba9285074d6"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_022.ogg",
+      "type": "audio",
+      "seconds": 2.130708333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "ec5116a4be4ab0e78d2c5fa5b3c30b8971a82f24d37f55b3f167c36be9b28c6c"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_023.ogg",
+      "type": "audio",
+      "seconds": 5.843791666666666,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "6fcc2c79025f23bbeb02e623ed686ecdc2b10ea3539690a5a0219f21e20bac29"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_024.ogg",
+      "type": "audio",
+      "seconds": 6.313416666666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "511db729a5ca85304e5d3c040c8cecbed7e6d65a8750fcbd1200bc580a028660"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_025.ogg",
+      "type": "audio",
+      "seconds": 5.579479166666666,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "b9e137956059362c1bc1bbc71f195ea03c29cecacb70a4d1e5b3c62929ff321c"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_026.ogg",
+      "type": "audio",
+      "seconds": 2.7710208333333335,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "eb0338fe7e7278f2d3b0b13aaa57dde91f51c21e7da35c659e32de6536fe2d3a"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_027.ogg",
+      "type": "audio",
+      "seconds": 10.283208333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "9da72303267d69cb44e864915107b848eb79c16e84429ec83a191ccd87485e9e"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_028.ogg",
+      "type": "audio",
+      "seconds": 6.789395833333334,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "907307ee9317c31cba6acf84113526653e877eb2e7ddd8b3a4b90db79754ed44"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_029.ogg",
+      "type": "audio",
+      "seconds": 6.95825,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "83fae20f900da44b14bb17ac60bf3e5b4ab89a7860bcab4c8084789dae426896"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_030.ogg",
+      "type": "audio",
+      "seconds": 11.437645833333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "7179769dca8ca9644caf6e2eb3e3f906faa4edac9ff78f02d686b62f11954ade"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_031.ogg",
+      "type": "audio",
+      "seconds": 2.846979166666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "90b4d64c932a198b7096740cce6eaf2120dae426292cfebdfb4bf28b6bae3df9"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_032.ogg",
+      "type": "audio",
+      "seconds": 4.126916666666666,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "f38a4cc5cca65013f7acae07a69cdf68ec2c353707eecb8cabb3e1734d1f3b35"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_033.ogg",
+      "type": "audio",
+      "seconds": 5.502604166666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "68c2bff03b7a32a8c314d3143029a27a0cd8125cd2310cc0c513bc2d7b825152"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_034.ogg",
+      "type": "audio",
+      "seconds": 6.933479166666666,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "6d061a8f6c3678e37a1a79e98881e84850c3c30d7a2e3e0b3b8dbc23130d76a1"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_035.ogg",
+      "type": "audio",
+      "seconds": 3.0111875,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "e5d020332462777eb09bf1c66091287937b1f74c894b58daacb2503fb1d25055"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_036.ogg",
+      "type": "audio",
+      "seconds": 5.895854166666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "3981ade5731008e7fc294622ac2cffaea3ae18628857a9ee8fb0c7012dcb79bd"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_037.ogg",
+      "type": "audio",
+      "seconds": 6.464791666666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "e3668a6a4c04c4786f3237b17927caf5073acffd483f1d207c4ed2cf099f3f5c"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_038.ogg",
+      "type": "audio",
+      "seconds": 3.3148958333333334,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "7103a8fa5a9c2bbacb9514e2553b2af777db8d3c0575a96489d2a4b6e2441d01"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_039.ogg",
+      "type": "audio",
+      "seconds": 5.1108125,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "f74610ac3fbdaf6b2331b68b90a4b374045102f736724d40be7d0cd3f8661802"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_040.ogg",
+      "type": "audio",
+      "seconds": 3.59225,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "5d053c65f9c9115c6b6332250b7c966cdd782146f5fddb9d982f82fac9659233"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_041.ogg",
+      "type": "audio",
+      "seconds": 5.060625,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "faeb0bf9d458e7edf1bbf3c6f6d438e55eabc6536058521923ce84a9e5c483c1"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_042.ogg",
+      "type": "audio",
+      "seconds": 3.783333333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "0d2188254c80103c3757e34887a0ee46aeadf52f47d6e9ea21b2186c396231a6"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_043.ogg",
+      "type": "audio",
+      "seconds": 6.385083333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "f457133330e88a13d0beb4244236025718fa34b26f630b4055d3dae3c5583ee0"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_044.ogg",
+      "type": "audio",
+      "seconds": 1.5933958333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "b37901026371636b6afe78a7b4c5d67223db910b484cb9d651a7407f15949e5b"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_045.ogg",
+      "type": "audio",
+      "seconds": 0.3937083333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "51671e2c4f1674a8d0d044e93f531c75cbb9953a0e827d36638cc7cf3bc7c45b"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_046.ogg",
+      "type": "audio",
+      "seconds": 6.775458333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "90b3efe04c68295194ec7d56cc8fa71971d2e961cb8867f21163f590b196f560"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_047.ogg",
+      "type": "audio",
+      "seconds": 2.4604375,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "743c9d6e8a787b6b2b3ed474586e48682561cd5dbcd74f5d24cc7e9bd477e4d5"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_048.ogg",
+      "type": "audio",
+      "seconds": 6.4128125,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "41d81fd1ff20964cec1ad5cc8f8eaee3075f836fd10c218351af637fbaceea54"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_049.ogg",
+      "type": "audio",
+      "seconds": 4.132375,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "b5427d6b808a9eddf867b85f7fbfa0d41c419aaf1e05e81e30845e77a6db9824"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_050.ogg",
+      "type": "audio",
+      "seconds": 5.511583333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "fa3e53007ac176ba82993f3ca1ad259e9021312767058eb0668cb84467a4b185"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_051.ogg",
+      "type": "audio",
+      "seconds": 1.2795625,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "7b5ed867069aea650e2ad82c5494c463db7a675e7f1cbd6c1a0694b2b6683a0e"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_052.ogg",
+      "type": "audio",
+      "seconds": 5.281729166666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "752f4101b65ff410fb892512dcd81bd80ffc0508fdfcf1f26fb6db84d6ec5c68"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_053.ogg",
+      "type": "audio",
+      "seconds": 8.1521875,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "781d25d0386377064fc97706d9eef47352ea42b632ec91950f64a075785db0bf"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_054.ogg",
+      "type": "audio",
+      "seconds": 7.777270833333334,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "6a65676e3f6db21c397a43a7fb0725c5684a60ecdff8580058059b8442e5e109"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_055.ogg",
+      "type": "audio",
+      "seconds": 6.1183958333333335,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "c574e0e7185673b01df9336aac6718532573522190d71aa1b76de1e69e5e075c"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_056.ogg",
+      "type": "audio",
+      "seconds": 3.7246875,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "10f3c7b55c2b4b63d6bbbec68847191e5c9f13b33989304b3baea8c4884636d4"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_057.ogg",
+      "type": "audio",
+      "seconds": 5.1341875,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "0ebedf9ba27e706ab9b982c5f5ab805f10db63693aa9ba24fc78b4d6ec506feb"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_058.ogg",
+      "type": "audio",
+      "seconds": 6.2166041666666665,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "d16b6239900c26cd3c3c642a6c747ffc55dd3c1c7365b815e68b63b1f9e2560a"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_059.ogg",
+      "type": "audio",
+      "seconds": 4.379520833333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "38c66fc3611683d1abbbddfc34ebc6085f57e2c91ac9ff885e92eabe2daecaa5"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_060.ogg",
+      "type": "audio",
+      "seconds": 6.216729166666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "b02e694cec3b6f12c6a0b197a334b55c53ad1fc3365785778131799f678e1a1c"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_061.ogg",
+      "type": "audio",
+      "seconds": 1.379125,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "d4046bf5c0f2dc0d7366574476859a91c0a3410ebac9e265dea5b542febd2bf2"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_062.ogg",
+      "type": "audio",
+      "seconds": 5.543458333333334,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "41a81920ad812ffccab6a236940e97ad696e7b97858c1dc3c2457785c648111f"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_063.ogg",
+      "type": "audio",
+      "seconds": 2.7958125,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "61f40577877bb65134c449ff2bed9177824c072ffbac7415182dfdc7b28e8f28"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_064.ogg",
+      "type": "audio",
+      "seconds": 5.688541666666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "5d902b26773660ccf0e6a843af8a70998d46ae2430ce3fb7013429d9ff915c73"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_065.ogg",
+      "type": "audio",
+      "seconds": 4.515375,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "77e7be084ec9236af3ffc7da6aad3ea2bec9514e716e15f184a81098135a264c"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_066.ogg",
+      "type": "audio",
+      "seconds": 8.298229166666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "8e30e3b7163da254ce598d0158e7dc801602b9686a5982766f3912653b6068e5"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_067.ogg",
+      "type": "audio",
+      "seconds": 5.478354166666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "a2079efd87bbf67a6ed5773467ab32d6d11375cf234196216299ced64631ce5e"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_068.ogg",
+      "type": "audio",
+      "seconds": 2.1781458333333332,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "7ecae6489f762a6c5651c411571d6622d310bec629dda61a1ab69f7774bfabe8"
+    },
+    {
+      "file": "sounds/senren_mc/mur001_069.ogg",
+      "type": "audio",
+      "seconds": 3.764854166666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "03346e35214f47bd392e4aa996e1ead823f323bd8f1dcd9f50cee7221ae87728"
+    },
+    {
+      "file": "sounds/senren_mc/myk001_001.ogg",
+      "type": "audio",
+      "seconds": 3.9365208333333332,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "b61e464f373c7d61b9d913dab24e4c582b0c8d8a17aa24fd92dfaa0227b2224f"
+    },
+    {
+      "file": "sounds/senren_mc/myk001_002.ogg",
+      "type": "audio",
+      "seconds": 7.070979166666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "6537d311628ca9e586c98c130c131e28909900e65ab19aa0f7d51b111dfe8e5e"
+    },
+    {
+      "file": "sounds/senren_mc/myk001_003.ogg",
+      "type": "audio",
+      "seconds": 2.5917916666666665,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "f52504a2540fce3f146ac5cd8d6f532296305a3d79aa21762895b9323bc308e0"
+    },
+    {
+      "file": "sounds/senren_mc/myk001_004.ogg",
+      "type": "audio",
+      "seconds": 3.5822083333333334,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "9727d7ec788320faa34b3509c9c8082920ecde649590e7af9146f079c7f46b39"
+    },
+    {
+      "file": "sounds/senren_mc/myk001_005.ogg",
+      "type": "audio",
+      "seconds": 1.9961041666666666,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "8e1a41e6e16c2e282ddff78fa2eb81e6fb4e3b7580b5e5ffa109cfa34eddd21b"
+    },
+    {
+      "file": "sounds/senren_mc/myk001_006.ogg",
+      "type": "audio",
+      "seconds": 5.372541666666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "13d584d40422cde04d1f0068bd4a698cefc349e93bd074f18e16de5cbc35f7e9"
+    },
+    {
+      "file": "sounds/senren_mc/myk001_007.ogg",
+      "type": "audio",
+      "seconds": 6.9589375,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "2ce46a47d67c8b5f99038c925c03c09c9bd1e2a912067e7868b3651f46214715"
+    },
+    {
+      "file": "sounds/senren_mc/myk001_008.ogg",
+      "type": "audio",
+      "seconds": 4.889375,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "ba0acc8adc63533c48d350969fd4a87ecdfc920ff54d1dbc9b9e1b34b1504177"
+    },
+    {
+      "file": "sounds/senren_mc/myk001_009.ogg",
+      "type": "audio",
+      "seconds": 4.979916666666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "0c4510711887c5ba57b48faa410bb393278d20fd415f1f6c5e4935893e9e1881"
+    },
+    {
+      "file": "sounds/senren_mc/myk001_010.ogg",
+      "type": "audio",
+      "seconds": 2.3177083333333335,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "1459022f53c2ee5e9a1d0af961d54c6899c9810cd539917dd36ce1f0f57e8b2b"
+    },
+    {
+      "file": "sounds/senren_mc/myk001_011.ogg",
+      "type": "audio",
+      "seconds": 5.957708333333334,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "e4d8f2e3480f5286d81d485f2636dd8ec0ca023f4b88f3e337694d48dedaffec"
+    },
+    {
+      "file": "sounds/senren_mc/myk001_012.ogg",
+      "type": "audio",
+      "seconds": 4.309833333333334,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "039866f72af278e9324481a88a91be0e9f5aff9366555ecb396672bf1b216b29"
+    },
+    {
+      "file": "sounds/senren_mc/myk001_013.ogg",
+      "type": "audio",
+      "seconds": 5.088729166666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "273a85cd21e3baaff5b41a85610963fd37bc263487e2254f1e1d09cb103c9daf"
+    },
+    {
+      "file": "sounds/senren_mc/myk001_014.ogg",
+      "type": "audio",
+      "seconds": 4.164958333333334,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "fe76d4679d6d987fcdf1e242e64f5303887dd391b9ac217a7bf28f8029eebcb3"
+    },
+    {
+      "file": "sounds/senren_mc/myk001_015.ogg",
+      "type": "audio",
+      "seconds": 6.8991875,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "05d15fcbcfcc6263c97d5029d81ff8a04ed243e8e167458492b7db700e2c85ed"
+    },
+    {
+      "file": "sounds/senren_mc/myk001_016.ogg",
+      "type": "audio",
+      "seconds": 5.957833333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "39e349f082a2fafda5f684d03fc9c5e9be5060e336b6dc1c53082a00eaf4a726"
+    },
+    {
+      "file": "sounds/senren_mc/ren001_001.ogg",
+      "type": "audio",
+      "seconds": 2.0714375,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "1eecaae8eba52923146c609d7e444c6e3ffa520420e3395868c2455256228808"
+    },
+    {
+      "file": "sounds/senren_mc/ren001_002.ogg",
+      "type": "audio",
+      "seconds": 3.8310625,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "8129d4d98141b7fcf37983ae49d4bf41a5a1d3f585ca5f10a2c4ba962129949b"
+    },
+    {
+      "file": "sounds/senren_mc/ren001_003.ogg",
+      "type": "audio",
+      "seconds": 7.34775,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "556ccc61cbe5f70a485e6e55c02f7aceb57d26bb42644d23ac47381ae4de6074"
+    },
+    {
+      "file": "sounds/senren_mc/ren001_004.ogg",
+      "type": "audio",
+      "seconds": 5.290479166666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "812b27b59576ebf7f5d98e4602303113db3059d0977ee78c44a1a9e6bb146266"
+    },
+    {
+      "file": "sounds/senren_mc/ren001_005.ogg",
+      "type": "audio",
+      "seconds": 2.4656666666666665,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "2b01ed34966cb0b6877df201651b2faded2c80ae220a1280922c85bf2bc3f46e"
+    },
+    {
+      "file": "sounds/senren_mc/ren001_006.ogg",
+      "type": "audio",
+      "seconds": 6.609729166666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "67038204ea832e5a197a27001a1c5c4233529e88015e0f5f4ae5c576d5ac594b"
+    },
+    {
+      "file": "sounds/senren_mc/ren001_007.ogg",
+      "type": "audio",
+      "seconds": 1.0832291666666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "464bd6a15b0732affc4f89c51b64c09b0b7aeb21dac116f2e4fadd407b31dec5"
+    },
+    {
+      "file": "sounds/senren_mc/ren001_008.ogg",
+      "type": "audio",
+      "seconds": 1.8388958333333334,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "e9bdb76129a06dcf5d6430198f079060032ab16dfea5214d4d5a80cc1d4e1d37"
+    },
+    {
+      "file": "sounds/senren_mc/ren001_009.ogg",
+      "type": "audio",
+      "seconds": 2.117958333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "47c7beed087d03c1a968cce017839b1efbc01bed5eddd2458ae5ebfe9b1b4528"
+    },
+    {
+      "file": "sounds/senren_mc/ren001_010.ogg",
+      "type": "audio",
+      "seconds": 2.2001041666666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "6028255f090446b0084fd9c9908a1cb3063108944fb8b1888bfeb188554da9cb"
+    },
+    {
+      "file": "sounds/senren_mc/ren001_011.ogg",
+      "type": "audio",
+      "seconds": 4.0859375,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "97efd7d5aa208034d752b3c1002852a34ad7146fb29926cd2f236d27206fe262"
+    },
+    {
+      "file": "sounds/senren_mc/ren001_012.ogg",
+      "type": "audio",
+      "seconds": 2.2489166666666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "e2b39c6c2935decf3923bb6b84ed51b0f4fbbe9bcbcc227a7ab63c1fb8ef62ae"
+    },
+    {
+      "file": "sounds/senren_mc/ren001_013.ogg",
+      "type": "audio",
+      "seconds": 5.2979375,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "9afff5ddba1f4a13eee18a074829734ccde6d9ab20a06843777f5d541f1216fb"
+    },
+    {
+      "file": "sounds/senren_mc/ren001_014.ogg",
+      "type": "audio",
+      "seconds": 6.5021875,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "5d1c7d024b255091abfa6bc3887e45c752a96466197db690c32296ffe7b4453b"
+    },
+    {
+      "file": "sounds/senren_mc/ren001_015.ogg",
+      "type": "audio",
+      "seconds": 5.072916666666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "cf0e714b1632ac9a0848ebc317640c59641f8ef99359fe6b230ba3b0d2eafc01"
+    },
+    {
+      "file": "sounds/senren_mc/ren001_016.ogg",
+      "type": "audio",
+      "seconds": 5.749020833333334,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "bacda81c29f70bf2bc14b88c2f6b8653c1d9278bf412f4712968659aa51ff86b"
+    },
+    {
+      "file": "sounds/senren_mc/ren001_017.ogg",
+      "type": "audio",
+      "seconds": 1.7564791666666666,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "5d1aaf7d028791321d474f78e95e5b8d1f619fc035b2b0315c985a62563b9a77"
+    },
+    {
+      "file": "sounds/senren_mc/ren001_018.ogg",
+      "type": "audio",
+      "seconds": 1.8551458333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "1f11d1651342ac9670176da125322da8de43956726be4bfc29c38a9fac2a2c89"
+    },
+    {
+      "file": "sounds/senren_mc/ren001_019.ogg",
+      "type": "audio",
+      "seconds": 6.0253958333333335,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "e739740a909ea50067f23910cafa31422bcd402f410a3f98f6ba5ca28118dede"
+    },
+    {
+      "file": "sounds/senren_mc/ren001_020.ogg",
+      "type": "audio",
+      "seconds": 4.695520833333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "43b36af7d4cc858d3e530e17463f79c62ce4c58eb5b620d72843240b3c5082b4"
+    },
+    {
+      "file": "sounds/senren_mc/ren001_021.ogg",
+      "type": "audio",
+      "seconds": 0.45960416666666665,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "92118bb14a2167e1b72a382203aba7e3343704e223fc8910dfade1a92df48cce"
+    },
+    {
+      "file": "sounds/senren_mc/ren001_022.ogg",
+      "type": "audio",
+      "seconds": 1.7564583333333332,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "10838971405f8f3e110eb6b0920a6b0ba9fd915f8a87a99982e5ff049a54df47"
+    },
+    {
+      "file": "sounds/senren_mc/ren001_023.ogg",
+      "type": "audio",
+      "seconds": 1.6913958333333334,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "6807fdd6fa1b419443b229488cec918f4cc405b685f9582d007cbd987a46ed5a"
+    },
+    {
+      "file": "sounds/senren_mc/ren001_024.ogg",
+      "type": "audio",
+      "seconds": 5.910375,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "79ad27e7b0791470fbb57394aac6f7b7cee94abd4420782950f9758a091435f8"
+    },
+    {
+      "file": "sounds/senren_mc/ren001_025.ogg",
+      "type": "audio",
+      "seconds": 1.8547916666666666,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "2aeee73a3226b5d126e9a4cd4077c1a529497f0e9372a47e6d7f803215cf19ab"
+    },
+    {
+      "file": "sounds/senren_mc/ren001_026.ogg",
+      "type": "audio",
+      "seconds": 4.908416666666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "3e251a18b72f4e013f9c3bc28313898a4bf1f1696fb656af8cf0478e2a123e06"
+    },
+    {
+      "file": "sounds/senren_mc/ren001_027.ogg",
+      "type": "audio",
+      "seconds": 4.23575,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "2126c854649e64daf1ae5092dbcdc1329d499bda7acc9e9600e045f86b203d6f"
+    },
+    {
+      "file": "sounds/senren_mc/ren001_028.ogg",
+      "type": "audio",
+      "seconds": 0.8704583333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "da46b528871dfbe6631755d171e90f70d07c0b3f09d8dd8b5b8b3aaa61ca8da8"
+    },
+    {
+      "file": "sounds/senren_mc/ren001_029.ogg",
+      "type": "audio",
+      "seconds": 5.123125,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "cf0ecab6bb98469eca5c95363832f09021079180e0b8e398e6ba7ddab792039e"
+    },
+    {
+      "file": "sounds/senren_mc/ren001_030.ogg",
+      "type": "audio",
+      "seconds": 4.679166666666666,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "6feaf61c1fab280256f0d3a7298e0769e2800e7dd27883744d4c223dd5abfce9"
+    },
+    {
+      "file": "sounds/senren_mc/ren001_031.ogg",
+      "type": "audio",
+      "seconds": 5.797833333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "84e69e6056a0c1935d7bf81e3d7d573940ec92c73f1659d833d80d82ea2cef3c"
+    },
+    {
+      "file": "sounds/senren_mc/ren001_032.ogg",
+      "type": "audio",
+      "seconds": 2.2162291666666665,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "6c2bb70485d10c5060e0697a266c8e9b80c714965e2dd312d41042c3732d9c57"
+    },
+    {
+      "file": "sounds/senren_mc/ren001_033.ogg",
+      "type": "audio",
+      "seconds": 4.398729166666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "5f3cbed9ca0b11288e9941042d34fcb55b4a9463d88f32b20843105883f5ad7e"
+    },
+    {
+      "file": "sounds/senren_mc/ren001_034.ogg",
+      "type": "audio",
+      "seconds": 4.7118125,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "a778a7207811736258bb4f8d14839b406ab9328169d690cf63445ff5493b4244"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_001.ogg",
+      "type": "audio",
+      "seconds": 1.3651041666666666,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "39d37758f8a489ebedf61c5b94439e4d76fa6a07c3fb29d7b512c95fcf3014b7"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_002.ogg",
+      "type": "audio",
+      "seconds": 3.4209791666666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "156ed79192c492753890a3097d9b5be63443ea1753ba11568c8896ccc9c86a2a"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_003.ogg",
+      "type": "audio",
+      "seconds": 4.786125,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "3864071732a5ae265f4f92fb426dca10a00309f7bb0581ec94c659c3e7614bc9"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_004.ogg",
+      "type": "audio",
+      "seconds": 4.9836875,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "36de8005f8f5d7bf473b66108d18cc3dfbf4e7511612aa571d531d8a64bb4bcf"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_005.ogg",
+      "type": "audio",
+      "seconds": 3.2819583333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "4fcf2a5dcfc96f884c328a87c048b78f8d08368f04b0e5c56cce4bcd72bf5666"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_006.ogg",
+      "type": "audio",
+      "seconds": 7.32425,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "9627f6a7e190d48779d4af27f314e698aedde84b952aac005d8619ea87337397"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_007.ogg",
+      "type": "audio",
+      "seconds": 6.67,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "d0c737d91c8d27127505f3c80277684d8eeafbfc477e9ade166ec8443c2a2915"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_008.ogg",
+      "type": "audio",
+      "seconds": 8.007166666666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "cad0ff88c3317a6c4fa6937571d12f1f062559397ead93f9dbf5589a7687eeed"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_009.ogg",
+      "type": "audio",
+      "seconds": 7.114958333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "05188dea03803df4aa1935290100c5a4f639444256ff1d8f1842894113dc42fb"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_010.ogg",
+      "type": "audio",
+      "seconds": 4.5597916666666665,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "6e1cb91269814072cdc351b40a8e8b4fac6cf6b28d42ea703ff2c852601230e0"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_011.ogg",
+      "type": "audio",
+      "seconds": 9.2436875,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "d772ffa3b6df6d8a2fc44217bbba6bf667c7cb22d214aa3c4ae4c940818bac85"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_012.ogg",
+      "type": "audio",
+      "seconds": 1.4870833333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "a8c4d871cbf44c4843154b7bf173d736f3cf1f19a2214bd27d1effcbad58a352"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_013.ogg",
+      "type": "audio",
+      "seconds": 1.312,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "babdf538947f97f01ce97ae5e5eeb1211f09a663a0c51069249910e8894bba4f"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_014.ogg",
+      "type": "audio",
+      "seconds": 5.421520833333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "e4d7e008ea313ae457db17105487b77497dfb7ed53637eefb24848b5bc2d3515"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_015.ogg",
+      "type": "audio",
+      "seconds": 1.6735625,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "f816b36eb2dd57e662f895393304d28f6d8602e78f0f250a99248a0e1361b47e"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_016.ogg",
+      "type": "audio",
+      "seconds": 5.009291666666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "0235a8724231ecb289cdfd8299d5eb38a2d26e0c4f32cf215b3943c45822f6f0"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_017.ogg",
+      "type": "audio",
+      "seconds": 2.6145833333333335,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "7c7df796835f05fca6a44565de331a2ee12e42f635d64c44f9c55f3ee2dc64c2"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_018.ogg",
+      "type": "audio",
+      "seconds": 5.345395833333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "93603a4adc50bc7a8b472d90e70f1ce203e3033cdc50098e5de5960e5f7e3583"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_019.ogg",
+      "type": "audio",
+      "seconds": 7.3519375,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "81748450bf2a6bb0ae22c992583e4da8eb155795241718492c29c256ee36d935"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_020.ogg",
+      "type": "audio",
+      "seconds": 2.7835833333333335,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "ae4cf1d96f5d0ebf5d3fa44657ac475cdbc280681f389fb132b6d485be269301"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_021.ogg",
+      "type": "audio",
+      "seconds": 1.1973333333333334,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "1755bc7c171b417ecd3817c626ceabd0bd91fa1a5b2d0b3225d34a46ef0073f5"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_022.ogg",
+      "type": "audio",
+      "seconds": 3.4135833333333334,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "11179b00eb436ba3c0081afa233a814c9fd6cd7bb610b05d9140aa20ba898039"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_023.ogg",
+      "type": "audio",
+      "seconds": 4.675770833333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "d83c8881854cb893dce01d4fff618a1be4efdf39bb725bc8d087ced5d50c16ce"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_024.ogg",
+      "type": "audio",
+      "seconds": 4.4979375,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "01622a378bd2974d1c050a00f230d09b6ce93f0c188d5012d9157dfb2a77e0be"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_025.ogg",
+      "type": "audio",
+      "seconds": 7.621625,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "e5ba66eff770cf4f60415618d3b9c0983868dcad6bf7a0866d9ac0c9fc5554b7"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_026.ogg",
+      "type": "audio",
+      "seconds": 6.237333333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "d47d6119e942c10819b0981f7a46354eae900602725c0e681d17bea35e02d418"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_027.ogg",
+      "type": "audio",
+      "seconds": 3.8053541666666666,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "2cd8ed30dbff8ef604ada8563b0ebf456efed8beeb1655d4e099b9aa628764c1"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_028.ogg",
+      "type": "audio",
+      "seconds": 2.798020833333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "0176714219c5255a6129ef1681c3375bbf21835de9da478d5a1fbc84f56c08c0"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_029.ogg",
+      "type": "audio",
+      "seconds": 9.401416666666666,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "1980cedd24d5d77c27221e3e8685b84d11cf7edbc4e54d35fd1c451a852a6898"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_030.ogg",
+      "type": "audio",
+      "seconds": 5.4204375,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "6d7602e6c4e7ab1761f97bcd6d456b45aa5e85009e1622915e97ea887e40efef"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_031.ogg",
+      "type": "audio",
+      "seconds": 6.201979166666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "9a8f98f2b922292731b51087ec25ef27166878416777cf851235c5280d465877"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_032.ogg",
+      "type": "audio",
+      "seconds": 6.013375,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "9b3e8ea390847610cd353e0cfea37d31246609fbabe8f3e5d2e295cd4219f0b8"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_033.ogg",
+      "type": "audio",
+      "seconds": 5.6276875,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "14be856545dda2bf1d3761c3227b0ba82d002ec2106d1eb420753a50849ff144"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_034.ogg",
+      "type": "audio",
+      "seconds": 2.3831041666666666,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "9ddf70817ad64b83d7efc53bbb24973178ebbc4795eeb0b5d7c8891931eb6723"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_035.ogg",
+      "type": "audio",
+      "seconds": 6.230875,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "ea11802f7a4e6894a63ab4bf977bf7cf0256a7610f7b858bf762a46636dc092e"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_036.ogg",
+      "type": "audio",
+      "seconds": 5.327083333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "0a43b20f1bdd2f41f64e6112c22a72066cce304d22a98bc09ae2db6da2b99f0b"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_037.ogg",
+      "type": "audio",
+      "seconds": 6.707,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "09415358f595caecb5840f19404cdfe2378feea2e5c4308680f9cb651b1d7125"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_038.ogg",
+      "type": "audio",
+      "seconds": 1.777,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "0b0e6e5f4c185609073c68831a629c3ded356589421d17e78258d76d839ce92c"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_039.ogg",
+      "type": "audio",
+      "seconds": 6.10425,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "28492942346d9b87a054c2d58626390b066360d1e5e736341d3fc9d4a80caa54"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_040.ogg",
+      "type": "audio",
+      "seconds": 6.754125,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "924c189fca2d5a11e746f1864ca3cb18b81015810f371af44b49378b4e28dba9"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_041.ogg",
+      "type": "audio",
+      "seconds": 9.624145833333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "45c1477ccaea73c6c753ad5bbc342bda3d05e1187993c01720f51852030e78ae"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_042.ogg",
+      "type": "audio",
+      "seconds": 7.6894583333333335,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "30cc0bfb24c7cac238307507f727140b16931b1d6d0e16725060914bd86a19a3"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_043.ogg",
+      "type": "audio",
+      "seconds": 8.308020833333334,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "c8981d9e7d316255ab7843d6e908ca38d3abbe4b8e3fbb1a9d48c533cc70a7a1"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_044.ogg",
+      "type": "audio",
+      "seconds": 7.657958333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "55c3afe6927c864543f5d299e0bc0d7441901a0030d23970082c7de4a99faca2"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_045.ogg",
+      "type": "audio",
+      "seconds": 4.5395,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "326d3a2159c59186c7d6ac23c764427c273687dbbeb60263876c67ecfd26d677"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_046.ogg",
+      "type": "audio",
+      "seconds": 8.690875,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "224b3ed0e10905c49a353099b19a433dcfc5e60e70955fe9de34ea76d7bbb668"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_047.ogg",
+      "type": "audio",
+      "seconds": 0.9205416666666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "6d6a91349bd197cc61fd355656d5916da61093dda74f1d11fde65f178499948e"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_048.ogg",
+      "type": "audio",
+      "seconds": 9.014479166666666,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "8bd141614dc314303a0aa6c87476bc66fb3ea777b090ce2b3a19a560f561401c"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_049.ogg",
+      "type": "audio",
+      "seconds": 4.2385625,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "e2d3e109ee4c8d2119b8709df2a2cca37821f100132d92e3009b5dcad8f9eb7b"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_050.ogg",
+      "type": "audio",
+      "seconds": 7.7695,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "857cc1b0564796434114992a96bc92027ae9449d8eea93feea5d6320aa58779a"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_051.ogg",
+      "type": "audio",
+      "seconds": 5.293125,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "275821257f385dcfefb8a4c42688d5611c48de59463ed06aaca1243b8523a162"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_052.ogg",
+      "type": "audio",
+      "seconds": 6.500229166666666,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "95ce46a2cb892325ee15dff009c18caa7a17a986cec266e7f7eb4a169ac7a5f1"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_053.ogg",
+      "type": "audio",
+      "seconds": 2.431791666666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "3894427341707f4eef77c10409200ce8a6bedcb2947cdfa3dca7b239db9793b2"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_054.ogg",
+      "type": "audio",
+      "seconds": 3.9458333333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "7bf772be6ad92e0e13ca388ed7ebb42a2b30227b1e28f6a47f73d021624f2b19"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_055.ogg",
+      "type": "audio",
+      "seconds": 3.3952916666666666,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "3b15dde551bd951ffc1e9da5b876efd22cdc16b3ce314fa3699f462b8d60bdef"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_056.ogg",
+      "type": "audio",
+      "seconds": 4.053125,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "4a2dc9a8c49c0706f139a834afb6cf388aeefd6415a4d606f46fa8fabd3c5863"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_057.ogg",
+      "type": "audio",
+      "seconds": 5.307166666666666,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "3a9467396ac4307cc40cafb8e5bc93559a474c3d6d9c625bba2144838e0659c2"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_058.ogg",
+      "type": "audio",
+      "seconds": 4.405,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "e8b63f381da529e491fa0fb278e13090c20e4cebfef97439c499bb6584f79d07"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_059.ogg",
+      "type": "audio",
+      "seconds": 6.9130416666666665,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "fd94a2164eedbddd9cb6754a938f98cd7805035bb6acc46e9347094f61dbf37e"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_060.ogg",
+      "type": "audio",
+      "seconds": 2.9521875,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "c520aa61729598802bc8deb0a344fe5613bcc7c2dbad5690329001a0188e6591"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_061.ogg",
+      "type": "audio",
+      "seconds": 5.046291666666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "05e6d9d70720c56e54a50aaa19e81f1396a3d50e55be4c62547783f5525b437f"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_062.ogg",
+      "type": "audio",
+      "seconds": 4.831333333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "67617010f02bfbcfd82160febd3d252495c8b37a4c9457de94113d36bc81ed49"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_063.ogg",
+      "type": "audio",
+      "seconds": 3.2060208333333335,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "6969e5ee92f7b5628ae2feef10f5902473cb1c35502392b728ec84d07f387597"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_064.ogg",
+      "type": "audio",
+      "seconds": 6.669020833333334,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "3aaf1ff24a77886eaccdeba72cc3c289f1f44a900de55d7d1a5d6f3b9101d51c"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_065.ogg",
+      "type": "audio",
+      "seconds": 4.4007708333333335,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "e142a2c6ee3754e96aca3e26375c9c0f16a563f0fd82c06c8170f80793855819"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_066.ogg",
+      "type": "audio",
+      "seconds": 5.1873125,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "8ff3ee7337552c3f3ba1953d7c0dad3b822b1085732bb937b1824587dda1ceff"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_067.ogg",
+      "type": "audio",
+      "seconds": 4.052854166666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "e7b049e4002f1a76acbbb10697dc62a2e5224c8cacba09f0a6558f3540f09329"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_068.ogg",
+      "type": "audio",
+      "seconds": 5.413895833333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "8167e784de1e88152299dd54fb5f436db6a00d8ced8545225e6f4ec4f0237bac"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_069.ogg",
+      "type": "audio",
+      "seconds": 2.9335833333333334,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "eacdf69b7eba5ef3f5b5c6df85393d8dc01816995a3e58e1f7451de3428d2f39"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_070.ogg",
+      "type": "audio",
+      "seconds": 2.797645833333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "a916207abb68c990cc90eeba7ad29276adb03c33607f1db092f082dc5f13b361"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_071.ogg",
+      "type": "audio",
+      "seconds": 1.9356666666666666,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "a585336a5c94d977069bbd1fbef490b9636ff3b97efe63956fa51cedd99d87e0"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_072.ogg",
+      "type": "audio",
+      "seconds": 2.7973958333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "f246aabbc0ea27aacd67335ab4a272bb144cf7f1c08675eebd620ac3048f288b"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_073.ogg",
+      "type": "audio",
+      "seconds": 2.5862708333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "6cd21b49d3766298bb3129a90ce38cae6ec330c78c7acdf05f4159b9679cc97b"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_074.ogg",
+      "type": "audio",
+      "seconds": 4.657770833333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "ec12624177cdfd6650be6488a8811c4ad01194f00ce0e8a06913d7682b1cfc03"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_075.ogg",
+      "type": "audio",
+      "seconds": 5.696875,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "d0d9f6a8821b1cec0684ca15c1337ab25a6beddc60d5a7f307e7bb59b7d75316"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_076.ogg",
+      "type": "audio",
+      "seconds": 2.8865,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "47b2f850774ee9a9dea3ea2c1f57155fc69448af1bcb6790ebe45e3fdb5d5e25"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_077.ogg",
+      "type": "audio",
+      "seconds": 4.740625,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "afe93addb670954f99cb5d6075535e79510e7a075eed1c6de954ddf2567f7298"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_078.ogg",
+      "type": "audio",
+      "seconds": 3.7046666666666668,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "5a2c3d9df25a5d7a72275103a2721fc8b7a9d9b3833c2d4c930fef6f8d72e1e0"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_079.ogg",
+      "type": "audio",
+      "seconds": 0.9821041666666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "731eeea92bbeb3abb920a880db8c35e566b7fb6c96b4eb2fdffefcfe4d2e4ebb"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_080.ogg",
+      "type": "audio",
+      "seconds": 2.6382708333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "eec89f31f7ffd8904acb03141540896029d746b74f35ce4f19a6239db3075898"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_081.ogg",
+      "type": "audio",
+      "seconds": 6.496958333333334,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "ecebf822c1b82c77021b81c41057b0433d6d455042f71fa25f84f4b7980b16c2"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_082.ogg",
+      "type": "audio",
+      "seconds": 3.7279166666666668,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "eaf5e52d28d1bcb25580ff6e1d40f9403e365425bca7f10fedd78ccc184397d0"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_083.ogg",
+      "type": "audio",
+      "seconds": 4.3703125,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "be45995b024bd71f2c1b2cf874fa2c5fbc3ba66fff8badd21bcebd67c08479c8"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_084.ogg",
+      "type": "audio",
+      "seconds": 2.8859375,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "354b5000795064c118d4f2851d5d0b6c79712a9b6f39f982ee8e85e920642729"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_085.ogg",
+      "type": "audio",
+      "seconds": 4.150104166666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "cc10f9fee49a5f785d515be05c21ab1e310ead302e0dce81f21559ca28b6425c"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_086.ogg",
+      "type": "audio",
+      "seconds": 2.9545833333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "b73e5e0f1db0ac689cb17c6a8e609531d4d69185eca2c5c7fc31c153cf0f9a3b"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_087.ogg",
+      "type": "audio",
+      "seconds": 1.4566875,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "a869c1e5702f1976a44c8d856713cc466ea2430d6ccd8c14364bdecac27431d3"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_088.ogg",
+      "type": "audio",
+      "seconds": 4.727291666666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "1a62591042f758ebc2ed942c7deb26e16bfd06634ef0ff871cdc09b4a6c55ba3"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_089.ogg",
+      "type": "audio",
+      "seconds": 5.959333333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "67e7ba4e237959ea0f64078e9ebb868b2dc40e0d18869c7997fb756d8740621f"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_090.ogg",
+      "type": "audio",
+      "seconds": 7.172395833333334,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "ca514b2886aa8bfaf67ea5c68ac0505d3b734f106b6cbbaeb3c196cc7960c0ce"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_091.ogg",
+      "type": "audio",
+      "seconds": 3.9376875,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "906b0576053a7e5ac1c558cd3458ee41249afb01bfcaad6881437af095adee41"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_092.ogg",
+      "type": "audio",
+      "seconds": 8.5484375,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "da390c7209c331683a9b09cf33d22f37f0a56be858fe42bc12136c744d1209c6"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_093.ogg",
+      "type": "audio",
+      "seconds": 4.9666875,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "1b2897857aef0471ca894d3554e4ddc223decf138779f191a67af0101db35370"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_094.ogg",
+      "type": "audio",
+      "seconds": 0.9527708333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "5772f340f86cf5663e2492e843dc000b2f3426bf6c95fc52a254f2a6a9018701"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_095.ogg",
+      "type": "audio",
+      "seconds": 4.356145833333334,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "df3c4d175de522c8081fa008f2e049414cc1feb2fdff1a08ef271e1c5f8cfe8f"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_096.ogg",
+      "type": "audio",
+      "seconds": 0.6831041666666666,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "2e672a1e168613d14bc83040836bb1ee2e480d6fbcaab34efb539c213d129150"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_097.ogg",
+      "type": "audio",
+      "seconds": 6.9601041666666665,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "85cfa2aae7f445067090bb5f6e16669dab9591516262c3827991b8e37fef04c6"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_098.ogg",
+      "type": "audio",
+      "seconds": 0.8235625,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "4f152a42cb72536bed9523d24d5d38b10a2cf0ff251772199f345399b18af229"
+    },
+    {
+      "file": "sounds/senren_mc/rok001_099.ogg",
+      "type": "audio",
+      "seconds": 6.8976041666666665,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "104cc7e7b7dbcf51211cafbcae9ebdc69121958691a040a1566bdf5fced50327"
+    },
+    {
+      "file": "sounds/senren_mc/uts001_001.ogg",
+      "type": "audio",
+      "seconds": 1.1194583333333334,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "c2e2755871ef9997ee2785e19b600fd5132cf0b4c821f6b444ad15c8b1ee33b4"
+    },
+    {
+      "file": "sounds/senren_mc/uts001_002.ogg",
+      "type": "audio",
+      "seconds": 3.2836458333333334,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "708e5db410fc3fdf3d9d414ac367fd6270f65ca3edae0b8596a8dbdcf712d20e"
+    },
+    {
+      "file": "sounds/senren_mc/uts001_003.ogg",
+      "type": "audio",
+      "seconds": 5.187,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "8925936f8546a9204c2c92e5112bcae565273b1a582a27dea3f7851900badce1"
+    },
+    {
+      "file": "sounds/senren_mc/uts001_004.ogg",
+      "type": "audio",
+      "seconds": 4.384854166666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "026d1e236e686a6a895a196611dca945f7b589a31ac208037960ab4475c8b4c1"
+    },
+    {
+      "file": "sounds/senren_mc/uts001_005.ogg",
+      "type": "audio",
+      "seconds": 1.9774791666666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "2185969716dc9e30e9903df941f00133c7250f76fe8af35106164c539c9a4076"
+    },
+    {
+      "file": "sounds/senren_mc/uts001_006.ogg",
+      "type": "audio",
+      "seconds": 1.3611458333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "b77dcd38ead1954547a96f07460ce6da4dc45c8d7d227126f8882885baa3ffae"
+    },
+    {
+      "file": "sounds/senren_mc/uts001_007.ogg",
+      "type": "audio",
+      "seconds": 7.2757708333333335,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "5697f3bc2506b776a95fb7acd4bdf9445efa1980be250f587c39b095f432025d"
+    },
+    {
+      "file": "sounds/senren_mc/uts001_007_ref.ogg",
+      "type": "audio",
+      "seconds": 7.4464375,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "e2eb301ee5f374cf6b2b7c75c1c235728a31dd15adae60b8a39342234c87a3b7"
+    },
+    {
+      "file": "sounds/senren_mc/yas001_001.ogg",
+      "type": "audio",
+      "seconds": 7.552645833333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "7717c8842c6cd6c7ddd59123955eea82c1e57b916302ca5b53db8a2d820e1b50"
+    },
+    {
+      "file": "sounds/senren_mc/yas001_002.ogg",
+      "type": "audio",
+      "seconds": 5.591125,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "f6e8264e1e1a34a9d667dfccd12d7c2c5f45647adaf1d3831bcfe45c2bb6e4cb"
+    },
+    {
+      "file": "sounds/senren_mc/yas001_003.ogg",
+      "type": "audio",
+      "seconds": 7.943708333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "45eb724e0d60d85d851f8e9e653ca0ddbf9f8a5c6e47ea8fb9bd37a9c7f57891"
+    },
+    {
+      "file": "sounds/senren_mc/yas001_004.ogg",
+      "type": "audio",
+      "seconds": 2.3516041666666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "63657689157c2aa925d1e88b33588341228e61f75f9db4ebe3c064d4953c50c9"
+    },
+    {
+      "file": "sounds/senren_mc/yas001_005.ogg",
+      "type": "audio",
+      "seconds": 1.75675,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "e076bed08a92cd400428298074fef048d2735c833a1eb1d3a286090083837669"
+    },
+    {
+      "file": "sounds/senren_mc/yas001_006.ogg",
+      "type": "audio",
+      "seconds": 6.3320625,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "92515e84d8ef338c12f380663adf94f8f3389e97f253b785b9dbe52e35c5b4e1"
+    },
+    {
+      "file": "sounds/senren_mc/yas001_007.ogg",
+      "type": "audio",
+      "seconds": 2.5001875,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "0a83f082b5dd79b400c9c7e6c7252a9bacf006e351417745402e9d78c8f1ec68"
+    },
+    {
+      "file": "sounds/senren_mc/yas001_008.ogg",
+      "type": "audio",
+      "seconds": 3.0259791666666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "92565c704543afe310bbb2ed25492d5ad2358e44d0830ffb8638647aeb37879e"
+    },
+    {
+      "file": "sounds/senren_mc/yas001_009.ogg",
+      "type": "audio",
+      "seconds": 4.273729166666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "8d0f987bf78c8afd148a82b4809a3b8d149959e911086b96438fadea5c1b427e"
+    },
+    {
+      "file": "sounds/senren_mc/yas001_010.ogg",
+      "type": "audio",
+      "seconds": 8.739083333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "4530140bb3701912ad9d108a53330ad9a989148e009745f6aeefb501248fc6bc"
+    },
+    {
+      "file": "sounds/senren_mc/yas001_011.ogg",
+      "type": "audio",
+      "seconds": 2.3120208333333334,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "7c116d78918cddd19f3ec9cbcb2064280603740f4a7236ac67651f1d3413b514"
+    },
+    {
+      "file": "sounds/senren_mc/yas001_012.ogg",
+      "type": "audio",
+      "seconds": 3.0514375,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "eddb3526e26f48f31c3eade3d61174ef2e3bb6cc8f5e21dd44d04a98f419c699"
+    },
+    {
+      "file": "sounds/senren_mc/yas001_013.ogg",
+      "type": "audio",
+      "seconds": 5.6558125,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "bda10946d8fedbca5937b8e91ab80f2e2c0cf165e5c42252f300446675d33337"
+    },
+    {
+      "file": "sounds/senren_mc/yas001_014.ogg",
+      "type": "audio",
+      "seconds": 1.3115208333333332,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "34395e58f94b1e0c7aeabeb274120f110d7a87707ff82ddad04a6442dac00ab2"
+    },
+    {
+      "file": "sounds/senren_mc/yas001_015.ogg",
+      "type": "audio",
+      "seconds": 1.1641875,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "479e73d95969ccd6b82e3a64849db084e9e8b050f1c093d5c8c0386f0f8b0826"
+    },
+    {
+      "file": "sounds/senren_mc/yas001_016.ogg",
+      "type": "audio",
+      "seconds": 0.49164583333333334,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "a3fce59a109859bae72c27141c75767f63af7ae0dcddff172072d4fbcb0ef116"
+    },
+    {
+      "file": "sounds/senren_mc/yas001_017.ogg",
+      "type": "audio",
+      "seconds": 5.114583333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "3aebdc71f26c00571dac76defd511f9f50182f3815445a759dd7b1d1a80ada3f"
+    },
+    {
+      "file": "sounds/senren_mc/yas001_018.ogg",
+      "type": "audio",
+      "seconds": 7.0129375,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "9046ebbd3ddb8100a1c1092236e5cf14b57e4055c99afcb9446c063436c797a8"
+    },
+    {
+      "file": "sounds/senren_mc/yas001_019.ogg",
+      "type": "audio",
+      "seconds": 4.211229166666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "3b8df21561ec930784ae0c08cc34c6ff3450574b0d9da47646e8d625e7ccdc0b"
+    },
+    {
+      "file": "sounds/senren_mc/yas001_020.ogg",
+      "type": "audio",
+      "seconds": 2.1774791666666666,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "00a3d9d6b937395ebc6e8473c03c2f603a4365760b35f9a3c0dee578bd17ad78"
+    },
+    {
+      "file": "sounds/senren_mc/yas001_021.ogg",
+      "type": "audio",
+      "seconds": 4.598625,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "f53118c3d3ed61dd3ff25b791f524aee4b5693a1b32ef1fb56600dcd6575899c"
+    },
+    {
+      "file": "sounds/senren_mc/yos001_001.ogg",
+      "type": "audio",
+      "seconds": 3.0421666666666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "d99c86e283bf2930f0e982f3a55ad4f4843d2ff190771a890102c7d2159e3108"
+    },
+    {
+      "file": "sounds/senren_mc/yos001_002.ogg",
+      "type": "audio",
+      "seconds": 4.199875,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "0d31365e77d00112d8281dc946740e22e184f666fc7810f4aa485baebf6ab408"
+    },
+    {
+      "file": "sounds/senren_mc/yos001_003.ogg",
+      "type": "audio",
+      "seconds": 1.28875,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "b9d78c360d46dc39f600226a01ff3b2c1d131ea55f47df429b15376b5150870b"
+    },
+    {
+      "file": "sounds/senren_mc/yos001_004.ogg",
+      "type": "audio",
+      "seconds": 2.3518541666666666,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "03a2108df0b702b069867ab05e127728c61bebcd264d6b426621c624d123a27a"
+    },
+    {
+      "file": "sounds/senren_mc/yos001_005.ogg",
+      "type": "audio",
+      "seconds": 2.318,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "b5d19d9db2e8f1cfb50555e5dd2b11f68578aa185aab9eb93af8aef2e0e2b4b1"
+    },
+    {
+      "file": "sounds/senren_mc/yos001_006.ogg",
+      "type": "audio",
+      "seconds": 3.2616875,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "aed62315801bfe4a5934e3042a47ed7efe4439533d0d954203b3ab7bc428eec2"
+    },
+    {
+      "file": "sounds/senren_mc/yos001_007.ogg",
+      "type": "audio",
+      "seconds": 1.1036041666666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "93802402a9a48b8e0749d60c03dc48a3264f6d2de4aa6c1619aee425d77794a6"
+    },
+    {
+      "file": "sounds/senren_mc/yos001_008.ogg",
+      "type": "audio",
+      "seconds": 2.763520833333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "ddc411573d8eab5d58d7f88cd0c2a5b4e2ea16f43af35723df65c57dd59b3ce6"
+    },
+    {
+      "file": "sounds/senren_mc/yos001_009.ogg",
+      "type": "audio",
+      "seconds": 3.672083333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "ec1190a2d1de117760f89a5c16f481aac6741665dabb63056cd7e1ac31db1ea2"
+    },
+    {
+      "file": "sounds/senren_mc/yos001_010.ogg",
+      "type": "audio",
+      "seconds": 1.245125,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "37b23094be536efa4b10968ed700876b312dce5fc1f4767d9adb12a22ad8bb32"
+    },
+    {
+      "file": "sounds/senren_mc/yos001_011.ogg",
+      "type": "audio",
+      "seconds": 2.3643125,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "19115cabed52acd3a582634e8230287cd99d8a99e4b562e52d7b455466bb163d"
+    },
+    {
+      "file": "sounds/senren_mc/yos001_012.ogg",
+      "type": "audio",
+      "seconds": 3.396541666666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "43d277df19ad5c7565e817954b11397aa5d9adadadcb96c33226b3a04a956ff0"
+    },
+    {
+      "file": "sounds/senren_mc/yos001_013.ogg",
+      "type": "audio",
+      "seconds": 1.761875,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "c0a51066d88395de7217cbc5d3fb20bfcd07acc96b6553b34f065d47faac58b7"
+    },
+    {
+      "file": "sounds/senren_mc/yos001_014.ogg",
+      "type": "audio",
+      "seconds": 0.9051458333333333,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "faf20a06d1b33bdea8f383f43a284eb549368e9ceccfd4fc388b2e73e81e7746"
+    },
+    {
+      "file": "sounds/senren_mc/yos001_015.ogg",
+      "type": "audio",
+      "seconds": 0.9377291666666666,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "4f6d80374123b8058311655d80cb14b91adbb6e01c41877f6c17d3bf8d698619"
+    },
+    {
+      "file": "sounds/senren_mc/yos001_016.ogg",
+      "type": "audio",
+      "seconds": 2.185979166666667,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "ca0420232421b235127c569efc8c654c236e9284086cf807f8428f704c32a0cc"
+    },
+    {
+      "file": "sounds/senren_mc/yos001_017.ogg",
+      "type": "audio",
+      "seconds": 4.755625,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "9275c0f6adbbb0fa391ef42156038200857a3f1c5ead87c8541eeed1de134b55"
+    },
+    {
+      "file": "sounds/senren_mc/yos001_018.ogg",
+      "type": "audio",
+      "seconds": 3.991625,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "7d483e580e7e40b499574e3bc1271c6b789d9aa95499a8c787347224f044f1de"
+    },
+    {
+      "file": "sounds/senren_mc/yos001_019.ogg",
+      "type": "audio",
+      "seconds": 1.5037291666666666,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "b131d679d560c3fe41078dc4969d5b759fb06d5f65623b6fd9dd32c518230097"
+    },
+    {
+      "file": "sounds/senren_mc/yos001_020.ogg",
+      "type": "audio",
+      "seconds": 1.1194583333333334,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "b11c04f34671206770c47b86b482d233b0c29c2861a81d263a8f56b696ad251b"
+    },
+    {
+      "file": "sounds/senren_mc/yos001_021.ogg",
+      "type": "audio",
+      "seconds": 2.0371875,
+      "channels": 1,
+      "subtype": "VORBIS",
+      "sha256": "ac4595e28c98b1b4c42ef8ed1506a948f4ceb8f6ad54eb0843d9c62c6f6be9c8"
+    }
+  ]
+}

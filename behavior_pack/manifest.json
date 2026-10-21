@@ -1,0 +1,39 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "千恋＊万花 · 1-1 亚瑟王 行为包",
+    "description": "完整 1-1：归乡、拔刀、丛雨与求婚；任意进度选择",
+    "uuid": "585deea6-c3d4-5613-9f02-fb40dc01b327",
+    "version": [
+      0,
+      1,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "83d1baa9-13eb-558d-9360-68943466638f",
+      "version": [
+        0,
+        1,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "42c5a696-c15f-5081-9d19-ee23437575a4",
+      "version": [
+        0,
+        1,
+        0
+      ]
+    }
+  ]
+}
